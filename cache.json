@@ -1,440 +1,547 @@
 {
   "sources": [
     {
-      "href": "https://css-tricks.com/feed/",
+      "href": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
       "articles": [
         {
-          "description": "This is a tremendous CSS-focused tutorial from Adam Argyle. I really like the &#8220;just for gap&#8221; concept here. Grid is extremely powerful, but you don&#8217;t have to use all its abilities every time you reach for it. Here, Adam &#8230;\nThe post Building a Settings Component appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/building-a-sidenav-component/",
-          "publishedOn": "2021-04-14T21:08:24.000Z",
-          "wordCount": 1188,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Building a Settings Component"
+          "description": "&copy; ICE\r\n| The last known picture of Rudy Kurniawan before he was loaded onto a plane bound for Indonesia.\nAfter months of uncertainty, wine's most famous counterfeiter is thrown out of the United States.\nBy W. Blake Gray | Posted Thursday, 15-Apr-2021\n\r\nConvicted wine forger Rudy Kurniawan has finally been deported from the US, six months after completing his federal prison sentence.\nKurniawan's deportation happened last week; it was only officially announced by US Immigrations and Customs Enforcement (…",
+          "link": "https://www.wine-searcher.com/m/2021/04/gone-rudy-gone-wine-fraud-deported",
+          "publishedOn": "2021-04-15T03:20:12.000Z",
+          "wordCount": null,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Gone Rudy, Gone: Wine Fraud Deported"
         },
         {
-          "description": "I‘m not sure how this one came about. But, it‘s a story. This article is more about grokking a concept, one that’s going to help you think about your animations in a different way. It so happens that this particular &#8230;\nThe post Going “Meta GSAP”: The Quest for “Perfect” Infinite Scrolling appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/going-meta-gsap-the-quest-for-perfect-infinite-scrolling/",
-          "publishedOn": "2021-04-14T14:28:33.000Z",
-          "wordCount": 4160,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Going “Meta GSAP”: The Quest for “Perfect” Infinite Scrolling"
+          "description": "Though we like to be very much up to date with the latest gadgets and trends in life from mobile phones to fashion, many of us will be rather attracted to those vintage items from classic cars to vinyl records. I&rsquo;m sure that at some point or another we collected items in a subject that involved the words aged or vintage or collectable or rare and we were seeking out first or limited editions. Who had a stamp or coin collection, enjoying seeking out Pok&eacute;mon cards or pin badges, maybe vintage han…",
+          "link": "https://glassofbubbly.com/where-can-i-find-vintage-champagne/",
+          "publishedOn": "2021-04-14T23:56:42.000Z",
+          "wordCount": 1181,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Where can I find Vintage Champagne?"
         },
         {
-          "description": "This Robin Sloan fella is an interesting character. Not only have I read his one of his fiction novels, the tremendous Mr. Penumbra’s 24‑Hour Bookstore, but I also use the olive oil he makes with partner Kathryn Tomajan. &#8230;\nThe post Cloud study appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://society.robinsloan.com/archive/cloud-study/",
-          "publishedOn": "2021-04-13T22:49:41.000Z",
-          "wordCount": 791,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Cloud study"
+          "description": "",
+          "link": "https://www.vinous.com/articles/vino-nobile-carmignano-italy-s-forgotten-noble-reds-apr-2021",
+          "publishedOn": "2021-04-14T23:54:19.000Z",
+          "wordCount": 2576,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Vino Nobile & Carmignano: Italy’s Forgotten Noble Reds"
         },
         {
-          "description": "I think it&#8217;s fair to think of Netlify as a CDN-backed static file host. But it would also be silly to think that&#8217;s all it is. That&#8217;s why I think it&#8217;s smart for them to have pages like this, comparing &#8230;\nThe post Why Netlify? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/why-netlify/",
-          "publishedOn": "2021-04-13T22:48:59.000Z",
-          "wordCount": 407,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Why Netlify?"
+          "description": "The United Nations predicts that by 2050 many areas of the planet may not have enough fresh water to meet the demands of agriculture if we continue our current patterns of use. One solution to this global dilemma is the development of more efficient irrigation, central to which is precision monitoring of soil moisture, allowing sensors to guide 'smart' irrigation systems to ensure water is applied at the optimum time and rate.\n Current methods for sensing soil moisture are problematic -- buried sensors are …",
+          "link": "https://www.infowine.com/en/news/standard_digital_camera_and_ai_to_monitor_soil_moisture_for_affordable_smart_irrigation_sc_19360.htm#new_tab",
+          "publishedOn": "2021-04-14T23:50:03.000Z",
+          "wordCount": 899,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Standard digital camera and AI to monitor soil moisture for affordable smart irrigation"
         },
         {
-          "description": "One of the ways you can classify a programming language is by how strongly or weakly typed it is. Here, “typed” means if variables are known at compile time. An example of this would be a scenario where an integer &#8230;\nThe post CSS is a Strongly Typed Language appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-is-a-strongly-typed-language/",
-          "publishedOn": "2021-04-13T14:22:04.000Z",
-          "wordCount": 2688,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "CSS is a Strongly Typed Language"
+          "description": "&#20197;&#23041;&#22763;&#24524;&#20026;&#28789;&#39746;&#65292;&#20026;&#24180;&#36731;&#28040;&#36153;&#32773;&#25171;&#36896;&#20302;&#24230;&#37202;&#30021;&#39278;&#26041;&#26696;&#12290; \n \n&#36817;&#26085;&#65292;&#33268;&#21147;&#20110;&#20026;&#20013;&#22269;&#24180;&#36731;&#28040;&#36153;&#32676;&#20307;&#25171;&#36896;&#23041;&#22763;&#24524;&#21697;&#29260;&#30340;&#21019;&#26032;&#22411;&#20844;&#21496;&mdash;&mdash;&#12304;&#21709;&#26479;&#12305;&#65292;&#23459;&#24067;&#23436;&#25104;&#2596…",
+          "link": "https://www.xfz.cn/post/10105.html",
+          "publishedOn": "2021-04-14T23:46:36.000Z",
+          "wordCount": 101,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "「响杯」宣布完成数千万融资"
         },
         {
-          "description": "Let’s look at the Fullscreen API in JavaScript. It allows you to do a pretty powerful thing: full screening exactly one particular element you want it to. Not only that, but CSS can help as well with a special selector.&#8230;\nThe post How to Leverage the Fullscreen API… and Style It appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-leverage-the-fullscreen-api-and-style-it/",
-          "publishedOn": "2021-04-12T14:42:40.000Z",
-          "wordCount": 1354,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Leverage the Fullscreen API… and Style It"
+          "description": "For 25 years, rapper Jay-Z shaped Champagne culture and commerce in the U.S. On his 1996 single, &ldquo;22 Twos,&rdquo; off his debut album, Reasonable Doubt, host Maria Davis tells the young rapper to &ldquo;put that Champagne down and kick a little freestyle.&rdquo; In the years since, he&rsquo;s only ever heeded the second part.\nOf course, Jay-Z wasn&rsquo;t drinking alone. Historians believe Harlem emcee Branson B. introduced Champagne to 1990s hip hop parties, and Dom Perignon and Mo&euml;t &amp; Chand…",
+          "link": "https://www.winemag.com/2021/04/12/jay-z-champagne-ace-spades/",
+          "publishedOn": "2021-04-14T23:43:06.000Z",
+          "wordCount": 1304,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Fine Wine and Vintage Flows: How Jay-Z Changed Champagne Culture"
         },
         {
-          "description": "Get it? Because this blog post is about Around, the wonderful new video call software. I&#8217;ve been using it for my video calls and I&#8217;d be happy to deliver you a TLDR right off the bat: It&#8217;s nice. It &#8230;\nThe post See You Around appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/see-you-around/",
-          "publishedOn": "2021-04-12T13:19:00.000Z",
-          "wordCount": 1219,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "See You Around"
+          "description": "Jacopo Salvi  \nWhat makes a wine region singular? While there are as many ways to answer this as there are regions in which to grow wine, for me it was special varieties like Heida that opened the doors to the wine universe of Switzerland&rsquo;s southwestern region of Valais. Some 15,000 hectares of vines are cultivated in Switzerland. With 5,200 hectares of its own, one in three bottles of Swiss wine comes from Valais, the largest wine-growing canton in the country &mdash; and a star in all things autocht…",
+          "link": "https://trinkmag.com/articles/heida-pearl-of-the-alps",
+          "publishedOn": "2021-04-14T23:42:49.000Z",
+          "wordCount": 1738,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Heida: Pearl of the Alps"
         },
         {
-          "description": "If you’re building a WordPress site, you need a good reason not to choose a WordPress form plugin. They are convenient and offer plenty of customizations that would take a ton of effort to build from scratch. They render the &#8230;\nThe post Headless Form Submission With the WordPress REST API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/headless-form-submission-with-the-wordpress-rest-api/",
-          "publishedOn": "2021-04-09T13:20:35.000Z",
-          "wordCount": 2442,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Headless Form Submission With the WordPress REST API"
+          "description": "Learn more about Wine E-commerce Reports &amp; Insights\nThe post E-commerce for wine is a mainstream channel for Chinese wine drinkers and is becoming a meaningful channel in other key markets appeared first on Wine Intelligence.",
+          "link": "https://www.wineintelligence.com/e-commerce-for-wine-is-a-mainstream-channel-for-chinese-wine-drinkers-and-is-becoming-a-meaningful-channel-in-other-key-markets/",
+          "publishedOn": "2021-04-14T09:15:41.000Z",
+          "wordCount": 891,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "E-commerce for wine is a mainstream channel for Chinese wine drinkers and is becoming a meaningful channel in other key markets"
         },
         {
-          "description": "I didn&#8217;t know this was a thing until Stefan Judis&#8217;s post: \n&#60;a href=\"https://www.stefanjudis.com/popular-posts/\" \n   ping=\"https://www.stefanjudis.com/tracking/\"Read popular posts&#60;/a\nYou give an anchor link a URL via a ping attribute, and the browser will hit that URL with a web request &#8230;\nThe post The `ping` attribute on anchor links appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.stefanjudis.com/today-i-learned/html-defines-a-ping-attribute-on-anchor-elements-links/",
-          "publishedOn": "2021-04-08T17:31:16.000Z",
-          "wordCount": 652,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "The `ping` attribute on anchor links"
+          "description": "What&rsquo;s the word for the stretch of wet sand on a beach, revealed as the wave ebbs, just before the sun dries it? That piece of unmarked land, that drenched sheet, stretched like pastry by the rolling pin wave. We beach walkers try our best to own it. We make it ours briefly with barefoot prints, dog paws and the dragging pull of a child&rsquo;s spade and bucket. Yet almost as soon as our mark is made, the wave, like an Etch a Sketch, erases. Is its sole purpose to remind us of our ultimate insignifica…",
+          "link": "https://timatkin.com/vintionary/",
+          "publishedOn": "2021-04-14T07:14:03.000Z",
+          "wordCount": 1374,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Vintionary"
         },
         {
-          "description": "A bunch of new developer tools have landed in the past year and they are biting at the heels of the tools that have dominated front-end development over the last few years, including webpack, Babel, Rollup, Parcel, create-react-app.\nThese new &#8230;\nThe post Comparing the New Generation of Build Tools appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/comparing-the-new-generation-of-build-tools/",
-          "publishedOn": "2021-04-08T13:20:50.000Z",
-          "wordCount": 7146,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Comparing the New Generation of Build Tools"
+          "description": "As Italian wine grape growers assess the damage from last week&rsquo;s late spring freeze, when temperatures from Tuscany northward dipped below 20&deg; F., the prospects of a bountiful 2021 harvest grow even more dim, with even Sardinia hit by the cold snap. Source: Do Bianchi\n\nThe post &ldquo;Frost even in Sardinia.&rdquo; appeared first on Winetitles.",
+          "link": "https://dobianchi.com/2021/04/12/climate-change-wine-global-warming/#new_tab",
+          "publishedOn": "2021-04-14T02:10:39.000Z",
+          "wordCount": 1267,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "“Frost even in Sardinia.”"
         },
         {
-          "description": "You&#8217;ve seen the iconic image. Perhaps some of what makes that image so iconic is that people see what they want to see in it. If you see it as a critique of CSS being silly, weird, or confusing, you &#8230;\nThe post CSS Is, In Fact, Awesome appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/",
-          "publishedOn": "2021-04-07T20:41:57.000Z",
-          "wordCount": 778,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "CSS Is, In Fact, Awesome"
+          "description": "Franciacorta has officially obtained a trademarked Chinese name. We talk to President of the Franciacorta Consorzio, Silvano Brescianini to understand the selection process and the meaning behind the name. \nThe post Franciacorta gets a Chinese name appeared first on Vino Joy News.",
+          "link": "https://vino-joy.com/2021/04/14/franciacorta-gets-a-chinese-name/",
+          "publishedOn": "2021-04-14T02:06:43.000Z",
+          "wordCount": 1620,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Franciacorta gets a Chinese name"
         },
         {
-          "description": "Rich Harris:\nThink of it as&#160;Next&#160;for Svelte. It&#8217;s a framework for building apps with Svelte, complete with server-side rendering, routing, code-splitting for JS and CSS, adapters for different serverless platforms and so on.\nGreat move. I find &#8230;\nThe post SvelteKit is in public beta appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://svelte.dev/blog/sveltekit-beta",
-          "publishedOn": "2021-04-07T15:02:30.000Z",
-          "wordCount": 837,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "SvelteKit is in public beta"
+          "description": "Quite the opposite to the zesty and zingy style will be the &lsquo;creamy&rsquo; description for sparkling wines, the more relaxing glass of bubbly, the take your time over to enjoy example which does call of the winemaker that little bit more effort and patience to achieve&hellip;\nSparkling wines are ever so expressive in aromas and flavours, you can list countless descriptives to include those taking you back to childhood memories so when opening a bottle of fizz and serving it will delight your senses. S…",
+          "link": "https://glassofbubbly.com/creamy-levels-in-sparkling-wines/",
+          "publishedOn": "2021-04-14T00:26:58.000Z",
+          "wordCount": 1197,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Creamy Levels in Sparkling Wines"
         },
         {
-          "description": "This post is an introduction to XState as it might be used in a Svelte project. XState is unique in the JavaScript ecosystem. It won’t keep your DOM synced with your application state, but it will help manage your application’s &#8230;\nThe post Coordinating Svelte Animations With XState appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/coordinating-svelte-animations-with-xstate/",
-          "publishedOn": "2021-04-07T13:09:41.000Z",
-          "wordCount": 3083,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Coordinating Svelte Animations With XState"
+          "description": "The New Sotheby&rsquo;s Wine Encyclopedia is now out in a brand new 6th Edition. &nbsp;It&rsquo;s a privilege to review this mighty tome, as I recall using the 3rd Edition of 2001 for WSET Diploma exams. Twenty years on, that book, though still in use, has inevitably become out of date. &nbsp;Revisions mean this new edition is entirely contemporary and so most welcome.\nWhile previous editions were solely by Tom Stevenson, the world of wine has grown too big, complex and fast-moving for anyone to master. Hen…",
+          "link": "https://www.winealchemy.co.uk/new-sothebys-wine-encyclopedia-book-review/",
+          "publishedOn": "2021-04-14T00:23:49.000Z",
+          "wordCount": 1596,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "New Sotheby&#039;s Wine Encyclopedia - Book Review - Wine Alchemy"
         },
         {
-          "description": "I&#8217;m going to try to show you some things I think are useful and important about axe&#x2122; DevTools and use as few words as possible. \naxe DevTools includes a browser extension which you need no special expertise to use.\nYou &#8230;\nThe post axe DevTools Pro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/axe-devtools-pro/",
-          "publishedOn": "2021-04-07T13:08:57.000Z",
-          "wordCount": 604,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "axe DevTools Pro"
+          "description": "The state of ignorance and innocence, receptiveness, and a combination of unlikely natural circumstances that may trigger a spiritual/poetic realisation.\nA real artist is the one who has learned to recognize and to render&hellip; the &lsquo;radiance&rsquo; of all things as an epiphany or showing forth of the truth ~&nbsp;Joseph Campbell\nWhen we think of the epiphany we think of the new insight as a detonation, or revelation, scales literally falling from one&rsquo;s eyes. Revelation comes with context and r…",
+          "link": "http://blog.lescaves.co.uk/2021/04/13/the-long-read-immersion-the-luminous-the-numinous/",
+          "publishedOn": "2021-04-14T00:18:11.000Z",
+          "wordCount": 3648,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "The Long Read: Immersion, The Luminous &amp; The Numinous"
         },
         {
-          "description": "It&#8217;s certainly worth noting that the Space Jam website, which made its way into umpteen conference talks for being fabulous evidence of the web&#8217;s strength in backward compatibility, has been replaced. We could have saw that coming. Everything is &#8230;\nThe post Space Jam appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://mxb.dev/blog/space-jam/",
-          "publishedOn": "2021-04-06T20:57:42.000Z",
-          "wordCount": 1847,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Space Jam"
-        }
-      ]
-    },
-    {
-      "href": "https://www.smashingmagazine.com/feed/",
-      "articles": [
-        {
-          "description": "In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.",
-          "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
-          "publishedOn": "2021-04-14T11:00:00.000Z",
-          "wordCount": 1916,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Overflow Issues In CSS"
+          "description": "Wine Wars 2011: the first books arrive.\n\nAs I explained in last week&rsquo;s Wine Economist column, this is the tenth anniversary of the publication of my first book on the wine business,&nbsp;Wine Wars. Although the catchy title (suggested by the smart marketing people at Rowman &amp; Littlefield) gets your attention, it is the long subtitle that outlines the book&rsquo;s argument. This is a story of &ldquo;the Curse of the Blue Nun, the Miracle of Two Buck Chuck, and the Revenge of the Terroirists.&rdquo;…",
+          "link": "https://wineeconomist.com/2021/04/13/curses/",
+          "publishedOn": "2021-04-13T09:01:10.000Z",
+          "wordCount": 2564,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Wine Wars: Curses, Miracles, and Revenge"
         },
         {
-          "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
-          "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-          "publishedOn": "2021-04-13T14:00:00.000Z",
-          "wordCount": 3155,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
+          "description": "Choose your subscription\n\t\t\t\nTry full digital access and see why over 1 million readers subscribe to the FT\nFor 4 weeks receive unlimited Premium digital access to the FT's trusted, award-winning business news\nRead more\nBe informed with the essential\nnews and opinion\nMyFT &ndash; track the topics most important to you\nFT Weekend &ndash; full access to the weekend content\nMobile &amp; Tablet Apps &ndash; download to read on the go\nGift Article &ndash; share up to 10 articles a month with family, friends and …",
+          "link": "https://www.ft.com/content/95d9ccdf-9ea8-4b02-bc83-0818525ebfd5",
+          "publishedOn": "2021-04-13T05:07:56.000Z",
+          "wordCount": 972,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Old vines give rise to classic wines"
         },
         {
-          "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
-          "publishedOn": "2021-04-12T12:30:00.000Z",
-          "wordCount": 2960,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Complete Guide To HTML Email"
+          "description": "Europe|French Wine Production Ravaged by a Devastating Frost\n\nhttps://www.nytimes.com/2021/04/12/world/europe/france-wine-frost.html\n\n\nFrance&rsquo;s winegrowers had already been hit by higher U.S. taxes and the pandemic. Now they are dealing with a &ldquo;violent&rdquo; cold snap.\n\n\n\nA winegrower, Pierre-Marie Luneau, checks the vine buds at a vineyard in Le Landreau, near Nantes, France, on Monday.Credit...Sebastien Salom-Gomis/Agence France-Presse &mdash; Getty Images\n\n\n\n\nApril 12, 2021\n\n\nPARIS &mdash; A…",
+          "link": "https://www.nytimes.com/2021/04/12/world/europe/france-wine-frost.html",
+          "publishedOn": "2021-04-13T04:55:39.000Z",
+          "wordCount": 747,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "French Wine Production Ravaged by a Devastating Frost"
         },
         {
-          "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
-          "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
-          "publishedOn": "2021-04-09T19:30:00.000Z",
-          "wordCount": 5989,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
+          "description": "Winemakers in France are assessing the damage to their vines after being hit by some of the most severe spring frosts to have occurred in the country in decades.\n\nAs reported by The Guardian, the French government has declared the incident an &ldquo;agricultural disaster&rdquo; and is preparing to offer financial support to grape growers after harvest-threatening frosts hit vineyards across the country.\nLast week France experienced several nights of sub-zero temperatures across several thousand hectares of …",
+          "link": "https://www.thedrinksbusiness.com/2021/04/french-vineyards-hit-by-worst-frost-in-decades/",
+          "publishedOn": "2021-04-13T04:37:01.000Z",
+          "wordCount": 939,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "French vineyards hit by ‘worst frost in decades’ - The Drinks Business"
         },
         {
-          "description": "Have you ever struggled to get the green light on your design proposals? Do you feel like your design process needs to be formalized? Is the COVID19 era becoming a challenge for you when working remotely as a designer? Then keep reading to get to know a methodology to document your design process in this article.",
-          "link": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
-          "publishedOn": "2021-04-08T11:00:00.000Z",
-          "wordCount": 1859,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Better Documentation And Team Communication With Product Design Docs"
+          "description": "Getty Images\n      \n    \n  \n\n\n    \nBecause drinking what you like shouldn&rsquo;t be hard\n\n  \n    \n    \n\n\n    \n\n      \n\n\n\n    \n\n\n\n\n\n\n  \nOn any given night in the pre-pandemic days, there was a four-top at a restaurant with a small-share-plates-so-order-several-items-and-I&rsquo;ll-course-it-out-for-you type of menu, and, inevitably, someone in the group would want the sommelier to recommend a wine to pair. \nMany times that sommelier was (or is) me, and often in that moment, I&rsquo;ve hesitated. You want to…",
+          "link": "https://www.eater.com/22361025/how-to-pair-food-with-wine-new-rules-of-pairing",
+          "publishedOn": "2021-04-13T04:36:27.000Z",
+          "wordCount": 1533,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "It’s Time to Forget the Old Rules of Wine Pairing"
         },
         {
-          "description": "Unreliable tests are a living nightmare for anyone who writes automated tests or pays attention to the results. Flaky tests have even given folks nightmares and sleepless nights. In this article, Ramona Schwering shares her experiences to help you get out of this hell or avoid getting into it.",
-          "link": "https://smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
-          "publishedOn": "2021-04-07T11:00:00.000Z",
-          "wordCount": 4050,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing"
+          "description": "Giovanni Bigot may be on to something.\nThis 48-year-old agronomist and researcher from northeastern Italy&rsquo;s Friuli region has developed an intriguing 100-point scale for measuring the potential of vineyards to produce great and unique wines.\nIn other words, he&rsquo;s scoring terroir&mdash;overlaid with vineyard practices and the overall health of the grapes.\nThat&rsquo;s a tall order, to say the least. So I was skeptical.\nBut Bigot&rsquo;s system is more than a gimmick with an app (though there is on…",
+          "link": "https://www.winespectator.com/articles/terroir-on-a-100-point-scale-can-great-vineyards-be-measured",
+          "publishedOn": "2021-04-13T04:31:52.000Z",
+          "wordCount": 1694,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Terroir on a 100-Point Scale: Can Great Vineyards Be Measured?"
         },
         {
-          "description": "With many options comes many decisions, and it is easy to drown in all the many benefits of  headless CMS. How do we approach evaluating these options? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/evaluating-headless/",
-          "publishedOn": "2021-04-06T16:10:00.000Z",
-          "wordCount": 4083,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Don’t Lose Your Head: Evaluating Headless"
+          "description": "&copy; ABC\r\n| Windsor mayor Dominic Foppoli is under increasing pressure to resign after a series of sexual assault allegations.\nThere are growing calls for action over allegations of sexual assault by a wine country politician.\nBy W. Blake Gray | Posted Tuesday, 13-Apr-2021\n\r\nSonoma County is in uproar after a San Francisco Chronicle story last week about women accusing the mayor of Windsor, whose family owns Christopher Creek winery, of sexual assault.\nAfter the lengthy story about Dominic Foppoli appeare…",
+          "link": "https://www.wine-searcher.com/m/2021/04/calls-for-resignation-over-sonoma-sex-claims",
+          "publishedOn": "2021-04-13T03:22:15.000Z",
+          "wordCount": null,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Calls for Resignation over Sonoma Sex Claims"
         },
         {
-          "description": "A guide to vanilla JavaScript code snippets &mdash; with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
-          "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
-          "publishedOn": "2021-04-05T10:30:00.000Z",
-          "wordCount": 2017,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Vanilla JavaScript Code Snippets"
+          "description": "An agricultural product, wine is&#8239;tied to nature, so&#8239;vines are influenced by&nbsp;weather patterns, orientation to the sun and soil hydration.&#8239;And&#8239;vineyards planted near&nbsp;grow&nbsp;and are cultivated differently than those situated inland, away from&nbsp;water.&#8239;&#8239;&nbsp;\nThe&#8239;average consumer&nbsp;may&nbsp;not consider these&#8239;factors&#8239;when choosing or drinking a bottle of wine, but they&#8239;play an important role in what&rsquo;s in your glass.&#8239;&nbs…",
+          "link": "https://www.winemag.com/2021/04/06/coastal-inland-wine-difference/",
+          "publishedOn": "2021-04-13T03:11:09.000Z",
+          "wordCount": 1351,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "The Differences Between Coastal and Inland Wine Regions"
         },
         {
-          "description": "Quick, constant change is a given on the web. It is often one of its greatest strengths. As ever, though, there is a balance to find. Although longevity takes a different form online, its value is immeasurable.",
-          "link": "https://smashingmagazine.com/2021/04/guarding-against-disposable-design/",
-          "publishedOn": "2021-04-02T11:00:00.000Z",
-          "wordCount": 3383,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Guarding Against Disposable Design"
+          "description": "Photo of the Toro Vineyards via dotoro.com\n\nThe Toro DO, located on Spain&rsquo;s Duero River just west of Rueda, has been making wine since pre-Roman times. It is even said that the rich, red wines of the area were a favorite of King Alfonso IX of Le&oacute;n back in the 13th century.\nMost of the wine produced in the Toro DO is based on the Tinta del Toro grape variety&mdash;considered to be a local clone of Tempranillo. This local variant has thicker skins and deeper color than the Tempranillo grapes grow…",
+          "link": "http://winewitandwisdomswe.com/2021/04/12/dispatch-from-the-toro-do/",
+          "publishedOn": "2021-04-12T21:17:40.000Z",
+          "wordCount": 1835,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Dispatch from the Toro DO"
         },
         {
-          "description": "By systemizing the fundamentals of typography and space, and leaning into the inherent fluidity of the web, a free new CSS tool called [Utopia](https://utopia.fyi/) offers an alternative to breakpoint-driven design.",
-          "link": "https://smashingmagazine.com/2021/04/designing-developing-fluid-type-space-scales/",
-          "publishedOn": "2021-04-01T09:44:00.000Z",
-          "wordCount": 2458,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Meet Utopia: Designing And Building With Fluid Type And Space Scales"
+          "description": "Which Ros&eacute;s Will Succeed in a Maturing Market?",
+          "link": "https://daily.sevenfifty.com/which-roses-will-succeed-in-a-maturing-market/",
+          "publishedOn": "2021-04-12T20:10:00.000Z",
+          "wordCount": 3052,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Which Rosés Will Succeed in a Maturing Market?"
         },
         {
-          "description": "Let’s welcome the new month with some fresh wallpapers. Designed with love by artists and designers from across the globe, they are available with and without a calendar for April 2021.",
-          "link": "https://smashingmagazine.com/2021/03/desktop-wallpaper-calendars-april-2021/",
-          "publishedOn": "2021-03-31T10:00:00.000Z",
-          "wordCount": 2036,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "The Small Joys Of April (2021 Wallpapers Edition)"
+          "description": "Proponents of increasing the State of Oregon&rsquo;s alcohol taxes in a comically excessive way are becoming more creative and more faithless in their arguments for increasing the state taxes in an effort to fight alcohol dependency. As a reminder, earlier in the year Oregon State Representatives Tawna Sanchez sponsored House Bill 3296. If passed, the bill would have increased the excise taxes on beer and cider in Oregon from $2.60 per barrel (31 gallons) to $72.60 per barrel. The increase...\nThe post Bad F…",
+          "link": "https://fermentationwineblog.com/2021/04/bad-faith-negotiating-in-oregons-alcohol-debates/",
+          "publishedOn": "2021-04-12T15:56:20.000Z",
+          "wordCount": 2631,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Bad Faith Negotiating in Oregon’s Alcohol Debates"
         },
         {
-          "description": "In this article, Michael Rispoli explains how he evaluated the decision of whether or not to adopt a serverless database for client projects. This decision will focus on three lenses: the functional aspects of the technology, the developer experience, and the business ramifications of adoption.",
-          "link": "https://smashingmagazine.com/2021/03/choosing-new-serverless-database-technology-agency/",
-          "publishedOn": "2021-03-30T10:30:00.000Z",
-          "wordCount": 5734,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Choosing A New Serverless Database Technology At An Agency (Case Study)"
+          "description": "By Alem H., Ojeda H., Rigou P., Sire Y., Schneider R., Torregrosa L.\n Vitis vinifera grape is a\nnon-climacteric fleshy fruit. During grape ripening, the concentrations of\nmetabolites change as a function of the balance between biosynthesis and\nmetabolization and growth-related dilution effects (Bigard et al., 2018 &amp;\n2020). A number of metabolites and inorganic solutes determines the quality of\nthe wine grape, such as sugars, organic anions (i.e. tartaric and malic acids),\ncations (potassium) and seconda…",
+          "link": "https://www.ciencia-e-vinho.com/2021/04/11/the-reduction-of-plant-sink-source-by-cluster-thinning-does-not-systematically-improve-the-composition-of-grape/",
+          "publishedOn": "2021-04-12T08:16:25.000Z",
+          "wordCount": 1268,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "【论文】The reduction of plant sink/source by cluster thinning does not systematically improve the composition of grape"
         },
         {
-          "description": "A complete guide to SVG generators &mdash; for everything from SVG shapes and cropping tools to SVG filters, color matrix mixers and SVG to JSX generators.",
-          "link": "https://smashingmagazine.com/2021/03/svg-generators/",
-          "publishedOn": "2021-03-29T09:54:00.000Z",
-          "wordCount": 3669,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "SVG Generators"
+          "description": "&copy; CalFire\r\n| The Glass fire wreaked havoc in Napa last year.\nLocal government pledges to work with the fire chief and producers to prevent future wildfires\nBy Liza B. Zimmerman | Posted Monday, 12-Apr-2021\n\r\nIn what some think is a much overdue measure, the Napa County Board of Supervisors (BOS) has committed to spend millions over a projected five-year period to prevent fires.\nThe new initiative will focus on decreasing the region's fuel load by creating more fire breaks, among other efforts. The plan…",
+          "link": "https://www.wine-searcher.com/m/2021/04/napa-launches-42m-fire-prevention-plan",
+          "publishedOn": "2021-04-12T03:22:24.000Z",
+          "wordCount": null,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Napa Launches $42m Fire Prevention Plan"
         },
         {
-          "description": "This article presents tactics that can be helpful for those working in organizations that have started engaging in UX, but are still at the lower to middle stages of maturity: knowledge sharing and mentorship.",
-          "link": "https://smashingmagazine.com/2021/03/growing-ux-maturity-in-organizations-part-2/",
-          "publishedOn": "2021-03-26T11:30:00.000Z",
-          "wordCount": 4141,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Growing UX Maturity: Knowledge Sharing And Mentorship (Part 2)"
+          "description": "Last week, I had a look at which countries principally consume wine and which consume more beer (Beer countries and wine countries). One could then ask, as did one of my correspondents (Vicky Corbeels), whether bigger wine-producing countries drink more wine than do countries that produce less.\nSo, let's have another look at the data for 2015, as contained in the Annual Database of Global Wine Markets, compiled by Anderson,&nbsp; Nelgen and Pinilla. Tables 19 (Volume of wine production per capita) and 23 (V…",
+          "link": "https://winegourd.blogspot.com/2021/04/does-wine-production-increase-wine.html",
+          "publishedOn": "2021-04-11T22:30:00.000Z",
+          "wordCount": 1175,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Does wine production increase wine consumption?"
         },
         {
-          "description": "How do we get media performance right while staying within performance budgets? Let’s take a look at the recent stats and data around performance budgets, video playback performance issues and some techniques and tools to address these issues.",
-          "link": "https://smashingmagazine.com/2021/03/boost-media-performance/",
-          "publishedOn": "2021-03-25T13:00:00.000Z",
-          "wordCount": 2052,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "How To Boost Media Performance On A Budget"
+          "description": "&copy; Visit Spain\r\n| The vineyards of Valdepe&ntilde;as might look idyllic, but there is trouble brewing.\nThis week's news roundup finds dodgy dealings in Spain, a new celebrity wine and a very expensive ros&eacute;\n\r\nWhile the attention of the wine world focuses on spring frosts in Europe (with France in particular being hit exceptionally hard (see last Sunday's weekly round-up), other stories this week have included the news of Australian giant McWilliams' sale to Calabria Family wines, and reports of a …",
+          "link": "https://www.wine-searcher.com/m/2021/04/label-investigation-sparks-war-of-words",
+          "publishedOn": "2021-04-11T03:20:48.000Z",
+          "wordCount": null,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Label Investigation Sparks War of Words"
         },
         {
-          "description": "Reactivity is the ability for a variable (array, string, number, object, etc) to update when its value or any other variable that it makes reference to is changed after declaration.",
-          "link": "https://smashingmagazine.com/2021/03/reactivity-in-vue/",
-          "publishedOn": "2021-03-25T10:00:00.000Z",
-          "wordCount": 2275,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Reactivity In Vue"
+          "description": "Everyone&rsquo;s been there. You pull out a bottle of wine for dinner, only to find it&rsquo;s past its prime.\nEven if there&rsquo;s already plenty of cooking wine in the fridge, don&rsquo;t dump that bottle down the kitchen sink. Make vinegar instead.\n&ldquo;Unlike store-bought vinegar, which can have an aggressive or sharp vinegar flavor, homemade vinegar has a softer tang to it and more alternative flavors that step forward,&rdquo; says Toni Dash, a professional writer and blogger at Boulder Locavore.\nHe…",
+          "link": "https://www.winemag.com/2021/04/10/diy-homemade-vinegar-leftover-wine/",
+          "publishedOn": "2021-04-11T01:20:35.000Z",
+          "wordCount": 1653,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "How to Make Vinegar From Expired Wine"
         },
         {
-          "description": "Eleventy (aka 11ty) is rising in the ranks among static site generators. This Node-based builder is attractive due to its zero-config starting point, purely static output, and ease of achieving the coveted top Lighthouse performance score of four perfect 100s. Let’s dive into what else makes it unique, and learn about some essential concepts to help you successfully get started.",
-          "link": "https://smashingmagazine.com/2021/03/eleventy-static-site-generator/",
-          "publishedOn": "2021-03-24T12:20:00.000Z",
-          "wordCount": 4145,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Deep Dive Into Eleventy Static Site Generator"
+          "description": "Privacy Overview \n This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.\n  \n  Strictly Necessary Cookies \n Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.\n  \nIf you disable this co…",
+          "link": "https://www.thedrinksbusiness.com/2021/04/organic-viticulture-almost-impossible-in-champagne/",
+          "publishedOn": "2021-04-11T01:13:32.000Z",
+          "wordCount": 1075,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Organic viticulture ‘almost impossible’ in Champagne"
         },
         {
-          "description": "One of the drivers of the popularity of headless options is that expectations for the quality of user experience are constantly going up. In this article, we explore what headless means, use cases for it, and how to decide if headless is a good fit for you.",
-          "link": "https://smashingmagazine.com/2021/03/going-headless-use-cases/",
-          "publishedOn": "2021-03-23T15:15:00.000Z",
-          "wordCount": 4267,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Going Headless: Use Cases And What It’s Good For"
+          "description": "Freezing temperatures during the early morning hours of April 6, 7 and 8 brought severe frosts to Burgundy vineyards, damaging Chardonnay and Pinot Noir buds from the M&acirc;connais to Chablis and setting up 2021 as a challenging vintage for the region.\n Growers scrambled to light candles in the vineyards in the hopes of raising the near-ground temperatures by a degree, yet even with protection, the frost killed many young buds. Tuesday night brought the most devastation, when snow and rain exacerbated the…",
+          "link": "https://www.winespectator.com/articles/severe-april-frost-damages-budding-vines-in-france",
+          "publishedOn": "2021-04-11T01:08:20.000Z",
+          "wordCount": 1334,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Severe April Frost Damages Budding Vines in France"
         },
         {
-          "description": "Reliable accessible front-end components: :focus styles, content sliders, dark mode, data charts, date pickers, form styles, navigation menu, modals, radio buttons, \"skip\" links, SVGs, tabs, tables, toggles and tooltips.",
-          "link": "https://smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/",
-          "publishedOn": "2021-03-22T11:30:00.000Z",
-          "wordCount": 6862,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Complete Guide To Accessible Front-End Components"
+          "description": "On any given night in the pre-pandemic days, there was a four-top at a restaurant with a small-share-plates-so-order-several-items-and-I&rsquo;ll-course-it-out-for-you type of menu, and, inevitably, someone in the group would want the sommelier to recommend a wine to pair. \nMany times that sommelier was (or is) me, and often in that moment, I&rsquo;ve hesitated. You want to know what I, a stranger, think you should have with your meal, with no clue what you actually like? Sometimes I just want to look you i…",
+          "link": "https://www.eater.com/22361025/how-to-pair-food-with-wine-new-rules-of-pairing",
+          "publishedOn": "2021-04-11T01:07:50.000Z",
+          "wordCount": 1533,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "The 3 New Rules of Food and Wine Pairings"
         },
         {
-          "description": "Wondering what’s happenin’ at Smashing? Well, we’ve been busy. Here’s a little story of how we removed floating labels, improved performance on mobile, and launched a new series of articles. Oh, and how you can contribute to Smashing, too.",
-          "link": "https://smashingmagazine.com/2021/03/floating-labels-performance-lighthouse/",
-          "publishedOn": "2021-03-19T13:30:00.000Z",
-          "wordCount": 2646,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Gone Floating Labels And Green Lighthouse Scores"
+          "description": "Privacy Overview \n This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.\n  \n  Strictly Necessary Cookies \n Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.\n  \nIf you disable this co…",
+          "link": "https://www.thedrinksbusiness.com/2021/04/six-ways-to-be-a-more-eco-friendly-drinks-producer/#new_tab",
+          "publishedOn": "2021-04-11T00:47:57.000Z",
+          "wordCount": 2413,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Six ways to be a more eco-friendly drinks producer"
         },
         {
-          "description": "The secret to growing a successful web design business is thinking of design as a service, not a product. When you focus on recurring revenue and sell to one targeted niche, you can grow a business faster than ever.",
-          "link": "https://smashingmagazine.com/2021/03/web-design-clients-fast-part1/",
-          "publishedOn": "2021-03-18T10:00:00.000Z",
-          "wordCount": 3127,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "How To Get Web Design Clients Fast (Part 1)"
+          "description": "Our tastings show that Argentina is no longer only a malbec country.\n\nBring on the asado. Dip the chorizo in the chimichurri sauce. Take a bite of an empanada. And then have a swig of what the best Argentine wines have to offer to the world of wine and gastronomy today. We found 100s of terrific wines in this report to take you to a uniquely Argentine wine experience and back.\nThis year we rated around 1,800 wines and it was one of our best tastings yet for this South American vinous powerhouse. With some o…",
+          "link": "https://www.jamessuckling.com/wine-tasting-reports/experience-argentine-wine-now/",
+          "publishedOn": "2021-04-10T15:56:50.000Z",
+          "wordCount": 5933,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "More than malbec: Argentina's experiential evolution"
         },
         {
-          "description": "Flutter has been transitioning from a cross-platform mobile development SDK for Android/iOS into a tool that allows you to run the same code natively in a browser on Windows, Linux and macOS. With Flutter 2, non-mobile Flutter development is starting to become more viable.",
-          "link": "https://smashingmagazine.com/2021/03/flutter2-stable-mobile-web-desktop-development-native-speed-one-codebase/",
-          "publishedOn": "2021-03-17T12:00:00.000Z",
-          "wordCount": 2908,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "What’s New In Flutter 2?"
-        }
-      ]
-    },
-    {
-      "href": "https://www.freecodecamp.org/news/rss/",
-      "articles": [
-        {
-          "description": "In this article, you will build a Book Management App in React from scratch.  By creating this app, you will learn: How to perform CRUD operationsHow to use React Router for navigation between routesHow to use React Context API to pass data across routesHow to create a Custom Hook in",
-          "link": "https://www.freecodecamp.org/news/react-crud-app-how-to-create-a-book-management-app-from-scratch/",
-          "publishedOn": "2021-04-14T19:20:48.000Z",
-          "wordCount": 4973,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "React CRUD App Tutorial – How to Build a Book Management App in React from Scratch"
+          "description": "Lawyer cum sommelier Dominic Buckwell gets inspiration from the Institute of Masters of Wine webinar on Labelling rules and transparency, detailing a complex past and giving the lowdown on proposed new and potentially game-changing legislation. Laws ensuring adequate packaging and labels for food and drink to protect consumers have existed since time immemorial. Weights and [&hellip;]\nThe post What&rsquo;s in a label and the EU&rsquo;s new laws appeared first on Circle of Wine Writers.",
+          "link": "https://www.circleofwinewriters.org/whats-in-a-label-and-the-eus-new-laws/",
+          "publishedOn": "2021-04-10T12:28:01.000Z",
+          "wordCount": 3354,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "What’s in a label and the EU’s new laws"
         },
         {
-          "description": "There are many essential concepts and lessons that React developers need to know that simply aren't covered in most tutorials.  I have handpicked the topics I believe are some of the most important for you to know, but that few articles have dedicated the time to cover in detail. Let's",
-          "link": "https://www.freecodecamp.org/news/5-react-lessons-tutorials-dont-teach/",
-          "publishedOn": "2021-04-14T18:02:20.000Z",
-          "wordCount": 2133,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "5 Key React Lessons the Tutorials Don&#x27;t Teach You"
+          "description": "",
+          "link": "https://www.winewithpaige.com/paso-robles/?utm_source=rss&utm_medium=rss&utm_campaign=paso-robles",
+          "publishedOn": "2021-04-10T00:50:44.000Z",
+          "wordCount": 1597,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "The Complete Guide to Paso Robles Wine Country"
         },
         {
-          "description": "Test-Driven Development is a much-debated concept in the tech industry. Developers wonder whether they should practice TDD or not, how advantageous it is, and so on.  So what is Test-Driven Development, or TDD? Simply put, TDD dictates that you test your code before you push it to production. Now, there",
-          "link": "https://www.freecodecamp.org/news/learn-tdd-with-integration-tests-in-net-5-0/",
-          "publishedOn": "2021-04-14T17:37:46.000Z",
-          "wordCount": 2722,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Learn Test-Driven Development with Integration Tests in .NET 5.0"
+          "description": "Reports of severe frost damage to vines in a wide range of European wine regions are flooding in. Chablis, the C&ocirc;te d'Or (where Vincent Dancer's drone took this picture of frost candles in vineyards this week), Beaujolais, southern Rh&ocirc;ne and Bordeaux all seem to have suffered &ndash; not least because the days have been warm, encouraging early vine growth. We're planning more detailed reports early next week. Meanwhile see this video from Katie Jones; even Roussillon was badly affected. Below, W…",
+          "link": "https://www.jancisrobinson.com/articles/frost-strikes-european-vineyards",
+          "publishedOn": "2021-04-10T00:36:57.000Z",
+          "wordCount": 891,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Frost strikes European vineyards"
         },
         {
-          "description": "Chess games can sometimes go on for quite some time. I once heard a story of a chess game between two famous chess grandmasters that went on for over eight hours, with the crowd waiting for them to make a move.  After a while one player said to the other",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/",
-          "publishedOn": "2021-04-14T16:09:14.000Z",
-          "wordCount": 1985,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Build a Chess Clock with JavaScript and setInterval"
+          "description": "",
+          "link": "https://www.vinous.com/articles/finding-cool-sunshine-south-africa-apr-2021",
+          "publishedOn": "2021-04-10T00:35:46.000Z",
+          "wordCount": 3498,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Finding Cool Sunshine: South Africa"
         },
         {
-          "description": "This guide is a summary of my study notes for the Certified Kubernetes Application Developer (CKAD) exam that I recently passed.  Even if you're not interested in the certification, consider this as your one-stop shop for Kubernetes: you have all the main technical concepts explained along with a myriad of",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-certified-kubernetes-application-developer/",
-          "publishedOn": "2021-04-14T15:57:28.000Z",
-          "wordCount": 7524,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Become a Certified Kubernetes Application Developer"
+          "description": "Call it serendipity, call it fate, but there are times when events and conversations seem to align. You go for months without thinking about something and then it&rsquo;s everywhere, filling your in-box and your brain. Spooky, possums, as Dame Edna Everage once put it.\nIn my case recently, it was old vines. Bookended by a pair of Zoom calls with Chile, last week also featured a two-day conference and a bizarre tasting in my pyjamas. Old vines were common to all of them.\nFirst up was a chat with Leo Erazo of…",
+          "link": "https://timatkin.com/the-wisdom-of-age-2/",
+          "publishedOn": "2021-04-10T00:35:01.000Z",
+          "wordCount": 898,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "The Wisdom Of Age"
         },
         {
-          "description": "Redis is a popular in-memory database used for a variety of projects, like caching and rate limiting. In this blog post, we will see how you can use Redis as an in-memory database, why you'd want to use Redis, and finally we'll discuss a few important features of the database.",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-redis/",
-          "publishedOn": "2021-04-14T15:55:10.000Z",
-          "wordCount": 2115,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Redis Database Basics – How the Redis CLI Works, Common Commands, and Sample Projects"
+          "description": "Sour Grapes is a documentary about Rudy Kurniawan, an infamous wine fraud who swindled billionaire investors out of monumental sums of money in the early aughts. Though focused on an interesting subject in its own right, the reason it&rsquo;s one of the century&rsquo;s most prolific intersections of wine and culture is how deftly it capitalized on a larger societal fascination.\nImage courtesy of Dogwoof\nFor those interested in wine, the movie offers an entertaining peek at a segment of the trade historicall…",
+          "link": "https://www.winemag.com/2021/04/07/sour-grapes-wine-documentary/",
+          "publishedOn": "2021-04-10T00:34:39.000Z",
+          "wordCount": 1240,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "A Wine-Soaked True Crime Doc with ‘Fraud, Deception and Intrigue’"
         },
         {
-          "description": "Cloud functions are stateless, single-purpose code snippets that can be invoked programmatically or through other event-driven processes.  These code snippets are not built into your application, as a traditional function would be. Rather, they are stored in a cloud container that is maintained by a provider. They can be edited",
-          "link": "https://www.freecodecamp.org/news/cloud-functions-in-react-with-easybase/",
-          "publishedOn": "2021-04-13T18:37:52.000Z",
-          "wordCount": 1510,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Deploy Dynamic Cloud Functions in React and React Native with Easybase"
+          "description": "A version of this article about the need to re-evaluate old vines is published by the Financial Times. Image of ancient Etna vines supplied by master pruners of old vines, Simonit &amp; Sirch.\n\nSome of the most interesting wines in the world are made from particularly old vines. A new UK-based initiative, the Old Vine Conference, is dedicated to",
+          "link": "https://www.jancisrobinson.com/articles/save-stumps",
+          "publishedOn": "2021-04-10T00:01:02.000Z",
+          "wordCount": 1786,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Save the stumps"
         },
         {
-          "description": "For the longest time, the evolution of cooperative social behaviour has fascinated evolutionary biologists. The mathematical field of game theory helps shed light on how it emerges. Game theory is “the study of mathematical models of strategic interaction among rational decision-makers” (according to Wikipedia). Game theory applies to “games” as",
-          "link": "https://www.freecodecamp.org/news/introduction-to-evolutionary-game-theory/",
-          "publishedOn": "2021-04-13T17:12:33.000Z",
-          "wordCount": 1504,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Introduction to Evolutionary Game Theory"
+          "description": "Most people who read about wine choose to; they opt in, as it were, they enter the country-of-wine-writing. But some people encounter such writing in other contexts, such as the occasional (and fast-vanishing) newspaper column. In some of those cases, wine writing may be off putting to those who aren&rsquo;t jiggy with its lingua franca.\nI saw a dramatic example recently, and winced for the author. I know the writer, I like the writer, I respect the writer&rsquo;s ability to work within really pitiless limi…",
+          "link": "https://www.terrytheise.com/post/tired-of-tasting-notes-not-so-fast-tough-guy",
+          "publishedOn": "2021-04-09T17:06:15.000Z",
+          "wordCount": 799,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "TIRED OF TASTING NOTES? NOT SO FAST, TOUGH GUY."
         },
         {
-          "description": "The image of a person with their laptop sitting on a beach with a Piña Colada by their side has become the poster child of “freelancing”. The promise of ultimate freedom and working anywhere and anytime you want is just so appealing, causing many to jump in without carefully thinking",
-          "link": "https://www.freecodecamp.org/news/why-is-freelancing-so-hard/",
-          "publishedOn": "2021-04-13T17:09:40.000Z",
-          "wordCount": 1784,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Why is Freelancing so Hard? How to Avoid Common Freelancing Mistakes and Be Successful"
+          "description": "The Pour\nYou don&rsquo;t need much. This guide will show you which equipment to invest in, what to avoid and how to learn more about the wine styles you most enjoy.\n\n\n\nCredit...Peter Phobia\n\n\n\n\nApril 9, 2021, 5:00 a.m. ET\n\n\nThe terrible human and economic cost of the pandemic cannot be ignored. It has forced many people to test the limits of their creativity and endurance. And maybe, for a lucky unburdened few, all that time at home has provided an opportunity to explore new interests.\nIt may have been cook…",
+          "link": "https://www.nytimes.com/2021/04/09/dining/drinks/best-wine-tools.html",
+          "publishedOn": "2021-04-09T16:16:18.000Z",
+          "wordCount": 2042,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "A Starter Kit for Aspiring Wine Lovers"
         },
         {
-          "description": "Hello, everyone! Welcome to this hands-on tutorial. Before we begin you should be familiar with the basics of ReactJS, NextJS, and Firebase. If you're not, I would recommend that you go through their documentation. Here's what we're going to build:And here's the tech we'll use:TypeScript: provides type-safe code",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-quizapp-using-nextjs-chakra-ui-and-firebase/",
-          "publishedOn": "2021-04-13T16:31:50.000Z",
-          "wordCount": 5596,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Build a Quiz App using NextJS, Chakra UI, and Firebase"
+          "description": "&copy; Ponzi Vineyards\r\n| The Oregon winery has already been making sparkling wine, but mostly it's all about still Pinot and Chardonnay.\nWill the Champagne giant's takeover of Ponzi mean a boost for sparkling wine production in Oregon?\nBy W. Blake Gray | Posted Friday, 09-Apr-2021\n\r\nIs Oregon the next frontier for top-quality sparkling wine? You have to wonder after seeing Champagne's Bollinger buy Ponzi Vineyards this week.\nIt was the first full winery purchase outside of France for the Bollinger family, …",
+          "link": "https://www.wine-searcher.com/m/2021/04/bollinger-purchase-could-see-oregon-sparkle",
+          "publishedOn": "2021-04-09T03:22:43.000Z",
+          "wordCount": null,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Bollinger Purchase Could See Oregon Sparkle"
+        },
+        {
+          "description": "&ldquo;Our aim is to democratize wine. The mission is to remove the elitist, stuffy image from wine and bring it to the people.&rdquo; The odds are 2-1 that any new consumer-facing wine service, app, editorial venture or website will make this above claim about what it is they are attempting to accomplish. More often than not, this &ldquo;mission&rdquo; is driven either 1) by the fact that the wines being sold or promoted through the new service are under $30 per...\nThe post Time to Embrace the Elitist Char…",
+          "link": "https://fermentationwineblog.com/2021/04/elitist-wine-drinker/",
+          "publishedOn": "2021-04-08T18:49:40.000Z",
+          "wordCount": 4587,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Time to Embrace the Elitist Character of the Wine Drinker"
+        },
+        {
+          "description": "&copy; Vinovest\r\n| Some of the world's most expensive wine glasses could be about to get even pricier for US consumers.\nThe easing transatlantic trade war has seen wine tariffs swapped for increased duties on glassware.\nBy W. Blake Gray | Posted Thursday, 08-Apr-2021\n\r\nWine lovers rejoice: the latest round of proposed penalties from the US Trade Representative does not contain a single new tariff on wine or spirits.\nThe US is proposing tariffs on a wide range of goods from six countries that have enacted di…",
+          "link": "https://www.wine-searcher.com/m/2021/04/no-new-wine-tariffs-but-glassware-hazy",
+          "publishedOn": "2021-04-08T03:24:36.000Z",
+          "wordCount": null,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "No New Wine Tariffs, but Glassware Hazy"
+        },
+        {
+          "description": "Back in the day, Coteaux Champenois &ndash; that&rsquo;s to say regular Chardonnay and Pinot Noir, no bubbles &ndash; was the wine of choice in Champagne; but by 1850 still-wine production had been outstripped by that of sparkling. Despite the fashion for fizz taking hold, Louis Roederer was among a handful of Champagne houses which continued to commercialise a still wine pre-war, though as the 20th century wore on, enthusiasm for the style cooled with the climate. By the 1980s, production of Coteaux Champe…",
+          "link": "https://cluboenologique.com/story/reviewed-louis-roederers-new-still-champagne-wines/",
+          "publishedOn": "2021-04-07T20:34:35.000Z",
+          "wordCount": 1289,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Reviewed: Louis Roederer’s new still Champagne wines | Club Oenologique"
+        },
+        {
+          "description": "Martin Donatsch\n\n\n\n\n\nBy Dennis Lapuyade\nBy traditional measures, my first year of college was a waste. I spent a lot of it playing cards with a gang of liberal theologians at a Jesuit university in California. Towering above the group was our guru, the truest Renaissance man I've ever met &mdash; priest, medieval scholar, professional clown, and director of his own traveling circus. He spent most of each year wandering from one Catholic university to another, plying his gift for persuasion. But he always ma…",
+          "link": "https://trinkmag.com/articles/completer-the-answer-to-a-prayer",
+          "publishedOn": "2021-04-07T20:30:59.000Z",
+          "wordCount": 3540,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Completer: The Answer to a Prayer"
+        },
+        {
+          "description": "Jos&eacute; Vouillamoz\n\n\nJos&eacute; Vouillamoz on the Heritage and Future of\nBy Valerie Kathawala\nI&rsquo;ve read about as widely on Swiss wines as an Anglophone can: the relevant chapters of Jason Wilson&rsquo;s delicious Godforsaken Grapes. The late Sue Style&rsquo;s charming, informative Landscape of Swiss Wine. Ellen Wallace&rsquo;s colorful&nbsp;Vineglorious. Dennis Lapuyade&rsquo;s expert blog ArtisanSwiss. Stephan Reinhardt&rsquo;s candid, convincing coverage in the Wine Advocate.\n\nBut it is Dr. Jos…",
+          "link": "https://trinkmag.com/articles/jose-vouillamoz-on-swiss-wine-grapes",
+          "publishedOn": "2021-04-07T20:30:25.000Z",
+          "wordCount": 1802,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "José Vouillamoz on Swiss Wine Grapes"
+        },
+        {
+          "description": "&copy; Weingut Doreas GbR\n\n\n\n\nShimmering Schiller\nby Elizabeth Gabay&nbsp;MW\nAn initial Internet search on Schiller reveals little more than references to Friedrich Schiller, the 18th-century poet and philosopher from W&uuml;rttemberg. While many have assured me that the wine by the same name was not worthy of investigation, I believed there had to be a reason Schiller had long ago captured the pens and palates of so many &ndash; and was determined to find out why.\nThe name appears in Alsace as Schiller or …",
+          "link": "https://trinkmag.com/articles/shimmering-schiller",
+          "publishedOn": "2021-04-07T20:23:46.000Z",
+          "wordCount": 1959,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Shimmering Schiller"
+        },
+        {
+          "description": "&copy; Kellerei St. Pauls, Eppan\n\n\n\n\n\n\nby David Schildknecht\nSince you&rsquo;re reading this, you&rsquo;re likely an experienced wine drinker. Almost equally likely is that what little you claim to know about Pinot Blanc is wrong. It&rsquo;s often referred to as a Burgundian grape variety best known for its Alsatian exemplifications. That would be scoring a trifecta ... of misses.&nbsp;\nPinot Blanc is neither a distinctive c&eacute;page nor a particular grape variety &ndash; at least, not from the viewpoint…",
+          "link": "https://trinkmag.com/articles/in-the-sign-of-subtlety",
+          "publishedOn": "2021-04-07T20:13:42.000Z",
+          "wordCount": 3092,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "In the Sign of Subtlety"
+        },
+        {
+          "description": "Nils Kevin Puls\n\n\nWhat Is the Role of Heimat in Terroir?\nBy Nils Kevin Puls\nFor over a year, we&rsquo;ve been living with a pandemic that has shut down more than just our senses of taste and smell. It has forced us to rely on at-home experiences like a glass of wine to satisfy our longing for travel. But what do the places of our terroir dreams taste like? What exactly constitutes the origins of a wine? To use a loaded German word, how much Heimat (loosely, homeland) is in terroir?\nFlash back to harvest 201…",
+          "link": "https://trinkmag.com/articles/what-is-the-role-of-heimat-in-terroir",
+          "publishedOn": "2021-04-07T20:07:34.000Z",
+          "wordCount": 2144,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "What Is the Role of &quot;Heimat&quot; in Terroir?"
+        },
+        {
+          "description": "&copy; Simon Staffler\n\n\n\n\nThe Many FaceS of Kalterersee\nby Simon Staffler\nTake a springtime drive along the South Tyrolean Wine Road and it is hard to miss Lake&nbsp;Kaltern, flashing silver in the distance. Alight in the town of&nbsp;Kaltern&nbsp;to discover the intoxicating scent of flowers everywhere. A warm breeze from Lake Garda, known as the Ora, rolls through in the evenings. Laughter echoes across the town&rsquo;s piazza, where people drink coffee, read the newspaper and, towards late afternoon, enj…",
+          "link": "https://trinkmag.com/articles/the-many-faces-of-kalterersee",
+          "publishedOn": "2021-04-07T20:04:51.000Z",
+          "wordCount": 2156,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "The Many Faces of Kalterersee"
+        },
+        {
+          "description": "Photograph: Jason Lowe\n\n\n\nGet to grips with the villages of Barolo with this handy guide from our Italy Buyer, Davy &#379;yw.\nThere are officially 11 communes in Barolo. In our 2017 release, we focus on the six that best capture the most distinctive and greatest wines of the region. The&nbsp;&rsquo;17 vintage is a modern-age classic; we can find wines that reflect the change in climate, but also in thought and expression. This year, we find many wines which bridge the monolithic expressions of single vineya…",
+          "link": "https://blog.bbr.com/2021/04/07/the-villages-of-barolo/",
+          "publishedOn": "2021-04-07T08:40:00.000Z",
+          "wordCount": 1366,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "The villages of Barolo"
+        },
+        {
+          "description": "&copy; Shutterstock\r\n| The pandemic saw many consumers turn to festive favorite Champagne to banish the lockdown blues.\nDespite predictions of doom and gloom, one part of Champagne is thriving.\n\r\nAt the start of the pandemic, few would have predicted high times for Champagne.\nIt seemed reasonable to assume that a toxic combination of on-premise closures, a looming recession and rising unemployment was unlikely to help sales of celebratory bubbly. That was the view from every analyst I interviewed, back in M…",
+          "link": "https://www.wine-searcher.com/m/2021/04/champagnes-untouchable-bling-factor",
+          "publishedOn": "2021-04-07T03:26:37.000Z",
+          "wordCount": null,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Champagne's Untouchable Bling Factor"
+        },
+        {
+          "description": "2021 marks the tenth anniversary of the publication of my first book about the business of wine, Wine Wars: the Curse of the Blue Nun, the Miracle of Two Buck Chuck, and the Revenge of the Terroirists.\nWine Wars was written to encourage readers to consider how market forces help shape what&rsquo;s in our collective wine glass. The&nbsp; book received very positive reviews upon publication and it remains popular (and, people tell me, still relevant) today. Indeed, it still occasionally shows up on Amazon.com…",
+          "link": "https://wineeconomist.com/2021/04/06/ww10/",
+          "publishedOn": "2021-04-06T09:01:44.000Z",
+          "wordCount": 2604,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Ten Years of Wine Wars"
+        },
+        {
+          "description": "&copy; La Crema\r\n| Jackson Family's La Crema range is a familiar one for consumers, with 15 million bottles sold last year.\nTwo wine giants are squaring off over a labeling spat in a follow-up to a similar lawsuit in the '90s.\nBy W. Blake Gray | Posted Tuesday, 06-Apr-2021\n\r\nA decade after the death of Jess Jackson, the company he founded, Jackson Family Wines, has rediscovered one of his passions: filing lawsuits, especially against E. &amp; J. Gallo Winery.\nJackson Family Wines, the ninth largest wine com…",
+          "link": "https://www.wine-searcher.com/m/2021/04/jackson-versus-gallo-label-wars-2",
+          "publishedOn": "2021-04-06T03:22:46.000Z",
+          "wordCount": null,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Jackson versus Gallo: Label Wars 2"
+        },
+        {
+          "description": "An insect infestation&nbsp;born in America hitchhiked to Europe and&nbsp;nearly destroyed European vineyards in the 1800s.&nbsp;More than 100 years later,&nbsp;that same&nbsp;insect&nbsp;came devastatingly close to destroying the Napa wine industry before it even got off the ground.&nbsp;\nThis parasitic insect, phylloxera,&nbsp;had a monumental effect on the U.S. wine industry. In the latter half of the 20th&nbsp;century, it infiltrated Napa&rsquo;s vineyards and changed how viticulturists in America&rsquo;…",
+          "link": "https://www.winemag.com/2021/04/05/napa-valley-phylloxera/",
+          "publishedOn": "2021-04-05T20:32:35.000Z",
+          "wordCount": 1860,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Phylloxera In Napa Valley: Then and Now"
+        },
+        {
+          "description": "Salma Hayek has long had a serious passion for all things owls, but she revealed her latest pet has a taste for the finer things to rival her own.\nFor People&rsquo;s &ldquo;Beautiful Issue,&rdquo; the actress discussed how she came to adopt her southern white-faced owl after responding to an advertisement about rescuing the species around two years ago. &ldquo;I gave it to my husband as a Valentine&rsquo;s present and named her Kering because that&rsquo;s the name of his company and their symbol of the owl,…",
+          "link": "https://www.vanityfair.com/style/2021/04/salma-hayek-pet-owl-kering-good-taste-likes-wine",
+          "publishedOn": "2021-04-05T20:11:17.000Z",
+          "wordCount": 648,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Salma Hayek Says Her Pet Owl Kering “Likes Good Wine”"
         }
       ]
     }
