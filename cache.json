@@ -4,6 +4,33 @@
       "href": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
       "articles": [
         {
+          "description": "There have been many comments about wine critics, especially concerning various characteristics of their wine ratings, including things like inflation and inconsistency. One thing that I could look at here is the matter of \"top-rated\" wines, and how their scores vary from year to year.\nIn this regard, James Suckling provides an annual list of Top 100 Wines, which is worth looking into; so, I have collated the scores for the years 2014 to 2020, inclusive. [Thanks to James for giving me access to his database…",
+          "link": "https://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html",
+          "publishedOn": "2021-05-02T22:30:00.000Z",
+          "wordCount": 1052,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "Changes in scores of top wines?"
+        },
+        {
+          "description": "&#22312;&#22823;&#21697;&#29260;&#12289;&#24037;&#19994;&#21270;&#21860;&#37202;&#22810;&#24180;&#26469;&#19968;&#32479;&#27743;&#28246;&#30340;&#32972;&#26223;&#19979;&#65292;&#31934;&#37247;&#21860;&#37202;&#65288;Craft Beer&#65289;&#36817;&#24180;&#26469;&#36880;&#28176;&#34987;&#22269;&#20154;&#25152;&#37325;&#35270;&#65292;&#36825;&#31181;&#20855;&#22791;&#20135;&#37327;&#23569;&#12289;&#20010;&#24615;&#36275;&#12289;&#24037;&#33402;&#31934;&#31561;&#29305;&#36136;&#30340;&#23567;&#21697;&#29260;&#2186…",
+          "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTYwODk3NA==&mid=2659322231&idx=1&sn=7a09868b0de61d73cbf307a45fa306fd&chksm=bd8349968af4c08038b1cc2fe8cb3dbfc1870be0cbded820c858a6dcf804d49183f3314e989c&sessionid=1619958121&scene=126&clicktime=1619958142&enterid=1619958142&ascene=3&devicetype=android-28&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=A3WJjR/2An91oJwMX+UgbzQ=&pass_ticket=8TSnnHW6u6R/PnY5LlUiqHPOkh/AX7lHwF5egEdYMWVlxf+Jrz4ggiLDepjxR3UP&wx_header=1",
+          "publishedOn": "2021-05-02T12:22:54.000Z",
+          "wordCount": 71,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "奇怪的味道增加了 | 据说这款啤酒的口味，来自百年前降落的一块陨石"
+        },
+        {
+          "description": "&copy; EWT\r\n| Exotic grapes like Georgia's Saperavi are being planted in France as part of a trial to combat climate change.\nIt's been a crazy week, so here are some wine stories that might have passed you by.\n\r\nWhile most of you will no doubt have read of Francois Pinault's plea for his fellow Bordeaux winery owners to come to the rescue of beleaguered football club FC Girondins, the annual buzz generated around En Primeur, and the news that the EU will not bail out the wine industry, here are some of the …",
+          "link": "https://www.wine-searcher.com/m/2021/05/france-opens-up-to-foreign-grapes",
+          "publishedOn": "2021-05-02T03:26:05.000Z",
+          "wordCount": null,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "France Opens up to Foreign Grapes"
+        },
+        {
           "description": "&#38500;&#20102;&#21809;&#25103;&#21644;&#20889;&#20316;&#65292;&#37247;&#26757;&#37202;&#22823;&#27010;&#26159;&#31532;&#19977;&#20214;&#25105;&#38271;&#36825;&#20040;&#22823;&#33021;&#22362;&#25345;&#36817;&#21313;&#24180;&#30340;&#20107;&#24773;&#12290;\n&#33258;&#20174;&#20960;&#24180;&#21069;&#31532;&#19968;&#27425;&#21457;&#37247;&#26757;&#37202;&#30340;&#25945;&#31243;&#20197;&#26469;&#65292;&#27599;&#19968;&#24180;&#21040;&#36825;&#20010;&#26102;&#20505;&#65292;&#21518;&#21488;&#20415;&#24320;&#22987…",
           "link": "https://mp.weixin.qq.com/s?__biz=MzIyMjAyMTI1NA==&mid=2662733213&idx=1&sn=ed430fe6326b44d70ddca75009c63e7a&chksm=f3716674c406ef62c1a95cb1813b3f1c6c1548bf69444048e6268b02cc577c826df8d2fe0f6a&sessionid=1619856375&scene=126&clicktime=1619856436&enterid=1619856436&ascene=3&devicetype=android-28&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=A3XIMsXH0u+7NPzRIos0Ero=&pass_ticket=hb1oGNQ1Wl+QLFveastnvSVe6IXqNesIeGS3hFEjkO7GgkwmTuur6i1etBNepssC&wx_header=1",
           "publishedOn": "2021-05-01T08:07:55.000Z",
@@ -1518,5 +1545,5 @@
       ]
     }
   ],
-  "cliVersion": "1.2.3"
+  "cliVersion": "1.3.0"
 }
