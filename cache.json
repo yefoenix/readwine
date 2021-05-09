@@ -4,6 +4,17 @@
       "href": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
       "articles": [
         {
+          "id": "https://www.wine-searcher.com/m/2021/05/the-remarkable-rise-of-chateau-valandraud",
+          "author": "readwine",
+          "description": "&copy; Ch&acirc;teau Valandraud\r\n| The pretty but unassuming estate of Ch&acirc;teau Valandraud managed to irrevocably change the formerly stiff world of Bordeaux.\nCh&acirc;teau Valandraud started with very little, but today it is one of Saint-&Eacute;milion's hottest properties.\n\r\nShaking up the world of Bordeaux is no mean feat, and when Jean-Luc Thunevin broke with tradition he helped pioneer a wine upheaval.\nAlthough maverick winemaker Thunevin and his partner Murielle Andraud founded Ch&acirc;teau Vala…",
+          "link": "https://www.wine-searcher.com/m/2021/05/the-remarkable-rise-of-chateau-valandraud",
+          "publishedOn": "2021-05-08T03:11:37.000Z",
+          "wordCount": null,
+          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+          "sourceTitle": "readwine",
+          "title": "The Remarkable Rise of Château Valandraud"
+        },
+        {
           "description": "&#28857;&#20987;&#19978;&#26041;&#20844;&#20247;&#21495;&#21517;&#31216;&ldquo;Decanter&#37255;&#37492;&rdquo;&#65292;\n\n&#20851;&#27880;&#33521;&#22269;&#33889;&#33796;&#37202;&#26434;&#24535;Decanter&#23448;&#26041;&#24494;&#20449;&#21495;\n\n\n\n&#22312;&#36825;&#31687;&#35814;&#23613;&#32780;&#26131;&#25026;&#30340;&#27874;&#23572;&#22810;&#24038;&#23736;&#25910;&#34255;&#25351;&#21335;&#20013;&#65292;Chris Mecer&#20174;1855&#21015;&#32423;&#35762;&#36215;&#65292;&#27880;&#30446;&#27874;&#23572;&#22810;&#240…",
           "link": "http://mp.weixin.qq.com/s?__biz=MzU3NjU1ODUzMw==&mid=2247497165&idx=1&sn=15986702c89d1404d9185be78c45b5d8&chksm=fd10b167ca673871acbf51d35e2b94e8dca8beb6dc400326464ea69db69ab0f0d4b5dff39f82&scene=0&xtrack=1#rd",
           "publishedOn": "2021-05-07T00:00:26.000Z",
@@ -1676,27 +1687,9 @@
           "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
           "sourceTitle": "readwine",
           "title": "A Starter Kit for Aspiring Wine Lovers"
-        },
-        {
-          "description": "&copy; Ponzi Vineyards\r\n| The Oregon winery has already been making sparkling wine, but mostly it's all about still Pinot and Chardonnay.\nWill the Champagne giant's takeover of Ponzi mean a boost for sparkling wine production in Oregon?\nBy W. Blake Gray | Posted Friday, 09-Apr-2021\n\r\nIs Oregon the next frontier for top-quality sparkling wine? You have to wonder after seeing Champagne's Bollinger buy Ponzi Vineyards this week.\nIt was the first full winery purchase outside of France for the Bollinger family, …",
-          "link": "https://www.wine-searcher.com/m/2021/04/bollinger-purchase-could-see-oregon-sparkle",
-          "publishedOn": "2021-04-09T03:22:43.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Bollinger Purchase Could See Oregon Sparkle"
-        },
-        {
-          "description": "&ldquo;Our aim is to democratize wine. The mission is to remove the elitist, stuffy image from wine and bring it to the people.&rdquo; The odds are 2-1 that any new consumer-facing wine service, app, editorial venture or website will make this above claim about what it is they are attempting to accomplish. More often than not, this &ldquo;mission&rdquo; is driven either 1) by the fact that the wines being sold or promoted through the new service are under $30 per...\nThe post Time to Embrace the Elitist Char…",
-          "link": "https://fermentationwineblog.com/2021/04/elitist-wine-drinker/",
-          "publishedOn": "2021-04-08T18:49:40.000Z",
-          "wordCount": 4587,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Time to Embrace the Elitist Character of the Wine Drinker"
         }
       ]
     }
   ],
-  "cliVersion": "1.4.0"
+  "cliVersion": "1.5.0"
 }
