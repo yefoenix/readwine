@@ -1,1689 +1,552 @@
 {
   "sources": [
     {
-      "href": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+      "title": "readwine",
+      "feedUrl": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
+      "siteUrl": "https://reader.yefoenix.ws",
       "articles": [
         {
+          "id": "https://www.winescholarguild.org/blog/vine-to-wine-a-year-of-viti-vini-may",
+          "author": null,
+          "description": "Vine to Wine: A Year of Viti/Vini - May",
+          "link": "https://www.winescholarguild.org/blog/vine-to-wine-a-year-of-viti-vini-may",
+          "publishedOn": "2021-05-10T20:34:08.000Z",
+          "wordCount": 2323,
+          "title": "Vine to Wine: A Year of Viti/Vini - May"
+        },
+        {
+          "id": "https://fermentationwineblog.com/2021/05/the-history-of-wine-influencers-part-2/",
+          "author": null,
+          "description": "This is part two of my investigation (see part 1) into the claim of one Wine Influencer that Wine Influencers have been around forever, but they were different in the past. The public claim was this: &ldquo;The wine Influencer isn&rsquo;t new &ndash; the first ones were old white men without pretty pictures who wrote about wine in inaccessible language meant to stave off the common public- but they got the prestige of &lsquo;critic&rsquo;.&rdquo; Who were these the wine influencers of...\nThe post The Histor…",
+          "link": "https://fermentationwineblog.com/2021/05/the-history-of-wine-influencers-part-2/",
+          "publishedOn": "2021-05-10T19:45:37.000Z",
+          "wordCount": null,
+          "title": "The History of Wine Influencers — Part 2"
+        },
+        {
+          "id": "https://www.winemag.com/2021/05/10/white-wine-southern-italy-guide/",
+          "author": null,
+          "description": "Griilo grapes at Tenuta Whitaker / Photo by Salvo Mancuso\nSome of Italy&rsquo;s most fascinating white wines are made in Campania, in the country&rsquo;s south, and on two main islands, Sardinia and Sicily. There, millennia-old native grapes dominate. Scrupulous vineyard management and modern vinification methods yield inimitable, savory white wines loaded with personality.\nDiscover southern Italy&rsquo;s best whites made with indigenous grapes.\nFiano grapes at Villa Raiano / Photo courtesy of Villa Raiano\n…",
+          "link": "https://www.winemag.com/2021/05/10/white-wine-southern-italy-guide/",
+          "publishedOn": "2021-05-10T11:30:19.000Z",
+          "wordCount": 1903,
+          "title": "From Floral to Flinty, The Indigenous White Wine Grapes of Southern Italy"
+        },
+        {
+          "id": "https://www.thedrinksbusiness.com/2021/05/hard-talk-big-beer-brands-get-serious-about-seltzers/",
+          "author": null,
+          "description": "With the hard seltzer category enjoying a 600% uplift in sales over the past two years, and the category now estimated to be worth &euro;4.5 billion, big beer brands are clamouring for dominance within the buoyant sector.\nThe post Hard talk: Big beer brands get serious about seltzers appeared first on The Drinks Business.",
+          "link": "https://www.thedrinksbusiness.com/2021/05/hard-talk-big-beer-brands-get-serious-about-seltzers/",
+          "publishedOn": "2021-05-10T11:19:49.000Z",
+          "wordCount": 1508,
+          "title": "Hard talk: Big beer brands get serious about seltzers"
+        },
+        {
+          "id": "https://www.decanter.com/learn/steven-purrier-s-guide-to-tasting-young-wine-245893/",
+          "author": null,
+          "description": "The aim in tasting wines before they arrive on the retailers&rsquo; shelves is simply to assess their future. Wines that are tasted en primeur are generally those from the most recent vintage, just a few months old, or the vintage before and almost always not yet in bottle. The exception is vintage Port, where vintages are declared during the second year after the harvest and only tasted once in bottle.\nIn my view, assessments for the future can only be based on form in the shape of as much background infor…",
+          "link": "https://www.decanter.com/learn/steven-purrier-s-guide-to-tasting-young-wine-245893/",
+          "publishedOn": "2021-05-10T08:20:00.000Z",
+          "wordCount": 1350,
+          "title": "From the archive: Steven Spurrier's guide to tasting young wine"
+        },
+        {
+          "id": "https://www.wine-searcher.com/m/2021/05/whisky-and-women-a-potent-blend",
+          "author": null,
+          "description": "&copy; Diageo\r\n| A woman's walk is never done, it would appear.\nJohnnie Walker wants to be clear that it doesn't make whisky for women, despite any evidence to the contrary.\nBy W. Blake Gray | Posted Monday, 10-May-2021\n\r\nJane Walker is NOT a whisky for women.\nNo way. Take it from master blender Emma Walker, whose name and signature are on the bottle: \"If I had been told I was creating a whisky for women I would have asked someone else to do the project.\"\nThough Emma Walker admitted the idea came from the U…",
+          "link": "https://www.wine-searcher.com/m/2021/05/whisky-and-women-a-potent-blend",
+          "publishedOn": "2021-05-10T03:23:49.000Z",
+          "wordCount": null,
+          "title": "Whisky and Women a Potent Blend"
+        },
+        {
+          "id": "https://www.jancisrobinson.com/articles/all-change-bordeaux",
+          "author": null,
+          "description": "Tasting the 2020s was a real joy &ndash; not least because so many producers are defying hot, dry years with delightfully fresh, expressive, 'new old' wines. See our guide to coverage of 2020 bordeaux. A version of this article is published by the Financial Times. Owners of the crus class&eacute;s, members of UGCB, above. \n We&rsquo;re now in the thick of the bordeaux primeurs season, the time of year when merchants and ch&acirc;teau owners sniff the wind and pore over critics&rsquo; scores to work out the …",
+          "link": "https://www.jancisrobinson.com/articles/all-change-bordeaux",
+          "publishedOn": "2021-05-09T23:58:41.000Z",
+          "wordCount": 1632,
+          "title": "All change in Bordeaux | JancisRobinson.com"
+        },
+        {
+          "id": "https://txwinelover.com/2021/05/how-to-wash-and-dry-wine-glasses/",
+          "author": null,
+          "description": "Some links are affiliate links meaning at no additional cost to you, this site may get a small commission if you make a purchase.\n This post has been a long time in coming. Way back when we started drinking wine at home with some decent wine glasses, we would wash the glasses and then just set them upside down on a towel. The end result of course was water spots on the glasses and that just doesn&rsquo;t look good. Somebody had to wash&nbsp;AND dry the glasses and who do you think got that job? Yeah, you&rs…",
+          "link": "https://txwinelover.com/2021/05/how-to-wash-and-dry-wine-glasses/",
+          "publishedOn": "2021-05-09T23:56:31.000Z",
+          "wordCount": 2620,
+          "title": "How to Wash and Dry Wine Glasses"
+        },
+        {
+          "id": "https://www.winemag.com/2021/05/07/wine-credentials-meaning/",
+          "author": null,
+          "description": "Over the past year, an influx of entrepreneurs&nbsp;has&nbsp;entered&nbsp;the wine industry. Through job losses or reduced working hours, industry changes forced wine pros to find new ways of making a living. With restaurant shutdowns, many sommeliers moved to virtual spaces,&nbsp;where they&nbsp;live-streamed&nbsp;tastings and seminars, and cultivated social media brands.&nbsp;Consultants transitioned from curating restaurant wine lists to&nbsp;online wine clubs.&nbsp;&nbsp;\n To navigate these new ventures…",
+          "link": "https://www.winemag.com/2021/05/07/wine-credentials-meaning/",
+          "publishedOn": "2021-05-09T23:52:06.000Z",
+          "wordCount": 1713,
+          "title": "In a Sea of Credentials, Wine Professionals Seek Meaning | Wine Enthusiast"
+        },
+        {
           "id": "https://www.liz-palmer.com/penfolds-wine-of-the-world-label/",
-          "author": "readwine",
+          "author": null,
           "description": "Penfolds has just launched its most radical project to date, the inaugural, four-bottle &ldquo;California Collection&rdquo; which are blends from both &hellip; Continue reading \"Penfolds&rsquo; &ldquo;Wine of the World&rdquo; Label\"\nThe post Penfolds&rsquo; &ldquo;Wine of the World&rdquo; Label appeared first on Liz Palmer - International Wine and Spirit News.",
           "link": "https://www.liz-palmer.com/penfolds-wine-of-the-world-label/",
           "publishedOn": "2021-05-09T22:44:20.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Penfolds’ “Wine of the World” Label"
         },
         {
           "id": "http://winegourd.blogspot.com/2021/05/so-why-has-china-gone-off-boil.html",
-          "author": "readwine",
+          "author": null,
           "description": "There have been several reports over the past few years about the declining wine market in China. Indeed, wine production in China is currently listed as the 6th fastest declining industry in that country (Fastest declining industries in China by revenue growth (%) in 2021). So, it seems worthwhile to gather in one place some pictures of the situation, given that China has been the second largest wine market in the world (The wine market in China).\nWe can start with a look at the simple economics in recent …",
           "link": "http://winegourd.blogspot.com/2021/05/so-why-has-china-gone-off-boil.html",
           "publishedOn": "2021-05-09T22:30:00.000Z",
-          "wordCount": 1182,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1425,
           "title": "So, why has China gone off the boil?"
         },
         {
           "id": "https://winegourd.blogspot.com/2021/05/so-why-has-china-gone-off-boil.html",
-          "author": "readwine",
+          "author": null,
           "description": "There have been several reports over the past few years about the declining wine market in China. Indeed, wine production in China is currently listed as the 6th fastest declining industry in that country (Fastest declining industries in China by revenue growth (%) in 2021). So, it seems worthwhile to gather in one place some pictures of the situation, given that China has been the second largest wine market in the world (The wine market in China).\nWe can start with a look at the simple economics in recent …",
           "link": "https://winegourd.blogspot.com/2021/05/so-why-has-china-gone-off-boil.html",
           "publishedOn": "2021-05-09T22:30:00.000Z",
-          "wordCount": 1182,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1425,
           "title": "So, why has China gone off the boil?"
         },
         {
           "id": "https://fermentationwineblog.com/2021/05/the-history-of-wine-influencers-part-1/",
-          "author": "readwine",
+          "author": null,
           "description": "Recently, in the wake of online discussions of &ldquo;wine influencers&rdquo; after this story in the San Francisco Chronicle hit, one young wine influencer took issue with my own response to the Chronicle article and took to Twitter to explained to me the history of wine Influencers this way: &ldquo;The wine Influencer isn&rsquo;t new &ndash; the first ones were old white men without pretty pictures who wrote about wine in inaccessible language meant to stave off the common public- but they...\nThe post The…",
           "link": "https://fermentationwineblog.com/2021/05/the-history-of-wine-influencers-part-1/",
           "publishedOn": "2021-05-09T17:07:34.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "The History of Wine Influencers — Part 1"
         },
         {
           "id": "https://www.ciencia-e-vinho.com/2021/05/09/characterization-of-wines-by-vineyard-region-and-vintage-by-combining-untargeted-1h-nmr-and-targeted-differential-sensing/",
-          "author": "readwine",
+          "author": null,
           "description": "NMR spectroscopy was used to evaluate the chemical fingerprint of the wines, whereas the peptide-based sensing array is known to mimic the senses of taste, smell, and palate texture by characterizing the phenolic profile. Multivariate and univariate statistical analyses of the combined NMR and differential sensing array dataset classified the genetically identical Pinot noir wines on the basis of distinctive metabolic signatures associated with the region of growth, vineyard, and vintage year.",
           "link": "https://www.ciencia-e-vinho.com/2021/05/09/characterization-of-wines-by-vineyard-region-and-vintage-by-combining-untargeted-1h-nmr-and-targeted-differential-sensing/",
           "publishedOn": "2021-05-09T15:46:50.000Z",
           "wordCount": 2191,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Characterization of wines by vineyard, region, and vintage by combining untargeted 1H NMR and targeted differential sensing"
         },
         {
           "id": "https://www.wine-searcher.com/m/2021/05/chile-seduces-china-and-a-winemaker-romance",
-          "author": "readwine",
+          "author": null,
           "description": "&copy; Concha y Toro\r\n| Australia's difficulties have become Chile's opportunities in China.\n\r\nWhile everyone gasped at space-aged P&eacute;trus going up for auction with an astronomical seven-figure estimate, and while the French wine industry mourned the loss of three influential winemakers and growers (Laurent Vaill&eacute; of Grange des P&egrave;res in Aniane, Pascal Clairet of Domaine de la Tournelle in Arbois, and Laurent Grimaud, a grower in Provence), here are some of this week's headlines you might…",
           "link": "https://www.wine-searcher.com/m/2021/05/chile-seduces-china-and-a-winemaker-romance",
           "publishedOn": "2021-05-09T03:19:42.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Chile Seduces China and a Winemaker Romance"
         },
         {
           "id": "https://www.wine-searcher.com/m/2021/05/the-remarkable-rise-of-chateau-valandraud",
-          "author": "readwine",
+          "author": null,
           "description": "&copy; Ch&acirc;teau Valandraud\r\n| The pretty but unassuming estate of Ch&acirc;teau Valandraud managed to irrevocably change the formerly stiff world of Bordeaux.\nCh&acirc;teau Valandraud started with very little, but today it is one of Saint-&Eacute;milion's hottest properties.\n\r\nShaking up the world of Bordeaux is no mean feat, and when Jean-Luc Thunevin broke with tradition he helped pioneer a wine upheaval.\nAlthough maverick winemaker Thunevin and his partner Murielle Andraud founded Ch&acirc;teau Vala…",
           "link": "https://www.wine-searcher.com/m/2021/05/the-remarkable-rise-of-chateau-valandraud",
           "publishedOn": "2021-05-08T03:11:37.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "The Remarkable Rise of Château Valandraud"
         },
         {
+          "id": "http://mp.weixin.qq.com/s?__biz=MzU3NjU1ODUzMw==&mid=2247497165&idx=1&sn=15986702c89d1404d9185be78c45b5d8&chksm=fd10b167ca673871acbf51d35e2b94e8dca8beb6dc400326464ea69db69ab0f0d4b5dff39f82&scene=0&xtrack=1#rd",
+          "author": null,
           "description": "&#28857;&#20987;&#19978;&#26041;&#20844;&#20247;&#21495;&#21517;&#31216;&ldquo;Decanter&#37255;&#37492;&rdquo;&#65292;\n\n&#20851;&#27880;&#33521;&#22269;&#33889;&#33796;&#37202;&#26434;&#24535;Decanter&#23448;&#26041;&#24494;&#20449;&#21495;\n\n\n\n&#22312;&#36825;&#31687;&#35814;&#23613;&#32780;&#26131;&#25026;&#30340;&#27874;&#23572;&#22810;&#24038;&#23736;&#25910;&#34255;&#25351;&#21335;&#20013;&#65292;Chris Mecer&#20174;1855&#21015;&#32423;&#35762;&#36215;&#65292;&#27880;&#30446;&#27874;&#23572;&#22810;&#240…",
           "link": "http://mp.weixin.qq.com/s?__biz=MzU3NjU1ODUzMw==&mid=2247497165&idx=1&sn=15986702c89d1404d9185be78c45b5d8&chksm=fd10b167ca673871acbf51d35e2b94e8dca8beb6dc400326464ea69db69ab0f0d4b5dff39f82&scene=0&xtrack=1#rd",
           "publishedOn": "2021-05-07T00:00:26.000Z",
           "wordCount": 241,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Decanter醇鉴: 波尔多左岸名庄：发烧友的非公式收藏指南 | Chris Mercer | Decanter"
         },
         {
+          "id": "https://www.winemag.com/2021/05/04/salinity-definition-meaning-wine/",
+          "author": null,
           "description": "Imagine a cold, snowy evening in January. By 4:45 p.m., the sun has set. You open a crisp Assyrtiko or Muscadet, alongside fresh paella. Suddenly, it&rsquo;s summer.\nPaula Rester Salinas, beverage director of Side Street Hospitality Group in Fredericksburg, Texas, describes this sort of pairing as magical, &ldquo;because it transports you elsewhere.&rdquo;\nHigh-acid wines like Assyrtiko, Vermentino and Muscadet offer an impression of salinity, which suggests &ldquo;the kind of piercing acidity that a spritz…",
           "link": "https://www.winemag.com/2021/05/04/salinity-definition-meaning-wine/",
           "publishedOn": "2021-05-06T22:52:29.000Z",
-          "wordCount": 1421,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1425,
           "title": "What Does &#039;Salinity&#039; Mean in Wine | Wine Enthusiast"
         },
         {
+          "id": "https://www.winemag.com/2021/05/04/cocktail-influencers-hemingway/",
+          "author": null,
           "description": "Jen Akin, general manager at Seattle&rsquo;s Rumba and Rumtender, created quite a stir last year when her cocktail, The Turnbuckle, made its Instagram debut. Popular accounts such as @subtletiki (7,000 followers) and @theweekendmixologist (58,700 followers) posted shots of it in their feeds, and shared the recipe originally published in Punch magazine.\n&ldquo;After the article was posted [on Punch], it got a little bit of traction, but not a ton, until several large Instagram accounts found it,&rdquo; says …",
           "link": "https://www.winemag.com/2021/05/04/cocktail-influencers-hemingway/",
           "publishedOn": "2021-05-06T22:51:49.000Z",
-          "wordCount": 1809,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1808,
           "title": "‘Shaken, Not Stirred’: Cocktail Influencers Through the Ages | Wine Enthusiast"
         },
         {
+          "id": "https://www.decanterchina.com/zh/葡萄酒学习/葡萄酒常识/马瑟兰大事记-中国-潜力特色品种-从何而来-风味如何-4大产地25款供你尝试-李德美",
+          "author": null,
           "description": "&#39532;&#29791;&#20848;&#22823;&#20107;&#35760;&#65306;&#20013;&#22269;&ldquo;&#28508;&#21147;&#29305;&#33394;&#21697;&#31181;&rdquo;&#20174;&#20309;&#32780;&#26469;&#65292;&#39118;&#21619;&#22914;&#20309;&#65311;4&#22823;&#20135;&#22320;25&#27454;&#20379;&#20320;&#23581;&#35797; | &#26446;&#24503;&#32654;",
           "link": "https://www.decanterchina.com/zh/葡萄酒学习/葡萄酒常识/马瑟兰大事记-中国-潜力特色品种-从何而来-风味如何-4大产地25款供你尝试-李德美",
           "publishedOn": "2021-05-06T22:47:51.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "马瑟兰大事记：中国“潜力特色品种”从何而来，风味如何？4大产地25款供你尝试 | 李德美"
         },
         {
+          "id": "https://www.sfchronicle.com/food/wine/article/Instagram-wine-influencer-Napa-Sonoma-sexism-16151755.php",
+          "author": null,
           "description": "The ranks of social media influencers promoting wine are growing &mdash; and dividing opinions within the California wine industry. To some, the work of these influencers is crucial to the industry&rsquo;s future. To others, it&rsquo;s an abomination.\nRecently, several critics of these &ldquo;vinfluencers&rdquo; have been blunt: They&rsquo;re &ldquo;wannabes&rdquo; practicing a form of &ldquo;nauseating self-aggrandizement,&rdquo; according to writer James Lawrence. Many of them are fraudsters and cheats, b…",
           "link": "https://www.sfchronicle.com/food/wine/article/Instagram-wine-influencer-Napa-Sonoma-sexism-16151755.php",
           "publishedOn": "2021-05-06T22:44:44.000Z",
-          "wordCount": 3307,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 3320,
           "title": "Instagram&#039;s wine influencers started thriving during the pandemic. Their rise has prompted sexist backlash"
         },
         {
+          "id": "https://www.vinous.com/articles/chile-a-stylistic-journey-from-the-andes-to-the-coastal-ridge-may-2021",
+          "author": null,
           "description": "",
           "link": "https://www.vinous.com/articles/chile-a-stylistic-journey-from-the-andes-to-the-coastal-ridge-may-2021",
           "publishedOn": "2021-05-06T22:42:55.000Z",
           "wordCount": 6104,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Chile: A Stylistic Journey From the Andes to the Coastal Ridge (May 2021) | Vinous"
         },
         {
+          "id": "https://dobianchi.com/2021/05/05/negroamaro-racial-slur-racist/",
+          "author": null,
           "description": "Above: Neramaro grapes ready for harvest in Salento, Puglia. Would anyone really be hurt if the name were changed? There&rsquo;s no doubt that fewer people would be offended if it were modified or a suitable alternative were available.\nThe more closely you look at a word, wrote the early 20th-century aphorist Karl Kraus, the more distantly it looks back at you.\nThis nugget of wisdom couldn&rsquo;t be more true when it comes to the name of one of Puglia&rsquo;s most important grape varieties, Negroamaro.\nWhi…",
           "link": "https://dobianchi.com/2021/05/05/negroamaro-racial-slur-racist/",
           "publishedOn": "2021-05-06T22:41:11.000Z",
-          "wordCount": 2365,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 2744,
           "title": "It’s time to change a racially insensitive Italian grape name."
         },
         {
+          "id": "https://punchdrink.com/articles/chill-white-wine-best-temperature-for-serving-but-why/",
+          "author": null,
           "description": "The first in a series that attempts to decode some of wine&rsquo;s long-held truths.\nThe post Chill White Wine&hellip;But Why? appeared first on PUNCH.",
           "link": "https://punchdrink.com/articles/chill-white-wine-best-temperature-for-serving-but-why/",
           "publishedOn": "2021-05-06T12:59:24.000Z",
-          "wordCount": 1101,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1099,
           "title": "Chill White Wine…But Why?"
         },
         {
+          "id": "https://www.winebusiness.com/?go=getNewsLink&dataId=245159",
+          "author": null,
           "description": "Because two different styles of wine can be produced from Blaufr&auml;nkisch, it has a huge potential in both North and South Jersey.",
           "link": "https://www.winebusiness.com/?go=getNewsLink&dataId=245159",
           "publishedOn": "2021-05-06T12:45:00.000Z",
-          "wordCount": 3406,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 3421,
           "title": "Is Blaufränkisch New Jersey's Signature Grape?"
         },
         {
+          "id": "https://www.winegb.co.uk/2021/05/06/getting-acquainted-with-birds/",
+          "author": null,
           "description": "What a wonderful two weeks this has been! Two weeks of lone adventures across the unexplored (by me!) vineyard landscapes filled me with enthusiasm for my project and got me beaming with new-found spring energy. In short, the birds across UK vineyards did not disappoint.\nIf you&rsquo;re anything like me then you don&rsquo;t need much persuading to get out of the house, especially after endless months of home-working, but what I experienced across 18 British vineyards was more than just a walk to the local r…",
           "link": "https://www.winegb.co.uk/2021/05/06/getting-acquainted-with-birds/",
           "publishedOn": "2021-05-06T11:03:48.000Z",
-          "wordCount": 2784,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 2796,
           "title": "Getting acquainted with birds in UK vineyards – fieldwork in April 2021"
         },
         {
+          "id": "https://www.winemag.com/2021/05/06/natural-wine-term/",
+          "author": null,
           "description": "Getty\nMegan Bell, winemaker at Margins Wine, is frustrated by the term &ldquo;natural wine.&rdquo;\nWhile there&rsquo;s no official U.S. designation, it generally refers to wines made without chemicals, flavoring or coloring agents, as well as no added sugars or acids, fining or filtration. Many believe that natural wines should be made without additional sulfur or temperature-controlling agents like dry ice, though others make exceptions for those practices. Despite such porous parameters, Bell finds the te…",
           "link": "https://www.winemag.com/2021/05/06/natural-wine-term/",
           "publishedOn": "2021-05-06T11:00:18.000Z",
-          "wordCount": 1673,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1672,
           "title": "What Makes Natural Wine Exclusionary? The Name, Some Say"
         },
         {
+          "id": "https://www.wine-searcher.com/m/2021/05/old-friends-split-over-napa-cab",
+          "author": null,
           "description": "&copy; Schrader Cellars\r\n| The two old friends fell out after the wine stopped flowing.\nA long-standing friendship has broken down and ended up in court over a wine deal gone wrong.\nBy W. Blake Gray | Posted Thursday, 06-May-2021\n\r\nThey were great friends until one stopped sending the other wine.\nTexas attorney Robert \"Randy\" Roach said in a court filing that he was the best man at vintner Fred Schrader's wedding. They traveled together; dined together; and Schrader said in a deposition that when Roach thou…",
           "link": "https://www.wine-searcher.com/m/2021/05/old-friends-split-over-napa-cab",
           "publishedOn": "2021-05-06T03:03:50.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Old Friends Split over Napa Cab"
         },
         {
+          "id": "https://www.realsimple.com/food-recipes/shopping-storing/beverages/natural-wine-facts",
+          "author": null,
           "description": "At first, it was a novelty hostess gift. Natural wine? I asked my friend at a party a few years ago. Isn't all wine natural? She shook her head with pity. A couple months later, I noticed a natural wine endcap at my local wine shop. Next, an onslaught of orange wine populated my Instagram feed until, finally, it seemed natural wine was all anyone in my online or offline social circles wanted to drink.\nIt doesn't have as much sugar, someone said recently at a socially distant happy hour. The group of 30-some…",
           "link": "https://www.realsimple.com/food-recipes/shopping-storing/beverages/natural-wine-facts",
           "publishedOn": "2021-05-06T02:58:11.000Z",
           "wordCount": 2670,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Why Natural Wine Isn't Always the Healthiest (or Tastiest) Option"
         },
         {
+          "id": "https://wineeconomist.com/2021/05/04/toro-china/",
+          "author": null,
           "description": "The Chinese economy is booming, recovering from the pandemic sooner and stronger than any other country, although the pace of recovery seems to have slowed. The wine economy in China is still struggling, however, with high inventory levels remaining due to last year&rsquo;s lockdowns. Selling off the surplus stock without eroding price points and reputations is serious concern. Recently reports highlight creative solutions to the problem.\nDoubling Down on China\nConcha y Toro, the famous Chilean wine brand, …",
           "link": "https://wineeconomist.com/2021/05/04/toro-china/",
           "publishedOn": "2021-05-06T01:40:14.000Z",
           "wordCount": 2034,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Magical Mystery Box: Emerging China Wine Market Strategy"
         },
         {
+          "id": "https://punchdrink.com/articles/wine-retails-great-awakening-miracle-plum-fiasco-leisir-new-york/",
+          "author": null,
           "description": "If you&rsquo;ve wandered into an American wine store in the past five years, you may have noticed that retail is shifting. Where establishments with the library approach once dominated the market with their towering stacks of cases and big-name, blue-chip wines on pedestals, smaller shops with eclectic, affordable wines and attentive, casual service have come to the fore. Wine shopping has become, well, cool. Nudged along by the pandemic, the world of retail wine seems to be experiencing a great awakening.\n…",
           "link": "https://punchdrink.com/articles/wine-retails-great-awakening-miracle-plum-fiasco-leisir-new-york/",
           "publishedOn": "2021-05-06T01:39:47.000Z",
           "wordCount": 1591,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Wine Retail’s Great Awakening"
         },
         {
+          "id": "https://cluboenologique.com/story/why-super-tuscans-have-fallen-from-fashion/",
+          "author": null,
           "description": "In the 1980s, the wine world was in thrall to the Super-Tuscans. These pioneering Bordeaux blends took the market by storm, quickly commanding stratospheric prices. But while once hailed as a driving force behind the modernisation of Italian winemaking, today the Super-Tuscans are suffering an identity crisis.\nBy the early 2000s, the international market had become saturated with Super-Tuscans. Triggered by the predictable style of an ever-growing number of wines with names ending in &lsquo;-aia&rsquo; (Lup…",
           "link": "https://cluboenologique.com/story/why-super-tuscans-have-fallen-from-fashion/",
           "publishedOn": "2021-05-05T23:48:44.000Z",
           "wordCount": 1242,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Why Super-Tuscans have fallen from fashion"
         },
         {
+          "id": "https://fermentationwineblog.com/2021/05/put-upon-underpaid-disparaged-victims-the-life-of-wine-influencers/",
+          "author": null,
           "description": "Are wine influencers mining the depths and potential of Instagram really just put-upon, underpaid, disparaged journalists working in a new medium that the sexist wine industry is too male and too old to understand or appreciate? As usual, the San Francisco Chronicle&rsquo;s Esther Mobley provides some fascinating insight into her subject matter, this time looking at &ldquo;wine influencers&rdquo; and doing a good job of letting them tell their story without too much interruption. Unfortunately, in &ldquo;In…",
           "link": "https://fermentationwineblog.com/2021/05/put-upon-underpaid-disparaged-victims-the-life-of-wine-influencers/",
           "publishedOn": "2021-05-05T18:15:54.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Put-Upon, Underpaid, Disparaged, Victims—The Life of Wine Influencers"
         },
         {
+          "id": "https://timatkin.com/voor-paardeberg-the-birth-of-the-revolution/",
+          "author": null,
           "description": "South African has been experiencing renewed international interest for its wines of genuine quality, thanks in part to The Swartland Revolution; a winemaking movement that took root in the hot and dry Paardeberg area, roughly 20 years ago. But it was in fact in the Voor-Paardeberg that Swartland Icons like Adi Badenhorst and Eben Sadie started to notice potential in the region. Two decades later, on the Southern end of the mountain, this less-talked-about ward of the Voor-Paardeberg (often disparagingly ref…",
           "link": "https://timatkin.com/voor-paardeberg-the-birth-of-the-revolution/",
           "publishedOn": "2021-05-05T17:04:29.000Z",
           "wordCount": 2441,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Voor-Paardeberg: The Birth of the Revolution – Tim Atkin – Master of Wine"
         },
         {
+          "id": "https://www.liz-palmer.com/digital-wine-marketing-for-wine-journalists/",
+          "author": null,
           "description": "It was an honour and a privilege to participate as a speaker today for FIJEV [Journalistes et Ecrivains des Vins &hellip; Continue reading \"Digital Wine Marketing for Wine Journalists\"\nThe post Digital Wine Marketing for Wine Journalists appeared first on Liz Palmer - International Wine and Spirit News.",
           "link": "https://www.liz-palmer.com/digital-wine-marketing-for-wine-journalists/",
           "publishedOn": "2021-05-05T16:46:44.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 617,
           "title": "Digital Wine Marketing for Wine Journalists"
         },
         {
+          "id": "https://www.wine-searcher.com/m/2021/05/wine-country-fights-back-in-weed-wars",
+          "author": null,
           "description": "&copy; PANNA\r\n| Cannabis cultivation has ballooned in California and winemakers worry about its impact.\nGrapegrowers and wine producers are pushing back against the cannabis industry's push into prime California wine country.\n\r\nCalifornia winemakers are scrambling for survival as the biggest cannabis farms on earth make their way into wine country, bringing a broad range of cultural and logistical challenges in their wake.\nFactory-style cannabis farms have not been allowed in much of wine country, mind you.…",
           "link": "https://www.wine-searcher.com/m/2021/05/wine-country-fights-back-in-weed-wars",
           "publishedOn": "2021-05-05T03:05:49.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Wine Country Fights Back in Weed Wars"
         },
         {
+          "id": "https://vinepair.com/articles/late-frost-europe/",
+          "author": null,
           "description": "Newspapers and magazines featured arresting images from France&rsquo;s most famous wine regions earlier this month, showing romantic French vineyards filled with burning candles and oil lamps in an effort to protect the young grape buds from the effects of a sudden cold snap. Follow-up stories have often focused on how much of France&rsquo;s grape harvest will be lost to the freeze, and which great French wines might be affected.\nBut the extreme cold that threatened France&rsquo;s wine regions at the start …",
           "link": "https://vinepair.com/articles/late-frost-europe/",
           "publishedOn": "2021-05-03T22:59:39.000Z",
-          "wordCount": 1584,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1604,
           "title": "Europe’s Late Frost Goes Farther Than France — and Well Beyond Wine"
         },
         {
+          "id": "https://www.wine-searcher.com/m/2021/04/us-wine-sales-set-to-skyrocket",
+          "author": null,
+          "description": "&copy; Shutterstock\n| The sound of clinking glasses is likely to get louder and more frequent as the year goes on.\nPrepare for lift-off as one well-known expert predicts boom times ahead.\nBy W. Blake Gray | Posted Tuesday, 27-Apr-2021\n\nStrap yourselves in, US wine industry, because you're on a rocket ship that's about to blast off.\nThat's the prediction from industry analyst Rob McMillan, and it's notable because McMillan has become best known in recent years for his gloomy long-term forecasts for wine.\nBut…",
+          "link": "https://www.wine-searcher.com/m/2021/04/us-wine-sales-set-to-skyrocket",
+          "publishedOn": "2021-05-03T22:58:18.000Z",
+          "wordCount": null,
+          "title": "US Wine Sales Set to Skyrocket | Wine-Searcher News & Features"
+        },
+        {
+          "id": "https://fermentationwineblog.com/2021/05/experts-say-dtc-wine-shipping-causes-cirrhosis-of-the-liver/",
+          "author": null,
           "description": "In the course of the states and wholesalers attempting to defend against lawsuits challenging discriminatory and protectionist laws that bar consumers from receiving wine shipments from out-of-state retailers, various legal briefs are filed that argue the law. But also, the state uses &ldquo;expert testimony&rdquo; to buttress its claim that bans on wine shipping protect the health and safety of the citizens that are banned from receiving shipments. A lot turns on this &ldquo;expert testimony&rdquo; as it i…",
           "link": "https://fermentationwineblog.com/2021/05/experts-say-dtc-wine-shipping-causes-cirrhosis-of-the-liver/",
           "publishedOn": "2021-05-03T22:31:41.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Experts Say DTC Wine Shipping Causes Cirrhosis of the Liver"
         },
         {
+          "id": "https://worldcrunch.com/culture-society/tropical-terroir-the-man-turning-taiwan-into-wine-country",
+          "author": null,
           "description": "TAICHUNG  &mdash;  How could anyone imagine any sort of viticulture on land that never experiences winter and is ravaged by an average of five typhoons per year? The island of Taiwan is much more famous for its tea and street food than for its vineyards. Producing wine is certainly possible, but producing very good wine is another story. And most of the bottles found in this hot country are closer to cheap plonk than great vintages.\nYet Vino Formosa, a sweet white wine, and Vino Formosa Rosso, its red equiv…",
           "link": "https://worldcrunch.com/culture-society/tropical-terroir-the-man-turning-taiwan-into-wine-country",
           "publishedOn": "2021-05-03T21:26:32.000Z",
           "wordCount": 1505,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Tropical Terroir: The Man Turning Taiwan Into Wine Country"
         },
         {
+          "id": "https://fermentationwineblog.com/2021/05/now-is-the-time-to-buy-prime-vineyard-land-its-a-bargain/",
+          "author": null,
           "description": "Say you are 30 years old and you, unlike so many your age, are thinking about your future and thinking about securing your financial future. Here is how you do it: Do whatever it takes, find partners, find the funding, and buy a few acres of Napa Valley, Russian River Valley or Willamette Valley vineyard land&hellip;.the really good terroir. In 30 years, you will be able to sell this land for oodles and oodles more than you bought it. The...\nThe post Now is the Time To Buy Prime Vineyard Land&hellip;It&rsqu…",
           "link": "https://fermentationwineblog.com/2021/05/now-is-the-time-to-buy-prime-vineyard-land-its-a-bargain/",
           "publishedOn": "2021-05-03T03:39:13.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Now is the Time To Buy Prime Vineyard Land…It’s a Bargain"
         },
         {
+          "id": "https://www.wine-searcher.com/m/2021/05/science-makes-a-mockery-of-tasting-notes",
+          "author": null,
           "description": "&copy; iStock\r\n| One person's vanilla might well be another person's butterscotch.\nYour wine tasting notes are probably wrong &ndash; for other people, at least.\n\r\nA rose is a rose is a rose may not actually be the case when it comes to taste.\nNew research indicates that your vanilla may not in fact be Johnny's vanilla. Johnny's vanilla may be less intense than yours, or gasp, Johnny's repertoire of flavor associations may not name your vanilla as vanilla; more vexing still, this note may not even make a bo…",
           "link": "https://www.wine-searcher.com/m/2021/05/science-makes-a-mockery-of-tasting-notes",
           "publishedOn": "2021-05-03T03:09:58.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Science Makes a Mockery of Tasting Notes"
         },
         {
+          "id": "https://www.decanter.com/sponsored/furmint-in-focus-455865/",
+          "author": null,
           "description": "Hungary 2021 supplement\n Promotion\n  \n Furmint is building a reputation as the next big thing for thrilling dry white wines. It channels Riesling in having the ability to go from bone-dry to lusciously sweet in style, always underscored by a streak of refreshing acidity. Then it can also resemble Chardonnay, being capable of producing fine sparkling wine, steely linear whites (think mouthwatering, spicy Chablis) and complex, layered ones (think Burgundy on steroids).\nThis all makes genetic sense: Furmint is…",
           "link": "https://www.decanter.com/sponsored/furmint-in-focus-455865/",
           "publishedOn": "2021-05-03T01:26:07.000Z",
-          "wordCount": 952,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 958,
           "title": "Furmint in focus - Decanter"
         },
         {
+          "id": "https://www.decanter.com/decanter-best/canned-wine-405876/",
+          "author": null,
           "description": "The modern canned wine movement has been developing apace in the US for several years, but the concept has also become more popular in the UK recently.\nCans are a great option for al fresco drinking and picnics, which is something to consider as the UK government prepares to allow more outdoor meet-ups.\n There&rsquo;s no need to pack a corkscrew for one thing.\nCanned wine on the rise in UK\n&lsquo;More retailers are now stocking wine in cans in the UK,&rsquo; said Andy Howard MW in the August 2019 issue of D…",
           "link": "https://www.decanter.com/decanter-best/canned-wine-405876/",
           "publishedOn": "2021-05-03T01:25:36.000Z",
-          "wordCount": 810,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 816,
           "title": "Best canned wine: How good is the quality? - Decanter"
         },
         {
+          "id": "https://www.winemag.com/2021/04/30/burgundy-grape-varieties/",
+          "author": null,
           "description": "Burgundy is known for two noble grape varieties: Chardonnay and Pinot Noir.&#8239;The vast majority of&#8239;the plantings there are those two varieties, which often command insanely high prices.&nbsp;But&#8239;there&rsquo;s&#8239;more to Burgundy than meets the eye,&nbsp;with a variety of styles produced&nbsp;and grapes other than Chardonnay and&nbsp;Pinot&nbsp;can&nbsp;also create stellar wines, but&nbsp;with incredible value.&#8239;&#8239;&nbsp;\n Aligot&eacute;&#8239;&#8239;&nbsp;\n One of Burgundy&rsquo;…",
           "link": "https://www.winemag.com/2021/04/30/burgundy-grape-varieties/",
           "publishedOn": "2021-05-03T01:24:09.000Z",
-          "wordCount": 1709,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1710,
           "title": "The Other Side of the Slope: Burgundy&#039;s Other Grapes and Wines | Wine Enthusiast"
         },
         {
+          "id": "https://vino-joy.com/2021/05/03/wine-photographers-of-the-year/",
+          "author": null,
           "description": "The bests in wine photography are celebrated at this year's Pink Lady Food Photography of the Year. See all the winning photos here.\nThe post Wine photographers of the year appeared first on Vino Joy News.",
           "link": "https://vino-joy.com/2021/05/03/wine-photographers-of-the-year/",
           "publishedOn": "2021-05-03T00:00:00.000Z",
-          "wordCount": 1552,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1564,
           "title": "Wine photographers of the year"
         },
         {
+          "id": "http://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html",
+          "author": null,
           "description": "There have been many comments about wine critics, especially concerning various characteristics of their wine ratings, including things like inflation and inconsistency. One thing that I could look at here is the matter of \"top-rated\" wines, and how their scores vary from year to year.\nIn this regard, James Suckling provides an annual list of Top 100 Wines, which is worth looking into; so, I have collated the scores for the years 2014 to 2020, inclusive. [Thanks to James for giving me access to his database…",
           "link": "http://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html",
           "publishedOn": "2021-05-02T22:30:00.000Z",
-          "wordCount": 1052,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1062,
           "title": "Changes in scores of top wines?"
         },
         {
+          "id": "https://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html",
+          "author": null,
           "description": "There have been many comments about wine critics, especially concerning various characteristics of their wine ratings, including things like inflation and inconsistency. One thing that I could look at here is the matter of \"top-rated\" wines, and how their scores vary from year to year.\nIn this regard, James Suckling provides an annual list of Top 100 Wines, which is worth looking into; so, I have collated the scores for the years 2014 to 2020, inclusive. [Thanks to James for giving me access to his database…",
           "link": "https://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html",
           "publishedOn": "2021-05-02T22:30:00.000Z",
-          "wordCount": 1052,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1062,
           "title": "Changes in scores of top wines?"
         },
         {
+          "id": "https://mp.weixin.qq.com/s?__biz=MjM5NTYwODk3NA==&mid=2659322231&idx=1&sn=7a09868b0de61d73cbf307a45fa306fd&chksm=bd8349968af4c08038b1cc2fe8cb3dbfc1870be0cbded820c858a6dcf804d49183f3314e989c&sessionid=1619958121&scene=126&clicktime=1619958142&enterid=1619958142&ascene=3&devicetype=android-28&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=A3WJjR/2An91oJwMX+UgbzQ=&pass_ticket=8TSnnHW6u6R/PnY5LlUiqHPOkh/AX7lHwF5egEdYMWVlxf+Jrz4ggiLDepjxR3UP&wx_header=1",
+          "author": null,
           "description": "&#22312;&#22823;&#21697;&#29260;&#12289;&#24037;&#19994;&#21270;&#21860;&#37202;&#22810;&#24180;&#26469;&#19968;&#32479;&#27743;&#28246;&#30340;&#32972;&#26223;&#19979;&#65292;&#31934;&#37247;&#21860;&#37202;&#65288;Craft Beer&#65289;&#36817;&#24180;&#26469;&#36880;&#28176;&#34987;&#22269;&#20154;&#25152;&#37325;&#35270;&#65292;&#36825;&#31181;&#20855;&#22791;&#20135;&#37327;&#23569;&#12289;&#20010;&#24615;&#36275;&#12289;&#24037;&#33402;&#31934;&#31561;&#29305;&#36136;&#30340;&#23567;&#21697;&#29260;&#2186…",
           "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTYwODk3NA==&mid=2659322231&idx=1&sn=7a09868b0de61d73cbf307a45fa306fd&chksm=bd8349968af4c08038b1cc2fe8cb3dbfc1870be0cbded820c858a6dcf804d49183f3314e989c&sessionid=1619958121&scene=126&clicktime=1619958142&enterid=1619958142&ascene=3&devicetype=android-28&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=A3WJjR/2An91oJwMX+UgbzQ=&pass_ticket=8TSnnHW6u6R/PnY5LlUiqHPOkh/AX7lHwF5egEdYMWVlxf+Jrz4ggiLDepjxR3UP&wx_header=1",
           "publishedOn": "2021-05-02T12:22:54.000Z",
           "wordCount": 71,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "奇怪的味道增加了 | 据说这款啤酒的口味，来自百年前降落的一块陨石"
         },
         {
+          "id": "https://www.ciencia-e-vinho.com/2021/05/02/understanding-malbec-clonal-diversity-through-genomics-and-history/",
+          "author": null,
           "description": "Malbec is a cultivar that is well-appreciated for the elaboration of red wine. It originated in Southwestern France and was introduced in Argentina during the 1850s. In order to study the clonal genetic diversity of Malbec grapevines, the authors of this post generated whole-genome resequencing data for four accessions with different clonal propagation records. The results show the usefulness of this approach for the study of the scarce intra-cultivar genetic diversity in grapevines. We also provide evidenc…",
           "link": "https://www.ciencia-e-vinho.com/2021/05/02/understanding-malbec-clonal-diversity-through-genomics-and-history/",
           "publishedOn": "2021-05-02T10:22:02.000Z",
-          "wordCount": 1091,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1122,
           "title": "Understanding ‘Malbec’ clonal diversity through genomics and history"
         },
         {
+          "id": "https://www.wine-searcher.com/m/2021/05/france-opens-up-to-foreign-grapes",
+          "author": null,
           "description": "&copy; EWT\r\n| Exotic grapes like Georgia's Saperavi are being planted in France as part of a trial to combat climate change.\nIt's been a crazy week, so here are some wine stories that might have passed you by.\n\r\nWhile most of you will no doubt have read of Francois Pinault's plea for his fellow Bordeaux winery owners to come to the rescue of beleaguered football club FC Girondins, the annual buzz generated around En Primeur, and the news that the EU will not bail out the wine industry, here are some of the …",
           "link": "https://www.wine-searcher.com/m/2021/05/france-opens-up-to-foreign-grapes",
           "publishedOn": "2021-05-02T03:26:05.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "France Opens up to Foreign Grapes"
         },
         {
+          "id": "https://mp.weixin.qq.com/s?__biz=MzIyMjAyMTI1NA==&mid=2662733213&idx=1&sn=ed430fe6326b44d70ddca75009c63e7a&chksm=f3716674c406ef62c1a95cb1813b3f1c6c1548bf69444048e6268b02cc577c826df8d2fe0f6a&sessionid=1619856375&scene=126&clicktime=1619856436&enterid=1619856436&ascene=3&devicetype=android-28&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=A3XIMsXH0u+7NPzRIos0Ero=&pass_ticket=hb1oGNQ1Wl+QLFveastnvSVe6IXqNesIeGS3hFEjkO7GgkwmTuur6i1etBNepssC&wx_header=1",
+          "author": null,
           "description": "&#38500;&#20102;&#21809;&#25103;&#21644;&#20889;&#20316;&#65292;&#37247;&#26757;&#37202;&#22823;&#27010;&#26159;&#31532;&#19977;&#20214;&#25105;&#38271;&#36825;&#20040;&#22823;&#33021;&#22362;&#25345;&#36817;&#21313;&#24180;&#30340;&#20107;&#24773;&#12290;\n&#33258;&#20174;&#20960;&#24180;&#21069;&#31532;&#19968;&#27425;&#21457;&#37247;&#26757;&#37202;&#30340;&#25945;&#31243;&#20197;&#26469;&#65292;&#27599;&#19968;&#24180;&#21040;&#36825;&#20010;&#26102;&#20505;&#65292;&#21518;&#21488;&#20415;&#24320;&#22987…",
           "link": "https://mp.weixin.qq.com/s?__biz=MzIyMjAyMTI1NA==&mid=2662733213&idx=1&sn=ed430fe6326b44d70ddca75009c63e7a&chksm=f3716674c406ef62c1a95cb1813b3f1c6c1548bf69444048e6268b02cc577c826df8d2fe0f6a&sessionid=1619856375&scene=126&clicktime=1619856436&enterid=1619856436&ascene=3&devicetype=android-28&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=A3XIMsXH0u+7NPzRIos0Ero=&pass_ticket=hb1oGNQ1Wl+QLFveastnvSVe6IXqNesIeGS3hFEjkO7GgkwmTuur6i1etBNepssC&wx_header=1",
           "publishedOn": "2021-05-01T08:07:55.000Z",
           "wordCount": 93,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "第九年酿梅酒了，今年的梅酒指南会有什么不一样（2021版）"
         },
         {
+          "id": "https://www.wine-searcher.com/m/2021/05/barolo-rolls-out-an-uneven-vintage",
+          "author": null,
           "description": "&copy; Rocche Costamagna\r\n| Barolo's 2017 vintage was hot, so be careful when you are choosing which wines to buy.\nHeat was the big issue for the 2017 vintage in Barolo &ndash; and that is reflected in the wines.\n\r\nThe new releases of Barolo from the 2017 vintage are just now entering the market, and as far as judging these wines, a sound bite won't do this year justice.\nOf course, a few select words should never be used to rate any Barolo vintage, but given the consistently excellent performances by the ar…",
           "link": "https://www.wine-searcher.com/m/2021/05/barolo-rolls-out-an-uneven-vintage",
           "publishedOn": "2021-05-01T03:18:24.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Barolo Rolls Out an Uneven Vintage"
         },
         {
+          "id": "https://www.wine-searcher.com/m/2021/04/climate-change-prompts-vineyard-yield-rethink",
+          "author": null,
           "description": "&copy; ABC\r\n| Traditional wisdom says that lower yields mean better wine, but is that true?\n\r\nHow much is too much? How many tons per acre should end up in the fermenter? And is it even possible to make fine wine from a high-yielding vineyard?\nThe relationship between quality and quantity is one of those brilliantly geeky subjects that has no simple answer. I read with interest a recent piece by Alex Russan &ndash; it skilfully debunked the&nbsp; myth that there is no grey matter in the subject of grape yie…",
           "link": "https://www.wine-searcher.com/m/2021/04/climate-change-prompts-vineyard-yield-rethink",
           "publishedOn": "2021-04-30T03:22:32.000Z",
           "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Climate Change Prompts Vineyard Yield Rethink"
         },
         {
+          "id": "https://wineanorak.com/2021/04/21/using-place-to-sell-wine-and-why-sometimes-we-shouldnt-do-it/",
+          "author": null,
           "description": "One of the attractions of wine is that it is a drink that &ndash; in some mysterious way &ndash; allows us a connection with a place.\n The classical European model of wine is that it has an address. You buy a Barolo, or a St-Emilion, or a Volnay, or Chianti Classico. The grape varieties they are made from are almost immaterial &ndash; of course, with time, certain varieties have been linked with place, but it was very rare to see them on the label (Germany and Alsace being the notable exceptions, perhaps).\n…",
           "link": "https://wineanorak.com/2021/04/21/using-place-to-sell-wine-and-why-sometimes-we-shouldnt-do-it/",
           "publishedOn": "2021-04-30T01:36:51.000Z",
-          "wordCount": 1216,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1204,
           "title": "Using place to sell wine, and why sometimes we shouldn’t do it"
         },
         {
+          "id": "https://www.winemag.com/2021/04/29/wineries-local-terroir-vines/",
+          "author": null,
           "description": "Wine is a global commodity, but does it make for a better product when everything is locally sourced?\nThe history of wine-grape cultivation dates to at least 6,000 B.C., and it&rsquo;s deeply intertwined with the development of civilizations, empires and global trade. Grapes are planted on every continent except Antarctica, and producers craft bottlings from grape varieties indigenous to regions across the planet.\nBut increasingly, winemakers try to source ingredients from closer to home in a bid, they say,…",
           "link": "https://www.winemag.com/2021/04/29/wineries-local-terroir-vines/",
           "publishedOn": "2021-04-30T01:33:07.000Z",
-          "wordCount": 2039,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 2034,
           "title": "Wineries and Local Nurseries Aim to Shape Regional Terroir"
         },
         {
+          "id": "http://www.academicwino.com/2021/04/cross-modal-interactions-flavor.html/",
+          "author": null,
           "description": "Hello, readers!&nbsp; I&rsquo;m going to diverge from my usual m.o and present today a slightly older study than I usually do.&nbsp; Instead of being published in the last year, this one was published in 2017.&nbsp; Why? Well, I&rsquo;m in the beginning stages of a new project on perception of taste and flavor and am reading a whole bunch of papers from a wide range of years.&nbsp; Today&rsquo;s paper I consider to be a short, introductory paper to the general topic of interest for this new project.&nbsp; N…",
           "link": "http://www.academicwino.com/2021/04/cross-modal-interactions-flavor.html/",
           "publishedOn": "2021-04-29T10:30:00.000Z",
           "wordCount": 1429,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "Perception of Flavor: A Basic Primer on Cross-Modal Interactions"
         },
         {
+          "id": "https://www.telegraph.co.uk/food-and-drink/features/many-calories-alcoholic-drink/",
+          "author": null,
           "description": "How many calories are in your alcoholic drink, and which has the lowest?",
           "link": "https://www.telegraph.co.uk/food-and-drink/features/many-calories-alcoholic-drink/",
           "publishedOn": "2021-04-29T08:01:10.000Z",
           "wordCount": 1455,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
           "title": "How many calories are in your alcoholic drink, and which has the lowest?"
         },
         {
+          "id": "https://aboutregional.com.au/how-local-wineries-made-the-most-from-smoke-tainted-vintage/#new_tab",
+          "author": null,
           "description": "While wineries in the region have just harvested the grapes for their 2021 vintages, the effects of smoke from the 2019-20 bushfires are still lingering (in a good way) for a handful of local winemakers who banded together to make the most of what could have been a bad batch.\n\nThe post How local wineries made the most from smoke-tainted vintage appeared first on Winetitles.",
           "link": "https://aboutregional.com.au/how-local-wineries-made-the-most-from-smoke-tainted-vintage/#new_tab",
           "publishedOn": "2021-04-29T00:20:25.000Z",
-          "wordCount": 1070,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1066,
           "title": "How local wineries made the most from smoke-tainted vintage"
         },
         {
+          "id": "https://www.decanterchina.com/en/news/searching-for-china-s-signature-wine-grape#new_tab",
+          "author": null,
           "description": "A French crossing and the Chinese equivalent Carmenere are among the likely candidates to become China&rsquo;s signature winegrape, local experts believe. Although Cabernet Sauvignon is currently the most widely planted winegrape in China, taking up 60%-70% of Chinese wine growing areas, local producers believe that China needs its own &lsquo;signature grape&rsquo; to establish its identity in the global market.\n\nThe post Searching for China&rsquo;s signature winegrape appeared first on Winetitles.",
           "link": "https://www.decanterchina.com/en/news/searching-for-china-s-signature-wine-grape#new_tab",
           "publishedOn": "2021-04-29T00:17:32.000Z",
-          "wordCount": 1175,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
+          "wordCount": 1165,
           "title": "Searching for China’s signature winegrape"
-        },
-        {
-          "description": "With Liv-ex reporting a record year of trading for California wines last year, driven by interest in the UK, James Lawrence investigates whether the Golden State&rsquo;s top drops are taking off internationally.\n\nThe post The rise of California fine wine at export appeared first on Winetitles.",
-          "link": "https://www.thedrinksbusiness.com/2021/04/golden-opportunity-the-rise-of-california-fine-wine-at-export/#new_tab",
-          "publishedOn": "2021-04-29T00:15:45.000Z",
-          "wordCount": 1648,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The rise of California fine wine at export"
-        },
-        {
-          "description": "Learn more about Global Wine Brand Power Index 2021\nThe post The top 15 most powerful wine brands worldwide appeared first on Wine Intelligence.",
-          "link": "https://www.wineintelligence.com/the-top-15-most-powerful-wine-brands-worldwide/",
-          "publishedOn": "2021-04-28T09:12:46.000Z",
-          "wordCount": 920,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The top 15 most powerful wine brands worldwide"
-        },
-        {
-          "description": "&copy; Chelsea Vintners\r\n| Fine wine has as many definitions as it has consumers.\nWhat we mean by fine wine varies according to who you ask and where they live.\nBy W. Blake Gray | Posted Wednesday, 28-Apr-2021\n\r\nPrepare to have your stereotypes of fine wine buyers upended.\nA report released by Areni Global today held many interesting statistics about people who buy fine wines, which Areni defines as wines priced at&nbsp; $75 or higher, or the equivalent in British and Chinese currency.\nDo you think fine win…",
-          "link": "https://www.wine-searcher.com/m/2021/04/who-really-buys-fine-wine",
-          "publishedOn": "2021-04-28T07:00:00.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Who Really Buys Fine Wine?"
-        },
-        {
-          "description": "There was a broadcast on BBC Radio 3, the other week, of an old recording of Maria Callas in Lucia di Lammermoor. I forget who the other singers were, but they were top names. And I listened to those voices in that old recording and thought, you wouldn&rsquo;t get tannins like that nowadays.\nThe voices had a rasp &ndash; sometimes a velvety rasp, like ripe Tempranillo; sometimes a fine-textured rasp like good Sangiovese, or the soprano sax of Sidney Bechet; these are perhaps ideal tannins. The tannins of a …",
-          "link": "https://timatkin.com/powerful-elegance/",
-          "publishedOn": "2021-04-28T06:49:05.000Z",
-          "wordCount": 1573,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Powerful Elegance"
-        },
-        {
-          "description": "Filed under:\nEater Voices\n          \n        \nHow and why we talk about it, though, needs to change  \n\n  \n    \n    \n\n\n    \n\n      \n\n\n\n    \n\n\n\n\n\n\n  \nThe modern nation of Lebanon might be only 100 years old, but the wine trade here has been around for more than 5,000 years, thanks to a longitudinal coastline that runs the entire length of the country. Ancient Phoenicians shared amphorae with bustling port cities across the Mediterranean and shipped wine and other goods to the rest of the stops on their route,…",
-          "link": "https://www.eater.com/22369382/lebanese-wine-history-drinking",
-          "publishedOn": "2021-04-27T22:49:17.000Z",
-          "wordCount": 1855,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "We Should All Be Drinking More Lebanese Wine"
-        },
-        {
-          "description": "Though not typically associated with wine, England has produced it since Roman times. Due to the country&rsquo;s cool climate and rich soils, many vineyards planted in the middle of the 20th century are now paying dividends.\nClimate is moderated by the Gulf Stream, and its chalk-based soils are amenable to sparkling wine production.\nAs for what English wine is, stylistically, there&rsquo;s still room for interpretation.\n&ldquo;I don&rsquo;t think we can pin down a typical English wine just yet, and why woul…",
-          "link": "https://www.winemag.com/2021/04/27/england-wine-guide-sparkling/",
-          "publishedOn": "2021-04-27T22:48:56.000Z",
-          "wordCount": 2001,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "In England, Varied Soils Meet Cool-Climate Winemaking"
-        },
-        {
-          "description": "When South American wine comes up in conversation, it&rsquo;s an undoubtedly lustful dialogue on decadent meats with deep, rich Malbecs in Argentina or even Chilean Cabernet Sauvignon. But nestled to the Southeast of the continent is the fourth-largest winegrowing region in the continent that deserves more collective attention.\nUruguay sits south of Brazil and to the east of the metropolitan area of Buenos Aires. Its capital, Montevideo, sits on the same latitude as the latter and Santiago and its major win…",
-          "link": "https://vintnerproject.com/wine/uruguay-the-lay-of-the-land/?utm_source=rss&utm_medium=rss&utm_campaign=uruguay-the-lay-of-the-land",
-          "publishedOn": "2021-04-27T20:39:45.000Z",
-          "wordCount": 1167,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Uruguay: The Lay of the Land"
-        },
-        {
-          "description": "The third section of my book Wine Wars, which is celebrating its 10th birthday this&nbsp; year, is called &ldquo;the Revenge of the Terroirists.&rdquo; As I explained in last week&rsquo;s Wine Economist column, Wine Wars argues that globalization pushes the wine market forward, which is great, but one market reaction to this &ldquo;creative destruction&rdquo; is rationalization, which can be both good and bad.\nWhat&rsquo;s to keep wine from going off the rails and becoming just another branded consumer good…",
-          "link": "https://wineeconomist.com/2021/04/27/terroirist-revenge/",
-          "publishedOn": "2021-04-27T09:01:26.000Z",
-          "wordCount": 2702,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "We Are All Terroirists Now"
-        },
-        {
-          "description": "&copy; Shutterstock\r\n| The sound of clinking glasses is likely to get louder and more frequent as the year goes on.\nPrepare for lift-off as one well-known expert predicts boom times ahead.\nBy W. Blake Gray | Posted Tuesday, 27-Apr-2021\n\r\nStrap yourselves in, US wine industry, because you're on a rocket ship that's about to blast off.\nThat's the prediction from industry analyst Rob McMillan, and it's notable because McMillan has become best known in recent years for his gloomy long-term forecasts for wine.\nB…",
-          "link": "https://www.wine-searcher.com/m/2021/04/us-wine-sales-set-to-skyrocket",
-          "publishedOn": "2021-04-27T03:28:18.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "US Wine Sales Set to Skyrocket"
-        },
-        {
-          "description": "Kevin Zraly is an extraordinary, wine educator I&rsquo;ve long admired. Getting to know him over the years has taught me how extremely knowledgeable he truly is.&nbsp; It was delightful finally meeting him in Tuscany, at Castello di Meleto, a few years ago. He was on a book tour with his latest edition of Windows on The World; and I was on a professional, Italian wine tour with Michael Yurch of the Bluest Sky Group. At the time, we were all visiting and dining at the Castello.\nIf you really want to know how…",
-          "link": "https://www.wine-blog.org/index.php/2021/04/25/kevin-zraly-extraordinary-wine-educator-is-focused-on-red-wines/",
-          "publishedOn": "2021-04-27T00:52:36.000Z",
-          "wordCount": 3229,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Kevin Zraly ~ Extraordinary Wine Educator is Focused on Red Wines"
-        },
-        {
-          "description": "Is a wine horizontal or vertical? Square or round? Hollow or dense? Relaxed or tensed? Grainy or smooth? This is a small sample of GeoSensorial Tasting vocabulary &mdash; a method that seeks to empower the taster to feel, interpret and give voice to wines of place.\n By focusing on mouthfeel and assessment criteria such as energy, salivation, geometry, texture and consistency, this methodology helps you to better understand the nuances that a specific terroir, among other factors, brings to wine and helps yo…",
-          "link": "https://www.winescholarguild.org/blog/geosensorial-tasting-a-new-way-of-assessing-wines-of-terroir",
-          "publishedOn": "2021-04-27T00:21:58.000Z",
-          "wordCount": 2564,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "GeoSensorial Tasting: A New Way of Assessing Wines of Terroir?"
-        },
-        {
-          "description": "The Complex Science of Assessing California&rsquo;s Fire-Damaged Vines",
-          "link": "https://daily.sevenfifty.com/the-complex-science-of-assessing-californias-fire-damaged-vines/",
-          "publishedOn": "2021-04-26T20:56:00.000Z",
-          "wordCount": 1767,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Complex Science of Assessing California’s Fire-Damaged Vines"
-        },
-        {
-          "description": "Though often thought of as a sweet varietal, Riesling ranges from semi-sweet, to off-dry, to sparkling and bone dry, and pairs well with a wide range of food. Riesling is planted predominantly in Germany, France, Austria and New York&rsquo;s Finger Lakes, but there&rsquo;s another region producing worthy options: Colorado. The home of the Rockies is having a breakout moment, with recognitions for its Rieslings attracting the attention of local wine bars and sommeliers.\nColorado Wine: A Brief History\nThe bir…",
-          "link": "https://vinepair.com/articles/colorado-riesling/",
-          "publishedOn": "2021-04-26T20:39:39.000Z",
-          "wordCount": 1237,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Why Colorado Winemakers Are Betting on Riesling"
-        },
-        {
-          "description": "Jeff Murrell at Safe Harbor&nbsp;\n\n\nAs winemakers work with smoke exposed wines hoping for the best possible outcome and companies invest in developing treatments, they&rsquo;re learning that the most commonly used markers for so-called taint aren&rsquo;t necessarily responsible for off flavors and aromas, that there's a disconnect between what&rsquo;s being tested for and what they&rsquo;re tasting. The challenge continues to be to determine how to remove certain compounds to some degree, others completely…",
-          "link": "https://www.winebusiness.com/news/?go=getArticle&dataId=244469",
-          "publishedOn": "2021-04-26T20:10:08.000Z",
-          "wordCount": 2698,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Trends in Winemaking: Two New Approaches to Smoke Taint Mitigation"
-        },
-        {
-          "description": "With an estimated 20% loss to this year&rsquo;s crop in Champagne due to severe frosts earlier this month, one winemaker told db the region had been &ldquo;lucky&rdquo; compared to other parts of France.\nFrost covered vineyard in winter\nSpeaking after the virtual launch of Cristal 2013 this week, Louis Roederer cellar master, Jean-Baptiste L&eacute;caillon said that the impact of the frosts had been uneven across the Champagne appellation, which covers more than 30,000 hectares, but overall that the region …",
-          "link": "https://www.thedrinksbusiness.com/2021/04/champagne-lucky-with-frost-compared-to-other-french-wine-regions/",
-          "publishedOn": "2021-04-26T20:02:58.000Z",
-          "wordCount": 1286,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Champagne “lucky” with frost compared to other French wine regions - The Drinks Business"
-        },
-        {
-          "description": "There are many ways to look at this extraordinary book celebrating 150 years of a great wine: At first it seems like a voluminous, luxurious scrapbook, (just over 600 pages, weighing in at 2.6 kilos), but then it builds to a remarkable record, of time, events, the fickleness of nature, history, and in a multitude of ways, the joys of wine. \nThe seemingly bland title is quite accurate, after all: an almanac is &ldquo;a compendium of useful and interesting facts,&rdquo; a definition this one has no trouble li…",
-          "link": "https://www.wine-conversation.com/conversations/book-reviews-chateau-lafite-the-almanac",
-          "publishedOn": "2021-04-26T17:45:49.000Z",
-          "wordCount": 751,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Wine Conversation — Book Review | Château Lafite: The Almanac"
-        },
-        {
-          "description": "Marlborough's wine industry is booming, but there's no industrial-sized solution to deal with its waste.\n\n\nPhoto: Getty Images/RNZ\n\n\nSewage fungus is not what the wine industry wants people to think of when they sip a sauvignon blanc.\nIt was also something I wanted to avoid.\nBut like Marlborough's wine industry, I had a problem on my hands. I had more grape marc than what I knew what to do with.\nGrape marc - or pomace - is the soggy leftover product of wine making. It's the skins, seeds and stalks of the gr…",
-          "link": "https://www.rnz.co.nz/news/in-depth/440979/the-environmental-hangover-from-nz-s-winemaking",
-          "publishedOn": "2021-04-26T17:41:21.000Z",
-          "wordCount": 4709,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The environmental hangover from NZ's winemaking"
-        },
-        {
-          "description": "A vineyard at Mewstone in Tasmania / Photo courtesy of Mewstone \nIts isolation is what makes Tasmania so special. The rugged island state, roughly the size of Ohio and 150 miles off the southeast coast of Australia, is a food and wine lover&rsquo;s paradise.\nIn fact, wine is the jewel in Tasmania&rsquo;s crown. Australia&rsquo;s coolest-climate winegrowing region, Tassie can produce precise, complex traditional-method bubbly; slinky, sappy Pinot Noir; exuberant, saline Chardonnay; and fleshy yet delicate Ri…",
-          "link": "https://www.winemag.com/2021/04/26/australia-tasmanian-wine/",
-          "publishedOn": "2021-04-26T10:30:34.000Z",
-          "wordCount": 3250,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Grower-Winemakers Redefining Tasmania with Cool-Climate Sparklers, Riesling and More"
-        },
-        {
-          "description": "The idea behind the Sea Breeze category at the Glass of Bubbly Awards is to identify those sparkling wines that conjure up the refreshing experience of the salty sea air you breathe as you take a walk on the beach on a breezy day. Surprising as it may seem, many wines, especially whites, give out a touch of salty expression both in aromas and flavours which mostly is an expression of the terroir of the grapes from mountain / river / sea freshness to the minerals from the earth extracted by the deep routes o…",
-          "link": "https://glassofbubbly.com/sea-breeze-levels-in-sparkling-wines/",
-          "publishedOn": "2021-04-26T07:25:40.000Z",
-          "wordCount": 837,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Sea Breeze Levels in Sparkling Wines"
-        },
-        {
-          "description": "&#20013;&#22269;&#30340;&#33889;&#33796;&#37202;&#30456;&#27604;&#27431;&#27954;&#33889;&#33796;&#37202;&#20135;&#19994;&#36215;&#27493;&#36739;&#26202;&#65292;&#20294;&#22312;&#20445;&#35777;&#36136;&#37327;&#26041;&#38754;&#21487;&#20197;&#35828;&#36208;&#22312;&#20102;&#19990;&#30028;&#30340;&#21069;&#21015;&#12290;&#28895;&#21488;&#24352;&#35029;&#20844;&#21496;&#22312;&#24314;&#21378;&#20043;&#21021;&#23601;&#26377;&#33258;&#24049;&#30340;&#33889;&#33796;&#22253;&#21644;&#37202;&#31382;&#65292;&#29978;…",
-          "link": "https://mp.weixin.qq.com/s?__biz=MzU1NDA0OTU1OQ==&mid=2247486751&idx=1&sn=f7fb05e5dd2956a6d82b842e9d21fd94&chksm=fbe8c467cc9f4d715782058a7dafe4c15256943127549f146821138a5e7b5a9d9813eac35111&xtrack=1&scene=90&subscene=93&sessionid=1619409457&clicktime=1619409523&enterid=1619409523&ascene=56&devicetype=android-28&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=A435pxu81Y8MehKO/RkQlAM=&pass_ticket=Oc8oBH1K20eaZzFuaIMQjrkcHabd9Y+2uQ9tYPEeoCtK8FBlh1Ch+BOzV4D4u0TB&wx_header=1",
-          "publishedOn": "2021-04-26T03:59:06.000Z",
-          "wordCount": 82,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "世界上最早的“在酒庄内装瓶”的葡萄酒——张裕葡萄酒"
-        },
-        {
-          "description": "&copy; WBM\r\n| The new Brexit reality is causing friction for wine exporters and producers across Europe.\nShipping wine to the UK is now a \"bloody nightmare\" and it's only likely to get worse.\n\r\nIs there a more disingenuous statement than \"get Brexit done\"?\nAlmost five years have passed since the United Kingdom voted to leave the EU, but the hard work is just beginning. I hope and pray that the great British public will eventually come to their senses. Surely they'll realize that frictionless trade with the …",
-          "link": "https://www.wine-searcher.com/m/2021/04/brexit-batters-british-wine-trade",
-          "publishedOn": "2021-04-26T03:02:13.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Brexit Batters British Wine Trade"
-        },
-        {
-          "description": "A couple of weeks ago I looked at the relationship between wine consumption and wine production (Does wine production increase wine consumption?). Another interesting relationship is between wine consumption and wine value, which I will delve into here.\nSo, let's have another look at the data for 2015, as contained in the Annual Database of Global Wine Markets, compiled by Anderson, Nelgen and Pinilla. Tables 238 (Expenditure per capita on wine) and 23 (Volume of beverage wine consumption per capita) contai…",
-          "link": "https://winegourd.blogspot.com/2021/04/the-cost-of-wine-consumed-differs.html",
-          "publishedOn": "2021-04-25T22:30:00.000Z",
-          "wordCount": 1212,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The cost of wine consumed differs greatly between countries"
-        },
-        {
-          "description": "Troon winemaker Nate Wall loads our first amphora to arrive at Troon in 2019. We now have five. \nThe wine was a technical perfection. It was made with beautiful, ripe fruit by a talented, technically proficient winemaker. The color was gorgeous, but there is one big problem. I could not bear to drink it.&nbsp;\nThe wine tasted like a big California pinot &mdash; not, as they said on Seinfeld, that there&rsquo;s anything wrong with that. The problem was that this wine was from Burgundy.&nbsp;\nNew oak and I ha…",
-          "link": "http://feedproxy.google.com/~r/squarespace/CpLt/~3/9TmmE3_HxtI/neutral-oak",
-          "publishedOn": "2021-04-25T22:08:10.000Z",
-          "wordCount": 1173,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Neutral Oak"
-        },
-        {
-          "description": "Rosemary George MW shares why she believes that Roussillon deserves to be recognised as its own distinct wine region, no longer only an appendage to Languedoc, and how she researched her latest book on the region, The Wines of Roussillon. Why write a book on the wines of Roussillon? For the simple reason that Roussillon [&hellip;]\nThe post Stepping out of the Laguedoc&rsquo;s shadow: The Wines of Roussillon appeared first on Circle of Wine Writers.",
-          "link": "https://www.circleofwinewriters.org/stepping-out-of-the-laguedocs-shadow-the-wines-of-roussillon-by-rosemary-george-mw/",
-          "publishedOn": "2021-04-25T11:48:56.000Z",
-          "wordCount": 1723,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Stepping out of the Laguedoc’s shadow: The Wines of Roussillon"
-        },
-        {
-          "description": "Photo courtesy of Minu Han / Reception Bar\nFor me, it&rsquo;s never been about the buzz, but the tang of the drink. I remember my last glass of wine perfectly: I went to dinner at an Italian restaurant in New York City&rsquo;s East Village with a few friends, where we split a delicious bottle of Merlot. After our feast, we went to a concert in the Lower East Side where we drank a few more glasses of the house red.\nBy the time I got home, the wine was completely out of my system. While tending to my irritate…",
-          "link": "https://www.winemag.com/2021/04/25/non-alcoholic-drinks-social/",
-          "publishedOn": "2021-04-25T11:12:31.000Z",
-          "wordCount": 1256,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Endless Possibilities of Non-Alcoholic Drinks"
-        },
-        {
-          "description": "&#20182;&#65292;&#29702;&#26597;&#24503;&middot;&#20848;&#65292;&#26159;&#21382;&#21490;&#24736;&#20037;&#30340;&#22269;&#38469;&#33879;&#21517;&#21307;&#23398;&#26399;&#21002;&#12298;&#26611;&#21494;&#20992;&#12299;&#30693;&#21517;&#32534;&#36753;&#12290;\n\n\n&#20182;&#65292;&#36824;&#26377;&#19968;&#20010;&#36523;&#20221;&#65292;&#23601;&#26159;&#19990;&#30028;&#39318;&#20301;&#30450;&#20154;WSET&#22235;&#32423;&#12290;\n\n\n\n&nbsp;\n\n\n\n\n\n&#21021; &#27425; &#30456; &#36898;\n\n\n\n&nbsp;\n&#31532;&#19968;&#27425;&#3…",
-          "link": "http://mp.weixin.qq.com/s?__biz=MzIzNzIxMjU4MQ==&mid=2651149854&idx=1&sn=717a14c06dd0b8dba2830c0c033665ff&chksm=f33df0d4c44a79c2e3ae6e11476cde8fc69b5484fceaf033e5babb77d4412c0fb7e915ac153b&scene=0&xtrack=1#rd",
-          "publishedOn": "2021-04-25T09:45:28.000Z",
-          "wordCount": 167,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "东施笑评: 世上唯一真正“盲品”的四级诞生了！"
-        },
-        {
-          "description": "What kind of wine is Vin Santo?\nThere is an abundance of diverse wines waiting to be discovered in Italy. Over 350 grape varieties are authorized for commercial wine production; this includes a vast selection of exquisite dessert wines, each with its unique regional significance. Recognized for its mysterious ancient origins and exceptional production methods, Vin Santo is one of the most world-renowned Italian dessert wines and is featured on our Private Tuscan Winery Tour.\n\nThe History of Vin Santo\nThough…",
-          "link": "https://www.cellartours.com/blog/italy/vin-santo-italys-holy-dessert-wine",
-          "publishedOn": "2021-04-25T09:25:52.000Z",
-          "wordCount": 2338,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Vin Santo – Italy’s Holy Dessert Wine"
-        },
-        {
-          "description": "The last year has seen people sign up for home delivery wine services and subscription sites like never before. But are they going to carry on ordering once the on-trade is fully back and open and we are not all confined to our homes? Will consumers still be as keen to taste and discover new wines?\nJosh Lachkovic believes he has a wine subscription service &ndash; Wine List &ndash; that can work post pandemic and appeal to those who may only have a beginner&rsquo;s level of knowledge of wine, but are keen t…",
-          "link": "http://www.the-buyer.net/people/wine-list-subscription-service-appeals-to-newcomers/",
-          "publishedOn": "2021-04-25T08:21:41.000Z",
-          "wordCount": 2109,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Wine List subscription service is aimed at newcomer wine drinkers"
-        },
-        {
-          "description": "Let our global subject matter experts broaden your perspective with timely insights and opinions you can&rsquo;t find anywhere else. \n  \n  \n  \n  Choose your subscription \n   \n  Full Terms and Conditions apply to all Subscriptions.",
-          "link": "https://www.ft.com/content/1d065117-eba4-4665-a301-b0dade102d78",
-          "publishedOn": "2021-04-25T07:37:04.000Z",
-          "wordCount": 978,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Champagne without bubbles? On the charm of still wines"
-        },
-        {
-          "description": "&copy; RNZ\r\n| Wine plays a crucial role in the Catholic Mass.\nAltar wine goes natural and a winemaker decries profiteering at auction in this week's news round-up.\n\r\nNatural wine officially holier than thou\nPolice in Quebec siezed significant quantities of sacramental wine earlier this month as part of a clampdown on interstate wine shipping outside of Canada's tightly regulated distribution channels. Wines were confiscated in both Quebec and Montreal as they were not sold through the regional liquor board,…",
-          "link": "https://www.wine-searcher.com/m/2021/04/holy-war-over-religious-wines",
-          "publishedOn": "2021-04-25T03:30:48.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Holy War over Religious Wines"
-        },
-        {
-          "description": "Cabernet Sauvignon just after bud break \nNapa\n We are off to a dry but fast start here in Napa. Bud break was only a few weeks ago but already many vineyards are at the 6&rdquo; shoot mark. So far this season is shaping up to be the driest on record which could mean amazing quality but very high risk for wild fires. As a winemaker, one can only hope that with the fires of the past 5 years, everything around us has burned significantly recently to not be a major fire threat due to lack of abundant fuel. \n Th…",
-          "link": "http://www.novacadamatre.com/vintage-2021-spring-update/",
-          "publishedOn": "2021-04-25T01:35:26.000Z",
-          "wordCount": 728,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Vintage 2021: Spring Update"
-        },
-        {
-          "description": "When Jake Bullock and Luke Anderson worked together as consultants at Bain &amp; Co. in 2014, they argued over cannabis. While neither had been big pot smokers, they saw the obvious potential in the industry, particularly as legalization expanded across America. But Bullock, who grew up in Colorado, where medical marijuana has been legal since 2000, was pushing a new category beyond flower and edibles. He told Anderson that one day, small-dose cannabis beverages would take a share of beer, wine and spirit s…",
-          "link": "https://www.forbes.com/sites/willyakowicz/2021/04/23/meet-cann-the-bestselling-cannabis-beverage-thats-coming-hard-at-hard-seltzer-ellen-degeneres-weed-drinks/?sh=5918b3166771",
-          "publishedOn": "2021-04-25T01:33:30.000Z",
-          "wordCount": 2188,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Meet Cann, The Bestselling Cannabis Beverage That’s Coming Hard At Hard Seltzer"
-        },
-        {
-          "description": "This is not an article about sparkling wine, but about some groundbreaking still 2018s. A version of this article is published by the Financial Times. Danbury Ridge, in a particularly warm spot near Maldon in Essex, was pictured above by John Mobbs of Great British Wine.\n Ever-warmer summers keep delivering more and more wines that would have been unthinkable two or three decades ago when the grapes would simply not have been ripe and healthy enough: Norwegian Riesling, Nova Scotia fizz, Belgian Chardonnay …",
-          "link": "https://www.jancisrobinson.com/articles/breaking-new-ground-champagne-and-england",
-          "publishedOn": "2021-04-25T01:30:37.000Z",
-          "wordCount": 1487,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Breaking new ground in Champagne and England"
-        },
-        {
-          "description": "A study from the Catena Institute of Wine finds chemical evidence that the soils in which a vineyard grows leave an indelible stamp on the wine",
-          "link": "https://www.winebusiness.com/?go=getNewsLink&dataId=244575",
-          "publishedOn": "2021-04-23T14:21:00.000Z",
-          "wordCount": 1683,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Proof of Terroir? Researchers Dig Deep into Argentine Malbec"
-        },
-        {
-          "description": "&copy; USGS\r\n| California is used to drought, but recent conditions have caused concern.\nA month-long dry spell has growers and producers worried and state authorities are preparing to act.\nBy W. Blake Gray | Posted Friday, 23-Apr-2021\n\r\nNorthern California has not had a drop of rain for 35 days.\nOn Wednesday, Gov. Gavin Newsom declared a drought emergency for Sonoma and Mendocino Counties, delivering his press conference from the dry lakebed of Lake Mendocino.\n\"I'm standing currently 40 feet underwater, or…",
-          "link": "https://www.wine-searcher.com/m/2021/04/drought-emergency-for-northern-california-wineries",
-          "publishedOn": "2021-04-23T03:06:39.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Drought Emergency for Northern California Wineries"
-        },
-        {
-          "description": "&#28857;&#20987;&#19978;&#26041;&#20844;&#20247;&#21495;&#21517;&#31216;&ldquo;Decanter&#37255;&#37492;&rdquo;&#65292;\n\n&#20851;&#27880;&#33521;&#22269;&#33889;&#33796;&#37202;&#26434;&#24535;Decanter&#23448;&#26041;&#24494;&#20449;&#21495;\n\n\n\n\n&#21697;&#37202;&#35789;&#37324;&#24120;&#24120;&#20986;&#29616;&#20004;&#31181;&#32993;&#26898;&#39118;&#21619;&#65306;&#40657;&#32993;&#26898;&#65288;black pepper&#65289;&#21644;&#30333;&#32993;&#26898;&#65288;white pepper&#65289;&#12290;&#20004;&#32773;&#20195;&#3…",
-          "link": "https://mp.weixin.qq.com/s?__biz=MzU3NjU1ODUzMw==&mid=2247497045&idx=1&sn=de4b570b9ca39aede3e9baf9039e97c0&chksm=fd10b1ffca6738e92a0079fb04fe3feeae9526a3c743f6c7103b548f3521157dfc186b6ea2e7&&xtrack=1&scene=90&subscene=93&sessionid=1619134646&clicktime=1619136175&enterid=1619136175#rd",
-          "publishedOn": "2021-04-23T00:03:07.000Z",
-          "wordCount": 77,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "品酒词里的黑胡椒&amp;白胡椒，有什么区别？——问问Decanter"
-        },
-        {
-          "description": "Amarone della Valpolicella is one of Italy&rsquo;s true classics. In English, Amarone [pronunciation &ndash; aa&middot;muh&middot;row&middot;nei] roughly translates as &lsquo;the Great Bitter&rsquo; &ndash; this is an unfortunate and misleading piece of nomenclature. There is nothing remotely &lsquo;bitter&rsquo; about Amarone. Yet it is undoubtedly worthy of being described as &lsquo;great.&rsquo; Amarone is an iconic wine style that has gone from strength to strength over the past 20 years. It deserves a …",
-          "link": "https://www.cellartours.com/blog/italy/amarones-ascent",
-          "publishedOn": "2021-04-23T00:02:30.000Z",
-          "wordCount": 2179,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Amarone&#039;s ascent » Cellar Tours"
-        },
-        {
-          "description": "Jammy. Brambly. Bold. These are descriptors often used when talking about Zinfandel, a California grape with a tempestuous past, but a possibly promising future. \n Zinfandel&rsquo;s history dates back to the 1830s on the East Coast and continued to move west, where it landed in California around 1850. Prohibition drove it to the brink of commercial extinction, and it wasn&rsquo;t until the 1970s when it started to regain its footing in California&rsquo;s wine industry. Its old, gnarly vines produced low yie…",
-          "link": "https://imbibemagazine.com/the-tangled-tale-of-zinfandel/",
-          "publishedOn": "2021-04-23T00:01:07.000Z",
-          "wordCount": 2554,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Tangled Tale of Zinfandel - Imbibe Magazine"
-        },
-        {
-          "description": "For the Gro&szlig;es Gew&auml;chs and Erstes Gew&auml;chs wines, the region protection associations determine the grape varieties and other special sensory characteristics that match the regional profile. They can also define additional requirements for the use of the designations, such as certain maximum yields per hectare or minimum must weights.\n Associations that already use the terms Gro&szlig;es Gew&auml;chs and Erstes Gew&auml;chs may continue to use them if they meet certain minimum requirements fro…",
-          "link": "https://www.germanwines.de/knowledge/quality-standards/new-regulations-in-the-german-wine-law/new-origin-pyramid-for-qualitaetsweine/?fbclid=IwAR02bZhgVEl3G8OUeS32YXcYOw-aZhgUBFlizggUSd0C1XUXNFZ2rvgLFPk",
-          "publishedOn": "2021-04-22T23:45:15.000Z",
-          "wordCount": 1690,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "New Origin Pyramid for Qualitätsweine"
-        },
-        {
-          "description": "Oh, the questions a blogger gets&hellip; Most questions posed to me based on my status as a blogger/publisher come in the form of questions posed in the comment section of my posts. But others come via email. Boy do they run the gamut. Here is the post where I answer them publicly. Enjoy&hellip; _______________________________________ Tom, Thank you for your blog. I&rsquo;ve been reading on and off for years. But it seems you never review wines, but here you are in...\nThe post The Gamut and Gauntlet of Ques…",
-          "link": "https://fermentationwineblog.com/2021/04/the-gamut-and-gauntlet-of-questions-for-wine-bloggers/",
-          "publishedOn": "2021-04-22T18:46:45.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Gamut and Gauntlet of Questions for Wine Bloggers"
-        },
-        {
-          "description": "The Subscription Economy and the Evolving Wine Buyer",
-          "link": "https://www.winebusiness.com/blogs/?go=readBlogEntry&dataId=244543",
-          "publishedOn": "2021-04-22T16:00:00.000Z",
-          "wordCount": 2,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Subscription Economy and the Evolving Wine Buyer"
-        },
-        {
-          "description": "Photo by Ashton Worthington\n\nIn Greece, wine is deeply woven into the fabric of everyday society and is a central component of cultural history.&nbsp;\nThe country is one of the world&rsquo;s most ancient viticultural locations. References to consumption and cultivation appear in literature and historical texts as early as the 17th century B.C. Indigenous wine varieties once favored by Hesiod and Aristotle are still produced today.&nbsp;\n&ldquo;Wine has played a central role in everyday Greek life for more t…",
-          "link": "https://www.winemag.com/2021/04/22/best-greek-wines-varieties-assyrtiko/",
-          "publishedOn": "2021-04-22T14:01:25.000Z",
-          "wordCount": 3200,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Ancient Greek Varieties Making Thoroughly Modern Wines"
-        },
-        {
-          "description": "Have you heard of the Triple A label? This is an emerging ripple in the new wave of natural wine, from wines with little or no added sulphur, to slightly more demanding concepts (wild yeasts, maturing on fine lees, no fining or filtering). iDealwine is proud to be an online distributor for this exciting, new label, so let us tell you more about it!\niDealwine&rsquo;s tasting committee had the chance to try some Triple A bottles, and they then put together a tailored selection for you.\nTriple A is a label tha…",
-          "link": "https://www.idealwine.info/triple-a-selection-a-new-artisan-label/",
-          "publishedOn": "2021-04-22T09:41:35.000Z",
-          "wordCount": 1416,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "What is Triple A? | A natural, artisan label"
-        },
-        {
-          "description": "&ldquo;Far from being more of the same, Pays d&rsquo;Oc IGP ros&eacute;s are proving to be able to offer some intriguing diversity and are worthy of greater exploration,&rdquo; writes Gabay.\nWith the Pays d&rsquo;Oc IGP label producing the largest volume of ros&eacute; in France, from a vast geographical region, it should come as no surprise that there is a wide range of styles offering a diverse selection. Add to the mix the inclusion of 58 permitted varieties, this 2021 review of ros&eacute;s includes bot…",
-          "link": "http://www.the-buyer.net/tasting/wine/elizabeth-gabay-2020-pays-doc-igp-rose/?utm_source=rss&utm_medium=rss&utm_campaign=elizabeth-gabay-2020-pays-doc-igp-rose",
-          "publishedOn": "2021-04-22T07:04:54.000Z",
-          "wordCount": 1505,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Elizabeth Gabay MW: diversity of the 2020 vintage of Pays d’Oc IGP Rosé"
-        },
-        {
-          "description": "&copy; Pikist\r\n| Recent frost in France caused losses of up to 80 percent of grapes in some areas.\nAfter unprecedented frost damage across French vineyards, Tom Jarvis looks at what can be done to fight it.\n\r\nJack Frost holds an icy sword above the heads of many vineyard managers.\nHe can strike vineyards (and other crops) at various times of the year. Episodes are of less concern during winter when the vine has shut down &ndash; assuming the variety and rootstock are sufficiently winter-hardy.\nIn most viney…",
-          "link": "https://www.wine-searcher.com/m/2021/04/the-complete-guide-to-fighting-frost",
-          "publishedOn": "2021-04-22T03:08:33.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Complete Guide to Fighting Frost"
-        },
-        {
-          "description": "Losing a vineyard to disease is &ldquo;extremely painful,&rdquo; says Adam Tolmach, cofounder of The Ojai Vineyard. In 1981, he planted more than five acres of mostly Syrah on Ventura County land that his grandfather purchased a half-century earlier. His last vintage was in 1995.\n&ldquo;You put your heart and soul into it,&rdquo; says Tolmach. &ldquo;I planted every one of the vines and nurtured them. It was like my baby that I was working on. It was very heartbreaking to have it slowly die off.&rdquo;\nThe …",
-          "link": "https://www.winemag.com/2021/04/20/hybrid-grapes-california-wine/",
-          "publishedOn": "2021-04-22T01:33:23.000Z",
-          "wordCount": 2228,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "California Wines Made With New Hybrid Grapes Hold Promise, If Anyone Will Drink Them"
-        },
-        {
-          "description": "Image: Grapevine virology PhD student Kamalpreet with Dr Fiona Constable in Mildura December 2020.\nBy Vinehealth Australia\nFiona Constable, the Research Leader for Microbiology, in the Microbial Sciences, Pests and Diseases group at Agriculture Victoria, says five things are critical for improving virus management in the Australian wine industry: understanding vectors, using high health planting material, improving surveillance, improving diagnostics and getting better at farm-gate hygiene.\n&ldquo;We desper…",
-          "link": "https://winetitles.com.au/improving-virus-management-in-the-australian-wine-industry/",
-          "publishedOn": "2021-04-22T00:22:53.000Z",
-          "wordCount": 781,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Improving virus management in the Australian wine industry"
-        },
-        {
-          "description": "It&rsquo;s easy to scoff at biodynamic viticulture, but South Australia&rsquo;s winemaking community has some dedicated adherents to the farming philosophy. Citymag spoke to four SA wineries about their use of biodynamics.\n\nThe post Biodynamics and the pursuit of better wine appeared first on Winetitles.",
-          "link": "https://citymag.indaily.com.au/habits/plate-and-cup/biodynamics-and-the-pursuit-of-better-wine/#new_tab",
-          "publishedOn": "2021-04-22T00:21:55.000Z",
-          "wordCount": 1445,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Biodynamics and the pursuit of better wine"
-        },
-        {
-          "description": "Even as the hard seltzer craze continues in the beverage alcohol marketplace, many vintners are now trying to capitalise on the fast-rising &ldquo;Better for You&rdquo; wine segment, as American drinkers continue to crave health- and wellness-oriented products. These new wines boast fewer calories, fewer carbohydrates, and even lower alcohol.\n\nThe post Low-calorie wines on a rapid rise appeared first on Winetitles.",
-          "link": "https://www.shankennewsdaily.com/index.php/2021/04/20/28477/low-calorie-wines-on-a-rapid-rise-benefiting-from-consumer-wellness-trend/#new_tab",
-          "publishedOn": "2021-04-22T00:17:31.000Z",
-          "wordCount": 1026,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Low-calorie wines on a rapid rise"
-        },
-        {
-          "description": "Graphic via https://www.germanwines.de/\n\nAsk any wine student, and they will be eager to tell you: German wines are confusing. When you consider the combination of gothic-style script on labels, overlapping levels of the Pr&auml;dikat, and a seemingly never-ending list of places-of-origin (only some of which are government-approved and therefore considered official)&mdash;most wine educators would agree.\nHang on to your hats, wine lovers, because the categorization and classification of German wines is abou…",
-          "link": "http://winewitandwisdomswe.com/2021/04/21/on-the-riesling-radar-new-place-specific-appellations-in-store-for-germany/",
-          "publishedOn": "2021-04-21T18:00:53.000Z",
-          "wordCount": 2027,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "On the Riesling Radar: New Place-Specific Appellations in Store for Germany"
-        },
-        {
-          "description": "Rioja: The Past Is Always Present&nbsp;\nBY JOSH RAYNOLDS | APRIL 22, 2021\nChange comes slowly in Rioja. Many of the winemaking practices that were in place when the region was established in the third quarter of the 19th century are widely used today. Grapes are pressed traditionally and most of the best wines are aged, sometimes for many years, in oak barrels of various sizes, with a preference towards American oak. Many winemakers see oxidation during aging as an asset, not a flaw, that when done correctl…",
-          "link": "https://www.vinous.com/articles/rioja-the-past-is-always-present-apr-2021",
-          "publishedOn": "2021-04-21T16:00:00.000Z",
-          "wordCount": 2751,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Rioja: The Past Is Always Present"
-        },
-        {
-          "description": "Photograph by Krystian Krzewinski  \n\n\n\nThis year, we&rsquo;re tasting 2020 En Primeur in Basingstoke rather than Bordeaux. With the samples freshly arrived from the ch&acirc;teaux, discover how the team approached the vintage and hear Bordeaux Buyer Max Lalondrelle&rsquo;s first impressions.\nFresh from the tasting: Bordeaux 2020 En Primeur\nThe build-up to tasting Bordeaux En Primeur is always exciting. Usually, the final flurry of preparation involves finalising itineraries and flights; this year, with Covi…",
-          "link": "https://blog.bbr.com/2021/04/21/bordeaux-2020-en-primeur-tasting-the-vintage/",
-          "publishedOn": "2021-04-21T15:04:15.000Z",
-          "wordCount": 757,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Bordeaux 2020 En Primeur: tasting the vintage"
-        },
-        {
-          "description": "Beginning in March 2020, American wineries began to see the impact on direct-to-consumer shipments due to pandemic lockdowns and isolating inside our homes. We are just now beginning to see a hint of what a post-pandemic DTC market can look like. The beginnings of the pandemic led to a 30% year-over-year increase in winery shipments in March 2020. The March 2020 thirty-percent increase in the volume of shipments far exceeded the average monthly increases seen in previous months of March....\nThe post First E…",
-          "link": "https://fermentationwineblog.com/2021/04/first-end-of-pandemic-wine-dtc-data-is-good-news/",
-          "publishedOn": "2021-04-21T14:36:52.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "First End-of-Pandemic Wine DTC Data Is Good News"
-        },
-        {
-          "description": "It is the ultimate signal of what&rsquo;s in the bottle, yet the wine label is often the victim of misunderstanding on the part of the brand owner. Can consumer sentiment help?\n\nWhen asked about their archetypal consumer, many wine brand owners default to a similar answer: someone educated, high earning, well respected, aesthetically sophisticated, thoughtful, adventurous, enlightened, looking to demonstrate their cultural maturity but not in a flashy way. In other words, a sort of idealised version of them…",
-          "link": "https://www.wineintelligence.com/why-wine-labels-matter/",
-          "publishedOn": "2021-04-21T08:51:55.000Z",
-          "wordCount": 1475,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Why wine labels matter"
-        },
-        {
-          "description": "&copy; AFP\r\n| Consumption in China has fallen sharply, impacting on global figures.\nDespite reports to the contrary, 2020 saw a decline in how much wine we drank.\nBy W. Blake Gray | Posted Wednesday, 21-Apr-2021\n\r\nThis doesn't sound like a recipe for a healthy wine industry:Worldwide, wine production is up, but consumption is down. And the average price of wines exported worldwide has dropped.\nThese were some of the findings released Tuesday by OIV, the International Organisation of Vine and Wine.\nPerhaps t…",
-          "link": "https://www.wine-searcher.com/m/2021/04/global-wine-consumption-hits-a-new-low",
-          "publishedOn": "2021-04-21T07:00:00.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Global Wine Consumption Hits a New Low"
-        },
-        {
-          "description": "Nested in the discussion of &ldquo;Big&rdquo; versus &ldquo;Small&rdquo; Champagne is an interesting question I saw posed by Oregon winemaker Jason Lett of Eyrie vineyards:\n&ldquo;Is the Traditional Method antithetical to terroir?&rdquo;\nFew sparkling wines can trace their origin back to a single, discrete place. Even when they can, we have a problem when talking about the transparency of the Traditional Method; the greatest sites for sparkling wines produce grapes with gaps in. The Traditional Method began…",
-          "link": "https://timatkin.com/wines-invisible-cities/",
-          "publishedOn": "2021-04-21T06:21:06.000Z",
-          "wordCount": 981,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Wine’s Invisible Cities"
-        },
-        {
-          "description": "In 1990 I went to work for a wine-oriented PR firm in Santa Rosa, California. I was fresh off the college boat, had never worked in public relations and the only insight I had into how the media works was that I saw newspapers and magazines arrived at my home with relative regularity. I didn&rsquo;t know any journalists or writers. I read a lot, but the idea of speaking with writers and suggesting topics for them to write about held...\nThe post Wine, Mind Share and the Media&mdash;A Potent Combo Still appea…",
-          "link": "https://fermentationwineblog.com/2021/04/wine-mind-share-and-the-media-a-potent-combo-still/",
-          "publishedOn": "2021-04-20T16:55:17.000Z",
-          "wordCount": 1938,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Wine, Mind Share and the Media—A Potent Combo Still"
-        },
-        {
-          "description": "&#21407;&#21019;  &#22799;&#33945;    &#36125;&#20070;&#21333;  \n  &#36125;&#20070;&#21333;  \n  bookpage \n   &#22855;&#20070;&#20849;&#36175; \n      \n   \n  \n\n\n\n&#20170;&#22825;&#20013;&#21320;&#65292;&#27754;&#23567;&#33778;&#21457;&#20102;&#19968;&#26465;&#24494;&#21338;&#65306;&ldquo;&#23545;&#26152;&#26202;&#30340;&#20107;&#24773;&#23454;&#22312;&#25265;&#27465;&#65292;&#21487;&#33021;&#38548;&#31163;&#22826;&#20037;&#20102;&#20986;&#26469;&#21917;&#20102;&#28857;&#23601;&#26377;&#28857;&#20799;&#25918;&…",
-          "link": "https://mp.weixin.qq.com/s?__biz=MzA3MDc1MTE3MA==&mid=2453719074&idx=1&sn=0507e9d204ec2d17c6bbe3b429ca5aa2&chksm=888c6e8fbffbe7997408c3b5d958fae4c6636ac74093bc0b5721be6c779466fe534c7c777afe&sessionid=0&scene=126&clicktime=1618936193&enterid=1618936193&ascene=3&devicetype=android-28&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=A3n7BJA9uGPEWdjqF3+jAUE=&pass_ticket=dzw1cOWFkqA3sISS1rJvz1Rkn9YTM8d67ZFyIcbynZa3tH/HW9YNl4/spHxoOcAS&wx_header=1",
-          "publishedOn": "2021-04-20T16:35:59.000Z",
-          "wordCount": 48,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "汪小菲昨晚到底喝了多少？"
-        },
-        {
-          "description": "Remembering Pio Boffa\nBY ANTONIO GALLONI&nbsp;| APRIL 21, 2021\nThe news came over the weekend. It was not unexpected, but shocking just the same. Pio Boffa had succumbed to COVID-19 after a two-week battle in the hospital the texts said. And with that, Piedmont had lost another reference point.\nPio Boffa was the fourth generation to run his family&rsquo;s Pio Cesare winery in Alba. He spearheaded many important initiatives at Pio Cesare, including the acquisition of numerous vineyards and the introduction o…",
-          "link": "https://www.vinous.com/articles/remembering-pio-boffa-apr-2021",
-          "publishedOn": "2021-04-20T16:00:00.000Z",
-          "wordCount": 792,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Remembering Pio Boffa"
-        },
-        {
-          "description": "Eight wine shop buyers share their picks, from an offbeat Provencal standby to a smoky, frothy pink Lambrusco.\nThe post Essential Ros&eacute;s for Right Now appeared first on PUNCH.",
-          "link": "https://punchdrink.com/articles/best-essential-spring-summer-roses-for-right-now/",
-          "publishedOn": "2021-04-20T10:00:38.000Z",
-          "wordCount": 1500,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Essential Rosés for Right Now"
-        },
-        {
-          "description": "The Champagne 2020 vintage is the third high quality and very warm harvest in a row; a trilogy of vintages that resembles 1988, &rsquo;89 and 90, in terms of quality, but picked much earlier.&nbsp;\nGloriously ripe but balanced and practically disease free, 2020&rsquo;s potential was recognised at the time of the harvest. \nBut eight months on, a Zoom tasting of the vins clairs (still base wines) from the 15 top growers in the Les Mains du Terroir de Champagne group has given another chance to assess its qual…",
-          "link": "https://www.decanter.com/wine-news/champagne-2020-wines-vins-clairs-tasting-456645/",
-          "publishedOn": "2021-04-20T09:35:15.000Z",
-          "wordCount": 845,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "How Champagne 2020 wines are shaping up"
-        },
-        {
-          "description": "We are celebrating&nbsp; the tenth anniversary of the publication on my book Wine Wars here at Wine Economist world headquarters and I want to use this opportunity to reflect on how the wine world has changed since 2011. As I explained in last week&rsquo;s column, Wine Wars is organized around a trio of strong forces that together (along with other factors, of course) shape the wine sector and many other industries, t00.&nbsp; In very simple terms &hellip;\n\nGlobalization drives change. Commodification is a …",
-          "link": "https://wineeconomist.com/2021/04/20/wine-wars-update-second-thoughts/",
-          "publishedOn": "2021-04-20T09:01:46.000Z",
-          "wordCount": 2650,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The New Wine Wars"
-        },
-        {
-          "description": "Brunello di Montalcino 2016: vintage report\n\nVintage rating: 5/5\nWarm but not excessive, with sufficient well timed precipitation and significant diurnal temperature differences. The 2016 vintage offers structured, ageworthy wines with profound depth, soaring acidity and plenty of drinking pleasure.\n\n\n\n\nWith this latest release of Brunello, it is finally Montalcino&rsquo;s moment to bask in the glories of Tuscany&rsquo;s 2016 vintage. &lsquo;If we could control the weather by thermostat, 2016 is exactly how…",
-          "link": "https://www.decanter.com/premium/brunello-di-montalcino-2016-vintage-report-456606/",
-          "publishedOn": "2021-04-20T07:00:26.000Z",
-          "wordCount": 606,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Brunello di Montalcino 2016: vintage report and top wines"
-        },
-        {
-          "description": "By AFP - Agence France Presse\n\n\n\n\n\n  April 17, 2021\n\n                  \n\n                  \n\n  \n\n  \n\n\n\n      \n\n      \nThe Swiss village of Champagne has been fighting for years to use its name on its products\n \n      \nText size\n      \n      \n    \nThe tiny Swiss village of Champagne has lost another fight to get its name on the wine it produces, according to a report on Saturday, the latest blow in a long-running legal battle with France over the name.\n The dispute has pitted the western village in the Swiss…",
-          "link": "https://www.barrons.com/news/swiss-village-champagne-loses-another-fight-to-get-name-on-wine-01618665615",
-          "publishedOn": "2021-04-20T02:41:05.000Z",
-          "wordCount": 633,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Swiss Village Champagne Loses Another Fight To Get Name On Wine"
-        },
-        {
-          "description": "As cannabis emerges as a burgeoning and profitable crop in California, its path out of the shadows has been rocky and inconsistent in areas where the wine grape has been dominant.\nBoth Sonoma and Mendocino counties this month are taking steps to write rules for commercial cultivation of a cannabis plant that had an estimated $4.4 billion in  legal sales last year statewide. In addition, retail dispensaries and processing plants are already part of a growing regional infrastructure.\nYet, Napa County remains …",
-          "link": "https://www.pressdemocrat.com/article/business/sonoma-and-napa-counties-differ-on-mixing-wine-and-cannabis-cultivation/",
-          "publishedOn": "2021-04-20T02:38:44.000Z",
-          "wordCount": 1757,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Sonoma, Napa counties diverge on mixing cultivation of wine grapes and weed"
-        },
-        {
-          "description": "Brianne Day makes a wide array of wines from the Willamette and Applegate Valleys in southern Oregon. Along with the usual pinot noirs and chardonnays, she also uses unexpected varieties and makes creative blends that are always a treat to try.\nWhen the pandemic struck in March 2020, she feared the worst, as her Day Wines tasting room closed along with the restaurants where many of her wines were sold.\n&ldquo;I freaked out,&rdquo; she said. &ldquo;I couldn&rsquo;t see how my winery and many like mine would …",
-          "link": "https://www.nytimes.com/2021/04/15/dining/drinks/wine-pandemic.html",
-          "publishedOn": "2021-04-19T23:59:04.000Z",
-          "wordCount": 1967,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "One Year Later: How U.S. Winemakers Averted Disaster"
-        },
-        {
-          "description": "Burgundy&rsquo;s 2020 harvest was one of the earliest on record. Higher-than-average temperatures throughout the growing season meant that farmers began picking on August 12. It was the&nbsp;continuation&nbsp;of a trend that has seen&nbsp;hot temperatures and dry weather&nbsp;become the norm in this&nbsp;otherwise mostly temperate region.&nbsp;\nClimate change&nbsp;has had&nbsp;a dramatic effect on Burgundy&rsquo;s vines and wines.&nbsp;As&nbsp;temperatures&nbsp;rise, the best vineyard sites become too warm.…",
-          "link": "https://www.winemag.com/2021/04/14/burgundy-grape-varieties-climate-change/",
-          "publishedOn": "2021-04-19T23:56:36.000Z",
-          "wordCount": 1639,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Burgundy Embraces New Varieties to Combat Climate Change"
-        },
-        {
-          "description": "One of America&rsquo;s most prolific wine bloggers, Jeff Siegel, has abandoned his long-standing wine blog for the blue skies of Substack, the subscription newsletter format, and making a buck. The trail of free posts, free observations, and free access to &ldquo;The Wine Curmudgeon&rdquo; runs from 2007 to 2021. In that time, Siegel grabbed the mantle of champion of the drinker of cheap wine. Now, he wants to make a buck after 14 years of giving it away for free. I...\nThe post The Brave and Attractive Move…",
-          "link": "https://fermentationwineblog.com/2021/04/the-brave-and-attractive-move-in-the-wine-writing-world/",
-          "publishedOn": "2021-04-19T23:18:00.000Z",
-          "wordCount": 1780,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Brave and Attractive Move in the Wine Writing World"
-        },
-        {
-          "description": "by Sonal Singh; feature photo by Lincoln Clarkes Education has always been a cornerstone in my family. It is what...\nThe post Sonal Singh: How Wine Served Me &ndash; Vinica&rsquo;s AgriDiversity Program; Part 1 appeared first on Quench Magazine.",
-          "link": "https://quench.me/longform/sonal-singh-how-wine-served-me-vinicas-agridiversity-program-part-1/",
-          "publishedOn": "2021-04-19T22:01:00.000Z",
-          "wordCount": 973,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Sonal Singh: How Wine Served Me – Vinica’s AgriDiversity Program; Part 1"
-        },
-        {
-          "description": "As the Black Death, also known as the Black Plague, ravaged Europe and Asia in the mid-1300s, people became increasingly desperate for any iota of respite. Some tried blood-letting. Others opted for rubbing onions&mdash;or, in some cases, a chopped snake&mdash;directly onto their infected boils.\nIf that wasn&rsquo;t quite doing the trick, a plague-stricken individual could always try drinking a wine-based curative, according to Pat McGovern, scientific director of the Biomolecular Archaeology Project at Pen…",
-          "link": "https://www.winemag.com/2021/04/14/history-wine-medicine-health/",
-          "publishedOn": "2021-04-19T20:59:43.000Z",
-          "wordCount": 2424,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Long, Winding Path of Wine as Medicine"
-        },
-        {
-          "description": "A recent masterclass has shone a light on the overlooked wines of Beaujolais, highlighting the versatility of the Gamay grape in the newly mapped terroir of the region&rsquo;s lesser known Crus.\nThe post Beaujolais revisited: &ldquo;understanding of the terroir is driving better quality wines&rdquo; appeared first on The Drinks Business.",
-          "link": "https://www.thedrinksbusiness.com/2021/04/beaujolais-revisited-understanding-of-the-terroir-is-driving-better-quality-wines/",
-          "publishedOn": "2021-04-19T15:56:51.000Z",
-          "wordCount": 1493,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Beaujolais revisited: “understanding of the terroir is driving better quality wines”"
-        },
-        {
-          "description": "&copy; MMD\r\n| Boffa was both a pioneer of and a champion for Piedmont winemaking.\nThe Covid-related death of Pio Cesare's Pio Boffa prompts Tom Hyland to remember his friend.\n\r\nPio Boffa, proprietor and managing director of the Pio Cesare winery in the town of Alba in Piedmont, Italy, passed away on Saturday, April 17 from Covid-19 complications. He was 66.\nBoffa, born in 1954 in Alba, was the son of Rosy Pio Boffa, the grandaughther of Cesare Pio, the founder of the winery in 1881. After graduating from hi…",
-          "link": "https://www.wine-searcher.com/m/2021/04/barolo-legend-boffa-dies",
-          "publishedOn": "2021-04-19T03:25:58.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Barolo Legend Boffa Dies"
-        },
-        {
-          "description": "Today, I&rsquo;m offering to you a guest post by Rachel Moore who works as a Marketing Manager at Rocky Mountain Barrel Company. Rocky Mountain Barrel Company provides used wooden barrels for spirits, like bourbon barrels, whiskey barrels, rum barrels, and wine barrels. Rachel Moore loves her combination of nature, wine, and nerdy friends who appreciate her homemade wines.\nThe long history of wine and oak is worth exploring, mainly because oak barrels are being used in wine aging literally forever. Oak is u…",
-          "link": "https://talk-a-vino.com/2021/04/18/guest-post-the-purpose-of-oak-barrels-in-the-wine-making-process/",
-          "publishedOn": "2021-04-19T02:38:12.000Z",
-          "wordCount": 2727,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Guest Post: The Purpose of Oak Barrels in the Wine Making Process"
-        },
-        {
-          "description": "A new way to get the Financial Times, tailored to your needs and your budget. Try our new suite of curated, digestible mini subscriptions available for a limited time.\nCancel anytime.",
-          "link": "https://www.ft.com/content/d651268a-bd8d-4c14-9d3f-dc8f9426dda0",
-          "publishedOn": "2021-04-18T23:15:51.000Z",
-          "wordCount": 978,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "April frosts are a bitter blow to Europe’s vineyards"
-        },
-        {
-          "description": "In the modern world, most people should be familiar with the Three-R environmental creed: Reduce, Reuse, Recycle. This management idea has a lot to do with sustainability, which is the 21st century approach to living in our world.\nThe Three-Rs are specified in their order of priority. That is, we should pro-actively reduce the usage of non-essentials, such as packaging. For the rest, we should preferably re-use or re-purpose used materials. For any remainder, we should retro-actively recycle it. Nothing sho…",
-          "link": "http://winegourd.blogspot.com/2021/04/re-use-is-not-often-part-of-three-rs.html",
-          "publishedOn": "2021-04-18T22:30:00.000Z",
-          "wordCount": 1683,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Re-use is not often a part of the three Rs"
-        },
-        {
-          "description": "In the modern world, most people should be familiar with the Three-R environmental creed: Reduce, Reuse, Recycle. This management idea has a lot to do with sustainability, which is the 21st century approach to living in our world.\nThe Three-Rs are specified in their order of priority. That is, we should pro-actively reduce the usage of non-essentials, such as packaging. For the rest, we should preferably re-use or re-purpose used materials. For any remainder, we should retro-actively recycle it. Nothing sho…",
-          "link": "https://winegourd.blogspot.com/2021/04/re-use-is-not-often-part-of-three-rs.html",
-          "publishedOn": "2021-04-18T22:30:00.000Z",
-          "wordCount": 1683,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Re-use is not often a part of the three Rs"
-        },
-        {
-          "description": "Expert wine tasters have a greater ability than non-experts to discriminate between and evaluate the sensory properties of wine. In this study the authors explore non-experts&rsquo; understanding of a set of 64 terms which are frequently used as descriptors of the sensory properties of wine. The results reinforce the idea that when people describe wine or convey information, there is a serious risk of misunderstandings occurring when experts communicate with standard consumers. This indicates a necessity fo…",
-          "link": "https://www.ciencia-e-vinho.com/2021/04/18/do-we-really-understand-what-experts-tell-us-about-wine/",
-          "publishedOn": "2021-04-18T14:17:49.000Z",
-          "wordCount": 1486,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Do we really understand what experts tell us about wine?"
-        },
-        {
-          "description": "This week's news roundup uncovers drug smuggling, great websites and a move for Krug.\n\r\nSex-shop founder nabbed after cocaine found in wine\nNew Zealand customs and police launched a joint operation earlier this month after discovering liquid cocaine had been smuggled into the country inside wine bottles sent from Germany. Dubbed \"Operation Vino\", the joint investigation reached its conclusion this week with the appearance of 76 year-old Carl Petersen and 25 year-old Alyse Wilson in Christchurch Court, in Ne…",
-          "link": "https://www.wine-searcher.com/m/2021/04/cocaine-wine-and-hungry-for-hungary",
-          "publishedOn": "2021-04-18T03:21:56.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Cocaine Wine and Hungry for Hungary"
-        },
-        {
-          "description": "Health warning labels (HWLs) on tobacco products reduce smoking. There is an absence of evidence concerning the impact of alcohol HWLs on selection or purchasing in naturalistic settings. Using a commercial-standard naturalistic shopping laboratory, this study aimed to estimate the impact on selection of alcoholic drinks of HWLs describing adverse health consequences of excessive alcohol consumption.                 A between-subjects randomised experiment with three groups was conducted: Group 1: image-and…",
-          "link": "https://www.storkapp.me/paper/showPaper.php?id=747056957",
-          "publishedOn": "2021-04-17T21:53:36.000Z",
-          "wordCount": 447,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Health warning labels and alcohol selection: a randomised controlled experiment in a naturalistic shopping laboratory."
-        },
-        {
-          "description": "5 &#22825;&#21069; - Hungary has a long, rich history of wine production. Historians have emphasized wine's importance to the development of both the Hungarian economy and Hungarian nationalism. This article ties together these historiographical threads through a case study of&nbsp;&hellip;",
-          "link": "https://www.cambridge.org/core/journals/austrian-history-yearbook/article/global-pests-national-pride-local-problems-and-the-crisis-of-hungarian-wine-18671914/D1535D4E9740E8EFA856B30BA15D3829",
-          "publishedOn": "2021-04-17T21:47:25.000Z",
-          "wordCount": 3769,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Global Pests, National Pride, Local Problems, and the Crisis of Hungarian Wine, 1867–1914"
-        },
-        {
-          "description": "Photo by Jo&atilde;o Neves\nYou might say Nebbiolo is the vinous equivalent to turning the&nbsp;amp&nbsp;to 11.&nbsp;High in acid, tannins and anthocyanins, it can&nbsp;be used to make&nbsp;a range of red wines with intense aromas and flavors. A native of Piedmont,&nbsp;Italy,&nbsp;its name is thought to derive from the Italian word for fog,&nbsp;nebbia,&nbsp;which&nbsp;blankets the Langhe during harvest. There, the grape&nbsp;fosters&nbsp;complex styles&nbsp;that are&nbsp;signature to the area,&nbsp;like&nb…",
-          "link": "https://www.winemag.com/2021/04/17/nebbiolo-australia-italy-guide/",
-          "publishedOn": "2021-04-17T11:00:47.000Z",
-          "wordCount": 1208,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Nebbiolo Finds its Footing Worldwide"
-        },
-        {
-          "description": "7 &#22825;&#21069; - Climate change is a global challenge, affecting the everyday lives of people as well as sectors globally. In particular, changing temperatures and climates have a profound effect on the food sector. Wine, for example, is especially touched as it has a specific climate niche&nbsp;&hellip;",
-          "link": "https://dspace.library.uu.nl/handle/1874/402116",
-          "publishedOn": "2021-04-17T09:45:33.000Z",
-          "wordCount": 496,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Vino Vini Viti: Climate Change Impacts and Adaptations for Small Wine Producers in Central Italy"
-        },
-        {
-          "description": "Hart of Gold 'Special Dosage' range\nInstead of the usual mixture of base wine and sucrose, Justin Howard-Sneyd MW of Domaine of the Bee is trialling a range of sweet wines as dosage to add an extra twist to his English wines, made in collaboration with Ridgeview.\nWhat is dosage?\nFor sparkling wines made using the traditional method (m&eacute;thode Champenoise), dosage is the winemakers&rsquo; final touch of adjustment to the fizz in the bottle.\nThe liquid mixture, or &lsquo;liqueur d&rsquo;exp&eacute;dition…",
-          "link": "https://www.decanter.com/premium/experimenting-with-sweet-wine-as-dosage-for-english-sparkling-wine-454858/",
-          "publishedOn": "2021-04-17T08:00:38.000Z",
-          "wordCount": 634,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Experimenting with sweet wine as dosage for English sparkling wine"
-        },
-        {
-          "description": "&copy; Champagne Roederer\r\n| Hundreds of wooden stoves lit to keep the vines warm at Champagne Roederer's nursery.\nUnseasonal frosts have hurt French growers. Caroline Henry reports from Champagne.\n\r\nAs much as one-third of the potential French grape harvest has been destroyed by an unusual cold snap, which could cost the industry as much as $2.4 billion.\nWinter made its comeback last week, and negative night temperatures were observed all over the country. The agricultural consequences are dire, so much so…",
-          "link": "https://www.wine-searcher.com/m/2021/04/winters-last-gasp-devastates-french-vineyards",
-          "publishedOn": "2021-04-17T03:22:07.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Winter's Last Gasp Devastates French Vineyards"
-        },
-        {
-          "description": "Nature can be so cruel. Above, one of the tens of thousands of anti-frost pots that were lit last week (all images by Gavin Quinney of Ch Bauduc in Bordeaux). A version of this article is published by the Financial Times.\n &Eacute;milie Faucheron repeatedly brushed away the tears and occasionally simply sobbed as she made a hoarse six-minute video last week reporting on the devastating effect of this year&rsquo;s spring frosts on her 60-hectare (148-acre) wine estate Domaine de la Grande Canague west of B&e…",
-          "link": "https://www.jancisrobinson.com/articles/europes-2021-vintage-shrunk-frost",
-          "publishedOn": "2021-04-17T01:33:18.000Z",
-          "wordCount": 1434,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Europe's 2021 vintage shrunk by frost"
-        },
-        {
-          "description": "While malt-based brands may have pioneered RTDs, the market since evolved to pre-mixed cocktails using real ingredients from the base spirit to fresh fruit and natural flavors. Now, premium brands like Bombay Sapphire and Decoy Wines are joining the ranks.",
-          "link": "https://www.forbes.com/sites/jilliandara/2021/04/16/a-shift-to-premium-the-newest-canned-beverages-are-reinventing-the-rtd-category/",
-          "publishedOn": "2021-04-16T14:30:00.000Z",
-          "wordCount": 1876,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "A Shift To Premium: The Newest Canned Beverages Are Reinventing The RTD Category"
-        },
-        {
-          "description": "Getty\nWhen White Claw and other hard seltzers scratched their way onto the scene in 2016, the wine industry was thrown on its heels. The new category exploded almost overnight, growing exponentially year-over year, unabated by even the pandemic.\nWhat was a $41 million industry five years ago is projected to exceed $2.5 billion in 2021, and it may reach $14.5 billion by 2027. That&rsquo;s still nowhere near wine&rsquo;s more than $330 billion annual impact, but every bite hurts.\nGetty\nHard seltzer appeals to…",
-          "link": "https://www.winemag.com/2021/04/16/best-low-calorie-wine-wellness/",
-          "publishedOn": "2021-04-16T12:00:40.000Z",
-          "wordCount": 1802,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Winemakers Bet Big on Low-Calorie, Low-ABV Bottles"
-        },
-        {
-          "description": "Photo courtesy of Apartamento Studios Vivanterre\nMy grasp on fashion has always been tenuous at best, but over the last few years, I&rsquo;ve felt a creeping&nbsp; sense of commonality with that world. It&rsquo;s an oft-repeated truth that wine brings people together, and in this case, it was natural wine that was intriguing both me and legions of models and designers at the same time.\nWhen I first saw Vivanterre wine, with its swoopy, organic shapes on the label&mdash;on Vogue, no less&mdash;the relationsh…",
-          "link": "https://www.winemag.com/2021/04/16/fashion-natural-wine-vivanterre/",
-          "publishedOn": "2021-04-16T11:00:38.000Z",
-          "wordCount": 1161,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Wild Side: Where Fashion and Natural Wine Meet"
-        },
-        {
-          "description": "Frost is an increasing problem in the wine world, with vineyards across many regions experiencing worse frosts as a result of climate chaos. Jamie Goode looks at the preventive measures that can be used to minimise damage, and explores the science of frosts and freezing in viticulture. \nAs I write, winegrowers in France and northern Italy are currently going through one of the worst spring frost episodes in recent memory. After a balmy end to March with temperatures on the 20s C (70s F) dormancy finished an…",
-          "link": "https://wineanorak.com/2021/04/16/frosts-and-freezing-a-look-at-the-science/",
-          "publishedOn": "2021-04-16T07:21:35.000Z",
-          "wordCount": 3089,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Frosts and freezing: a look at the science"
-        },
-        {
-          "description": "&copy; Gallo\r\n| With the South Carolina deal, the company's reach will run from the Pacific to the Atlantic.\nThe California wine giant is looking to set up more than just tasting rooms in South Carolina.\nBy Liza B. Zimmerman | Posted Friday, 16-Apr-2021\n\r\nE &amp; J Gallo is offering South Carolina legislators a $400 million investment slated to create at least 300 new jobs and give the wine giant a retail outpost on the East Coast.\nNew legislation &ndash; passed last Thursday by the South Carolina&nbsp;Stat…",
-          "link": "https://www.wine-searcher.com/m/2021/04/controversy-as-gallo-seeks-east-coast-foothold",
-          "publishedOn": "2021-04-16T03:20:12.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Controversy as Gallo Seeks East Coast Foothold"
-        },
-        {
-          "description": "The pop's gone out of the world's favorite fizz. How does champagne survive its biggest challenges since World War II?",
-          "link": "https://robbreport.com/food-drink/wine/champagne-crisis-1234607265/",
-          "publishedOn": "2021-04-15T20:00:00.000Z",
-          "wordCount": 1989,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "From the Pandemic to Prosecco: Why Champagne Sales Are Plummeting"
-        },
-        {
-          "description": "Belgium-based&nbsp;Concours Mondial, which runs some of the most influential wine and spirits competitions, is partnering with the Huailai region just beyond Beijing for an event focused on Marselan, which some call &ldquo;China&rsquo;s grape&rdquo; due to the tasty wines it is producing across the nation two decades after being introduced. The announcement of&nbsp;Marselan Selection&nbsp;was made April 2 in Chengdu ahead of&nbsp;Tang Jiu Hui, China&rsquo;s biggest and most important alcohol trade fair.\nMar…",
-          "link": "https://www.grapewallofchina.com/2021/04/16/marselan-selection-chinas-grape-gets-its-own-contest/",
-          "publishedOn": "2021-04-15T19:32:07.000Z",
-          "wordCount": 1190,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Marselan Selection: ‘China’s grape’ gets its own contest"
-        },
-        {
-          "description": "We round up the 10 top Malbec facts in honour of the annual celebration of the red grape, taking place on 17 April.&nbsp;\nThe post Top 10 Malbec facts to celebrate Malbec World Day appeared first on The Drinks Business.",
-          "link": "https://www.thedrinksbusiness.com/2021/04/top-10-malbec-facts-to-celebrate-malbec-world-day/",
-          "publishedOn": "2021-04-15T16:26:40.000Z",
-          "wordCount": 1484,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Top 10 Malbec facts to celebrate Malbec World Day"
-        },
-        {
-          "description": "Food and wine connoisseurs are a relatively new breed, but they were many decades in the making. The first shoots emerged in the early 1800s with the dawn of modern food and wine books, which provided readers with the knowledge and information they needed to be more discerning consumers. These reference books offered details on the best vintages, vineyards, and wines for the cellar, but the gestation period leading to the birth of genuine wine connoisseurship required over a century of use and misuse of the…",
-          "link": "https://www.guildsomm.com/public_content/features/articles/b/rebecca-gibb/posts/wine-connoisseur-history",
-          "publishedOn": "2021-04-15T16:00:00.000Z",
-          "wordCount": 3003,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Birth of the Wine Connoisseur"
-        },
-        {
-          "description": "&#26152;&#26202;&#65292;&#28145;&#26356;&#21322;&#22812;&#65292;&#30475;&#21040; Domainede la Grande Canague&#26356;&#26032;&#20102;&#21160;&#24577;&#65292;&#33258;&#24534;&#65292;&#30597;&#20004;&#30524;&#23601;&#21435;&#21628;&#21628;&#20102;&#12290;\n\n\n&#36825;&#19968;&#28857;&#24320;&#65292;&#22330;&#38754;&#23601;&#31361;&#28982;&#21464;&#24471;&#21313;&#20998;&#23604;&#23596;&#20102;&#65306;\n\n\n&#19968;&#20010;&#22899;&#29983;&#65288;&#22905;&#65289;&#22312;&#35270;&#39057;&#37324;&#25277;&#27875;&#6529…",
-          "link": "http://mp.weixin.qq.com/s?__biz=MzIzNzIxMjU4MQ==&mid=2651149820&idx=1&sn=642ec69ed4df693c2879c05de20c278e&chksm=f33df336c44a7a20fed6cef45ce5a656c460ed2d01b098cdc81f2eb73fb126461399a76e9b11&scene=0&xtrack=1#rd",
-          "publishedOn": "2021-04-15T13:22:21.000Z",
-          "wordCount": 113,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "东施笑评: 莫斯科不相信眼泪，霜冻也不相信"
-        },
-        {
-          "description": "Domaine de La Punta / Claude Cruells\nThe French call Corsica &ldquo;Ile de Beaut&eacute;,&rdquo; the beautiful island. And indeed, the rugged, mountainous landscape of this Mediterranean isle is spectacular, with mountains in the center, a narrow coastal strip and historic cities. The French territory also holds millennia worth of history, of grapes, invasions and fierce independence.\nIt breeds wines with connections to both Italy and mainland France, yet they express their individuality and are totally dif…",
-          "link": "https://www.winemag.com/2021/04/15/corsica-grape-varieties/",
-          "publishedOn": "2021-04-15T12:12:23.000Z",
-          "wordCount": 2260,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Ancient Vines, New Territory: Corsica’s Indigenous Grapes"
-        },
-        {
-          "description": "Mountainous terrain, Mediterranean sun, and grand cru vineyards, its no wonder Piedmont is home to Italy&rsquo;s finest wine. Yet, there is so much more to this exquisite wine region\n\n\n\n\n\n\n\n\nIn my latest article for Forbes, I dive into all that makes Piedmont an incredible wine region, and highlight some top producers. \nCheck it out: \nPiedmont Wine Region, Home Of Italian Royalty And More\nWhat is your favorite wine from Piedmont?",
-          "link": "https://rockinredblog.com/2021/04/15/forbes-article-piedmont-wine-region-home-of-italian-royalty-and-more/",
-          "publishedOn": "2021-04-15T11:00:00.000Z",
-          "wordCount": 722,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Forbes Article: Piedmont Wine Region, Home Of Italian Royalty And More"
-        },
-        {
-          "description": "&copy; ICE\r\n| The last known picture of Rudy Kurniawan before he was loaded onto a plane bound for Indonesia.\nAfter months of uncertainty, wine's most famous counterfeiter is thrown out of the United States.\nBy W. Blake Gray | Posted Thursday, 15-Apr-2021\n\r\nConvicted wine forger Rudy Kurniawan has finally been deported from the US, six months after completing his federal prison sentence.\nKurniawan's deportation happened last week; it was only officially announced by US Immigrations and Customs Enforcement (…",
-          "link": "https://www.wine-searcher.com/m/2021/04/gone-rudy-gone-wine-fraud-deported",
-          "publishedOn": "2021-04-15T03:20:12.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Gone Rudy, Gone: Wine Fraud Deported"
-        },
-        {
-          "description": "Though we like to be very much up to date with the latest gadgets and trends in life from mobile phones to fashion, many of us will be rather attracted to those vintage items from classic cars to vinyl records. I&rsquo;m sure that at some point or another we collected items in a subject that involved the words aged or vintage or collectable or rare and we were seeking out first or limited editions. Who had a stamp or coin collection, enjoying seeking out Pok&eacute;mon cards or pin badges, maybe vintage han…",
-          "link": "https://glassofbubbly.com/where-can-i-find-vintage-champagne/",
-          "publishedOn": "2021-04-14T23:56:42.000Z",
-          "wordCount": 1181,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Where can I find Vintage Champagne?"
-        },
-        {
-          "description": "",
-          "link": "https://www.vinous.com/articles/vino-nobile-carmignano-italy-s-forgotten-noble-reds-apr-2021",
-          "publishedOn": "2021-04-14T23:54:19.000Z",
-          "wordCount": 2576,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Vino Nobile & Carmignano: Italy’s Forgotten Noble Reds"
-        },
-        {
-          "description": "The United Nations predicts that by 2050 many areas of the planet may not have enough fresh water to meet the demands of agriculture if we continue our current patterns of use. One solution to this global dilemma is the development of more efficient irrigation, central to which is precision monitoring of soil moisture, allowing sensors to guide 'smart' irrigation systems to ensure water is applied at the optimum time and rate.\n Current methods for sensing soil moisture are problematic -- buried sensors are …",
-          "link": "https://www.infowine.com/en/news/standard_digital_camera_and_ai_to_monitor_soil_moisture_for_affordable_smart_irrigation_sc_19360.htm#new_tab",
-          "publishedOn": "2021-04-14T23:50:03.000Z",
-          "wordCount": 899,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Standard digital camera and AI to monitor soil moisture for affordable smart irrigation"
-        },
-        {
-          "description": "&#20197;&#23041;&#22763;&#24524;&#20026;&#28789;&#39746;&#65292;&#20026;&#24180;&#36731;&#28040;&#36153;&#32773;&#25171;&#36896;&#20302;&#24230;&#37202;&#30021;&#39278;&#26041;&#26696;&#12290; \n \n&#36817;&#26085;&#65292;&#33268;&#21147;&#20110;&#20026;&#20013;&#22269;&#24180;&#36731;&#28040;&#36153;&#32676;&#20307;&#25171;&#36896;&#23041;&#22763;&#24524;&#21697;&#29260;&#30340;&#21019;&#26032;&#22411;&#20844;&#21496;&mdash;&mdash;&#12304;&#21709;&#26479;&#12305;&#65292;&#23459;&#24067;&#23436;&#25104;&#2596…",
-          "link": "https://www.xfz.cn/post/10105.html",
-          "publishedOn": "2021-04-14T23:46:36.000Z",
-          "wordCount": 101,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "「响杯」宣布完成数千万融资"
-        },
-        {
-          "description": "For 25 years, rapper Jay-Z shaped Champagne culture and commerce in the U.S. On his 1996 single, &ldquo;22 Twos,&rdquo; off his debut album, Reasonable Doubt, host Maria Davis tells the young rapper to &ldquo;put that Champagne down and kick a little freestyle.&rdquo; In the years since, he&rsquo;s only ever heeded the second part.\nOf course, Jay-Z wasn&rsquo;t drinking alone. Historians believe Harlem emcee Branson B. introduced Champagne to 1990s hip hop parties, and Dom Perignon and Mo&euml;t &amp; Chand…",
-          "link": "https://www.winemag.com/2021/04/12/jay-z-champagne-ace-spades/",
-          "publishedOn": "2021-04-14T23:43:06.000Z",
-          "wordCount": 1304,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Fine Wine and Vintage Flows: How Jay-Z Changed Champagne Culture"
-        },
-        {
-          "description": "Jacopo Salvi  \nWhat makes a wine region singular? While there are as many ways to answer this as there are regions in which to grow wine, for me it was special varieties like Heida that opened the doors to the wine universe of Switzerland&rsquo;s southwestern region of Valais. Some 15,000 hectares of vines are cultivated in Switzerland. With 5,200 hectares of its own, one in three bottles of Swiss wine comes from Valais, the largest wine-growing canton in the country &mdash; and a star in all things autocht…",
-          "link": "https://trinkmag.com/articles/heida-pearl-of-the-alps",
-          "publishedOn": "2021-04-14T23:42:49.000Z",
-          "wordCount": 1738,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Heida: Pearl of the Alps"
-        },
-        {
-          "description": "2005 Bordeaux: Here and Now&nbsp;\nBY ANTONIO GALLONI&nbsp;| APRIL 15, 2021\n\nIt all started innocently enough with a few bottles of 2005 Bordeaux during lockdown. Then a few more, and then some more after that. Before I knew it I had tasted through a good number of the reference points. The wines were absolutely thrilling, just as I remembered from my last large tasting of the 2005s, about five years ago. One of my close friends suggested a comprehensive look back at the vintage, so here it is.\nI was energiz…",
-          "link": "https://www.vinous.com/articles/2005-bordeaux-here-and-now-apr-2021",
-          "publishedOn": "2021-04-14T16:00:00.000Z",
-          "wordCount": 6286,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "2005 Bordeaux: Here and Now"
-        },
-        {
-          "description": "Learn more about Wine E-commerce Reports &amp; Insights\nThe post E-commerce for wine is a mainstream channel for Chinese wine drinkers and is becoming a meaningful channel in other key markets appeared first on Wine Intelligence.",
-          "link": "https://www.wineintelligence.com/e-commerce-for-wine-is-a-mainstream-channel-for-chinese-wine-drinkers-and-is-becoming-a-meaningful-channel-in-other-key-markets/",
-          "publishedOn": "2021-04-14T09:15:41.000Z",
-          "wordCount": 891,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "E-commerce for wine is a mainstream channel for Chinese wine drinkers and is becoming a meaningful channel in other key markets"
-        },
-        {
-          "description": "What&rsquo;s the word for the stretch of wet sand on a beach, revealed as the wave ebbs, just before the sun dries it? That piece of unmarked land, that drenched sheet, stretched like pastry by the rolling pin wave. We beach walkers try our best to own it. We make it ours briefly with barefoot prints, dog paws and the dragging pull of a child&rsquo;s spade and bucket. Yet almost as soon as our mark is made, the wave, like an Etch a Sketch, erases. Is its sole purpose to remind us of our ultimate insignifica…",
-          "link": "https://timatkin.com/vintionary/",
-          "publishedOn": "2021-04-14T07:14:03.000Z",
-          "wordCount": 1374,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Vintionary"
-        },
-        {
-          "description": "As Italian wine grape growers assess the damage from last week&rsquo;s late spring freeze, when temperatures from Tuscany northward dipped below 20&deg; F., the prospects of a bountiful 2021 harvest grow even more dim, with even Sardinia hit by the cold snap. Source: Do Bianchi\n\nThe post &ldquo;Frost even in Sardinia.&rdquo; appeared first on Winetitles.",
-          "link": "https://dobianchi.com/2021/04/12/climate-change-wine-global-warming/#new_tab",
-          "publishedOn": "2021-04-14T02:10:39.000Z",
-          "wordCount": 1267,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "“Frost even in Sardinia.”"
-        },
-        {
-          "description": "Franciacorta has officially obtained a trademarked Chinese name. We talk to President of the Franciacorta Consorzio, Silvano Brescianini to understand the selection process and the meaning behind the name. \nThe post Franciacorta gets a Chinese name appeared first on Vino Joy News.",
-          "link": "https://vino-joy.com/2021/04/14/franciacorta-gets-a-chinese-name/",
-          "publishedOn": "2021-04-14T02:06:43.000Z",
-          "wordCount": 1620,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Franciacorta gets a Chinese name"
-        },
-        {
-          "description": "Quite the opposite to the zesty and zingy style will be the &lsquo;creamy&rsquo; description for sparkling wines, the more relaxing glass of bubbly, the take your time over to enjoy example which does call of the winemaker that little bit more effort and patience to achieve&hellip;\nSparkling wines are ever so expressive in aromas and flavours, you can list countless descriptives to include those taking you back to childhood memories so when opening a bottle of fizz and serving it will delight your senses. S…",
-          "link": "https://glassofbubbly.com/creamy-levels-in-sparkling-wines/",
-          "publishedOn": "2021-04-14T00:26:58.000Z",
-          "wordCount": 1197,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Creamy Levels in Sparkling Wines"
-        },
-        {
-          "description": "The New Sotheby&rsquo;s Wine Encyclopedia is now out in a brand new 6th Edition. &nbsp;It&rsquo;s a privilege to review this mighty tome, as I recall using the 3rd Edition of 2001 for WSET Diploma exams. Twenty years on, that book, though still in use, has inevitably become out of date. &nbsp;Revisions mean this new edition is entirely contemporary and so most welcome.\nWhile previous editions were solely by Tom Stevenson, the world of wine has grown too big, complex and fast-moving for anyone to master. Hen…",
-          "link": "https://www.winealchemy.co.uk/new-sothebys-wine-encyclopedia-book-review/",
-          "publishedOn": "2021-04-14T00:23:49.000Z",
-          "wordCount": 1596,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "New Sotheby&#039;s Wine Encyclopedia - Book Review - Wine Alchemy"
-        },
-        {
-          "description": "The state of ignorance and innocence, receptiveness, and a combination of unlikely natural circumstances that may trigger a spiritual/poetic realisation.\nA real artist is the one who has learned to recognize and to render&hellip; the &lsquo;radiance&rsquo; of all things as an epiphany or showing forth of the truth ~&nbsp;Joseph Campbell\nWhen we think of the epiphany we think of the new insight as a detonation, or revelation, scales literally falling from one&rsquo;s eyes. Revelation comes with context and r…",
-          "link": "http://blog.lescaves.co.uk/2021/04/13/the-long-read-immersion-the-luminous-the-numinous/",
-          "publishedOn": "2021-04-14T00:18:11.000Z",
-          "wordCount": 3648,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Long Read: Immersion, The Luminous &amp; The Numinous"
-        },
-        {
-          "description": "Wine Wars 2011: the first books arrive.\n\nAs I explained in last week&rsquo;s Wine Economist column, this is the tenth anniversary of the publication of my first book on the wine business,&nbsp;Wine Wars. Although the catchy title (suggested by the smart marketing people at Rowman &amp; Littlefield) gets your attention, it is the long subtitle that outlines the book&rsquo;s argument. This is a story of &ldquo;the Curse of the Blue Nun, the Miracle of Two Buck Chuck, and the Revenge of the Terroirists.&rdquo;…",
-          "link": "https://wineeconomist.com/2021/04/13/curses/",
-          "publishedOn": "2021-04-13T09:01:10.000Z",
-          "wordCount": 2564,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Wine Wars: Curses, Miracles, and Revenge"
-        },
-        {
-          "description": "Vine to Wine: A Year of Viti/Vini - April",
-          "link": "https://www.winescholarguild.org/blog/vine-to-wine-a-year-of-viti-vini-april",
-          "publishedOn": "2021-04-13T08:40:11.000Z",
-          "wordCount": 2615,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Vine to Wine: A Year of Viti/Vini - April"
-        },
-        {
-          "description": "Choose your subscription\n\t\t\t\nTry full digital access and see why over 1 million readers subscribe to the FT\nFor 4 weeks receive unlimited Premium digital access to the FT's trusted, award-winning business news\nRead more\nBe informed with the essential\nnews and opinion\nMyFT &ndash; track the topics most important to you\nFT Weekend &ndash; full access to the weekend content\nMobile &amp; Tablet Apps &ndash; download to read on the go\nGift Article &ndash; share up to 10 articles a month with family, friends and …",
-          "link": "https://www.ft.com/content/95d9ccdf-9ea8-4b02-bc83-0818525ebfd5",
-          "publishedOn": "2021-04-13T05:07:56.000Z",
-          "wordCount": 972,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Old vines give rise to classic wines"
-        },
-        {
-          "description": "Europe|French Wine Production Ravaged by a Devastating Frost\n\nhttps://www.nytimes.com/2021/04/12/world/europe/france-wine-frost.html\n\n\nFrance&rsquo;s winegrowers had already been hit by higher U.S. taxes and the pandemic. Now they are dealing with a &ldquo;violent&rdquo; cold snap.\n\n\n\nA winegrower, Pierre-Marie Luneau, checks the vine buds at a vineyard in Le Landreau, near Nantes, France, on Monday.Credit...Sebastien Salom-Gomis/Agence France-Presse &mdash; Getty Images\n\n\n\n\nApril 12, 2021\n\n\nPARIS &mdash; A…",
-          "link": "https://www.nytimes.com/2021/04/12/world/europe/france-wine-frost.html",
-          "publishedOn": "2021-04-13T04:55:39.000Z",
-          "wordCount": 747,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "French Wine Production Ravaged by a Devastating Frost"
-        },
-        {
-          "description": "Winemakers in France are assessing the damage to their vines after being hit by some of the most severe spring frosts to have occurred in the country in decades.\n\nAs reported by The Guardian, the French government has declared the incident an &ldquo;agricultural disaster&rdquo; and is preparing to offer financial support to grape growers after harvest-threatening frosts hit vineyards across the country.\nLast week France experienced several nights of sub-zero temperatures across several thousand hectares of …",
-          "link": "https://www.thedrinksbusiness.com/2021/04/french-vineyards-hit-by-worst-frost-in-decades/",
-          "publishedOn": "2021-04-13T04:37:01.000Z",
-          "wordCount": 939,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "French vineyards hit by ‘worst frost in decades’ - The Drinks Business"
-        },
-        {
-          "description": "Getty Images\n      \n    \n  \n\n\n    \nBecause drinking what you like shouldn&rsquo;t be hard\n\n  \n    \n    \n\n\n    \n\n      \n\n\n\n    \n\n\n\n\n\n\n  \nOn any given night in the pre-pandemic days, there was a four-top at a restaurant with a small-share-plates-so-order-several-items-and-I&rsquo;ll-course-it-out-for-you type of menu, and, inevitably, someone in the group would want the sommelier to recommend a wine to pair. \nMany times that sommelier was (or is) me, and often in that moment, I&rsquo;ve hesitated. You want to…",
-          "link": "https://www.eater.com/22361025/how-to-pair-food-with-wine-new-rules-of-pairing",
-          "publishedOn": "2021-04-13T04:36:27.000Z",
-          "wordCount": 1533,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "It’s Time to Forget the Old Rules of Wine Pairing"
-        },
-        {
-          "description": "Giovanni Bigot may be on to something.\nThis 48-year-old agronomist and researcher from northeastern Italy&rsquo;s Friuli region has developed an intriguing 100-point scale for measuring the potential of vineyards to produce great and unique wines.\nIn other words, he&rsquo;s scoring terroir&mdash;overlaid with vineyard practices and the overall health of the grapes.\nThat&rsquo;s a tall order, to say the least. So I was skeptical.\nBut Bigot&rsquo;s system is more than a gimmick with an app (though there is on…",
-          "link": "https://www.winespectator.com/articles/terroir-on-a-100-point-scale-can-great-vineyards-be-measured",
-          "publishedOn": "2021-04-13T04:31:52.000Z",
-          "wordCount": 1694,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Terroir on a 100-Point Scale: Can Great Vineyards Be Measured?"
-        },
-        {
-          "description": "&copy; ABC\r\n| Windsor mayor Dominic Foppoli is under increasing pressure to resign after a series of sexual assault allegations.\nThere are growing calls for action over allegations of sexual assault by a wine country politician.\nBy W. Blake Gray | Posted Tuesday, 13-Apr-2021\n\r\nSonoma County is in uproar after a San Francisco Chronicle story last week about women accusing the mayor of Windsor, whose family owns Christopher Creek winery, of sexual assault.\nAfter the lengthy story about Dominic Foppoli appeare…",
-          "link": "https://www.wine-searcher.com/m/2021/04/calls-for-resignation-over-sonoma-sex-claims",
-          "publishedOn": "2021-04-13T03:22:15.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Calls for Resignation over Sonoma Sex Claims"
-        },
-        {
-          "description": "An agricultural product, wine is&#8239;tied to nature, so&#8239;vines are influenced by&nbsp;weather patterns, orientation to the sun and soil hydration.&#8239;And&#8239;vineyards planted near&nbsp;grow&nbsp;and are cultivated differently than those situated inland, away from&nbsp;water.&#8239;&#8239;&nbsp;\nThe&#8239;average consumer&nbsp;may&nbsp;not consider these&#8239;factors&#8239;when choosing or drinking a bottle of wine, but they&#8239;play an important role in what&rsquo;s in your glass.&#8239;&nbs…",
-          "link": "https://www.winemag.com/2021/04/06/coastal-inland-wine-difference/",
-          "publishedOn": "2021-04-13T03:11:09.000Z",
-          "wordCount": 1351,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The Differences Between Coastal and Inland Wine Regions"
-        },
-        {
-          "description": "Photo of the Toro Vineyards via dotoro.com\n\nThe Toro DO, located on Spain&rsquo;s Duero River just west of Rueda, has been making wine since pre-Roman times. It is even said that the rich, red wines of the area were a favorite of King Alfonso IX of Le&oacute;n back in the 13th century.\nMost of the wine produced in the Toro DO is based on the Tinta del Toro grape variety&mdash;considered to be a local clone of Tempranillo. This local variant has thicker skins and deeper color than the Tempranillo grapes grow…",
-          "link": "http://winewitandwisdomswe.com/2021/04/12/dispatch-from-the-toro-do/",
-          "publishedOn": "2021-04-12T21:17:40.000Z",
-          "wordCount": 1835,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Dispatch from the Toro DO"
-        },
-        {
-          "description": "Which Ros&eacute;s Will Succeed in a Maturing Market?",
-          "link": "https://daily.sevenfifty.com/which-roses-will-succeed-in-a-maturing-market/",
-          "publishedOn": "2021-04-12T20:10:00.000Z",
-          "wordCount": 3052,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Which Rosés Will Succeed in a Maturing Market?"
-        },
-        {
-          "description": "Proponents of increasing the State of Oregon&rsquo;s alcohol taxes in a comically excessive way are becoming more creative and more faithless in their arguments for increasing the state taxes in an effort to fight alcohol dependency. As a reminder, earlier in the year Oregon State Representatives Tawna Sanchez sponsored House Bill 3296. If passed, the bill would have increased the excise taxes on beer and cider in Oregon from $2.60 per barrel (31 gallons) to $72.60 per barrel. The increase...\nThe post Bad F…",
-          "link": "https://fermentationwineblog.com/2021/04/bad-faith-negotiating-in-oregons-alcohol-debates/",
-          "publishedOn": "2021-04-12T15:56:20.000Z",
-          "wordCount": 2631,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Bad Faith Negotiating in Oregon’s Alcohol Debates"
-        },
-        {
-          "description": "By Alem H., Ojeda H., Rigou P., Sire Y., Schneider R., Torregrosa L.\n Vitis vinifera grape is a\nnon-climacteric fleshy fruit. During grape ripening, the concentrations of\nmetabolites change as a function of the balance between biosynthesis and\nmetabolization and growth-related dilution effects (Bigard et al., 2018 &amp;\n2020). A number of metabolites and inorganic solutes determines the quality of\nthe wine grape, such as sugars, organic anions (i.e. tartaric and malic acids),\ncations (potassium) and seconda…",
-          "link": "https://www.ciencia-e-vinho.com/2021/04/11/the-reduction-of-plant-sink-source-by-cluster-thinning-does-not-systematically-improve-the-composition-of-grape/",
-          "publishedOn": "2021-04-12T08:16:25.000Z",
-          "wordCount": 1268,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "【论文】The reduction of plant sink/source by cluster thinning does not systematically improve the composition of grape"
-        },
-        {
-          "description": "&copy; CalFire\r\n| The Glass fire wreaked havoc in Napa last year.\nLocal government pledges to work with the fire chief and producers to prevent future wildfires\nBy Liza B. Zimmerman | Posted Monday, 12-Apr-2021\n\r\nIn what some think is a much overdue measure, the Napa County Board of Supervisors (BOS) has committed to spend millions over a projected five-year period to prevent fires.\nThe new initiative will focus on decreasing the region's fuel load by creating more fire breaks, among other efforts. The plan…",
-          "link": "https://www.wine-searcher.com/m/2021/04/napa-launches-42m-fire-prevention-plan",
-          "publishedOn": "2021-04-12T03:22:24.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Napa Launches $42m Fire Prevention Plan"
-        },
-        {
-          "description": "Last week, I had a look at which countries principally consume wine and which consume more beer (Beer countries and wine countries). One could then ask, as did one of my correspondents (Vicky Corbeels), whether bigger wine-producing countries drink more wine than do countries that produce less.\nSo, let's have another look at the data for 2015, as contained in the Annual Database of Global Wine Markets, compiled by Anderson,&nbsp; Nelgen and Pinilla. Tables 19 (Volume of wine production per capita) and 23 (V…",
-          "link": "https://winegourd.blogspot.com/2021/04/does-wine-production-increase-wine.html",
-          "publishedOn": "2021-04-11T22:30:00.000Z",
-          "wordCount": 1175,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Does wine production increase wine consumption?"
-        },
-        {
-          "description": "&copy; Visit Spain\r\n| The vineyards of Valdepe&ntilde;as might look idyllic, but there is trouble brewing.\nThis week's news roundup finds dodgy dealings in Spain, a new celebrity wine and a very expensive ros&eacute;\n\r\nWhile the attention of the wine world focuses on spring frosts in Europe (with France in particular being hit exceptionally hard (see last Sunday's weekly round-up), other stories this week have included the news of Australian giant McWilliams' sale to Calabria Family wines, and reports of a …",
-          "link": "https://www.wine-searcher.com/m/2021/04/label-investigation-sparks-war-of-words",
-          "publishedOn": "2021-04-11T03:20:48.000Z",
-          "wordCount": null,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Label Investigation Sparks War of Words"
-        },
-        {
-          "description": "Everyone&rsquo;s been there. You pull out a bottle of wine for dinner, only to find it&rsquo;s past its prime.\nEven if there&rsquo;s already plenty of cooking wine in the fridge, don&rsquo;t dump that bottle down the kitchen sink. Make vinegar instead.\n&ldquo;Unlike store-bought vinegar, which can have an aggressive or sharp vinegar flavor, homemade vinegar has a softer tang to it and more alternative flavors that step forward,&rdquo; says Toni Dash, a professional writer and blogger at Boulder Locavore.\nHe…",
-          "link": "https://www.winemag.com/2021/04/10/diy-homemade-vinegar-leftover-wine/",
-          "publishedOn": "2021-04-11T01:20:35.000Z",
-          "wordCount": 1652,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "How to Make Vinegar From Expired Wine"
-        },
-        {
-          "description": "Privacy Overview \n This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.\n  \n  Strictly Necessary Cookies \n Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.\n  \nIf you disable this co…",
-          "link": "https://www.thedrinksbusiness.com/2021/04/organic-viticulture-almost-impossible-in-champagne/",
-          "publishedOn": "2021-04-11T01:13:32.000Z",
-          "wordCount": 1075,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Organic viticulture ‘almost impossible’ in Champagne"
-        },
-        {
-          "description": "Freezing temperatures during the early morning hours of April 6, 7 and 8 brought severe frosts to Burgundy vineyards, damaging Chardonnay and Pinot Noir buds from the M&acirc;connais to Chablis and setting up 2021 as a challenging vintage for the region.\n Growers scrambled to light candles in the vineyards in the hopes of raising the near-ground temperatures by a degree, yet even with protection, the frost killed many young buds. Tuesday night brought the most devastation, when snow and rain exacerbated the…",
-          "link": "https://www.winespectator.com/articles/severe-april-frost-damages-budding-vines-in-france",
-          "publishedOn": "2021-04-11T01:08:20.000Z",
-          "wordCount": 1334,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Severe April Frost Damages Budding Vines in France"
-        },
-        {
-          "description": "On any given night in the pre-pandemic days, there was a four-top at a restaurant with a small-share-plates-so-order-several-items-and-I&rsquo;ll-course-it-out-for-you type of menu, and, inevitably, someone in the group would want the sommelier to recommend a wine to pair. \nMany times that sommelier was (or is) me, and often in that moment, I&rsquo;ve hesitated. You want to know what I, a stranger, think you should have with your meal, with no clue what you actually like? Sometimes I just want to look you i…",
-          "link": "https://www.eater.com/22361025/how-to-pair-food-with-wine-new-rules-of-pairing",
-          "publishedOn": "2021-04-11T01:07:50.000Z",
-          "wordCount": 1533,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "The 3 New Rules of Food and Wine Pairings"
-        },
-        {
-          "description": "Privacy Overview \n This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.\n  \n  Strictly Necessary Cookies \n Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.\n  \nIf you disable this co…",
-          "link": "https://www.thedrinksbusiness.com/2021/04/six-ways-to-be-a-more-eco-friendly-drinks-producer/#new_tab",
-          "publishedOn": "2021-04-11T00:47:57.000Z",
-          "wordCount": 2413,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "Six ways to be a more eco-friendly drinks producer"
-        },
-        {
-          "description": "Our tastings show that Argentina is no longer only a malbec country.\n\nBring on the asado. Dip the chorizo in the chimichurri sauce. Take a bite of an empanada. And then have a swig of what the best Argentine wines have to offer to the world of wine and gastronomy today. We found 100s of terrific wines in this report to take you to a uniquely Argentine wine experience and back.\nThis year we rated around 1,800 wines and it was one of our best tastings yet for this South American vinous powerhouse. With some o…",
-          "link": "https://www.jamessuckling.com/wine-tasting-reports/experience-argentine-wine-now/",
-          "publishedOn": "2021-04-10T15:56:50.000Z",
-          "wordCount": 5933,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "More than malbec: Argentina's experiential evolution"
-        },
-        {
-          "description": "Lawyer cum sommelier Dominic Buckwell gets inspiration from the Institute of Masters of Wine webinar on Labelling rules and transparency, detailing a complex past and giving the lowdown on proposed new and potentially game-changing legislation. Laws ensuring adequate packaging and labels for food and drink to protect consumers have existed since time immemorial. Weights and [&hellip;]\nThe post What&rsquo;s in a label and the EU&rsquo;s new laws appeared first on Circle of Wine Writers.",
-          "link": "https://www.circleofwinewriters.org/whats-in-a-label-and-the-eus-new-laws/",
-          "publishedOn": "2021-04-10T12:28:01.000Z",
-          "wordCount": 3354,
-          "sourceHref": "https://reader.yefoenix.ws/public.php?op=rss&id=20&is_cat=1&key=onlp7p5e9ff53935a6c",
-          "sourceTitle": "readwine",
-          "title": "What’s in a label and the EU’s new laws"
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }
