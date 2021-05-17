@@ -6,6 +6,51 @@
       "siteUrl": "https://reader.yefoenix.ws",
       "articles": [
         {
+          "id": "http://winegourd.blogspot.com/2021/05/where-china-get-its-wine-these-days.html",
+          "author": null,
+          "description": "Last week I looked at the declining wine market in China (So, why has China gone off the boil?). This week, I thought that I might look at where China gets its wine — has that changed recently, as well?\nIn one sense, China is no different to other Asian countries, in that wine is increasing in the mix of alcohol beverages, and beverage production has not kept up with the increase in demand, so that imports are needed to fill the gap (Asia’s emergence in global beverage markets: the rise of wine).\n\n\nBottled …",
+          "link": "http://winegourd.blogspot.com/2021/05/where-china-get-its-wine-these-days.html",
+          "publishedOn": "2021-05-16T22:30:00.000Z",
+          "wordCount": 1297,
+          "title": "Where China get its wine, these days"
+        },
+        {
+          "id": "https://winegourd.blogspot.com/2021/05/where-china-get-its-wine-these-days.html",
+          "author": null,
+          "description": "Last week I looked at the declining wine market in China (So, why has China gone off the boil?). This week, I thought that I might look at where China gets its wine — has that changed recently, as well?\nIn one sense, China is no different to other Asian countries, in that wine is increasing in the mix of alcohol beverages, and beverage production has not kept up with the increase in demand, so that imports are needed to fill the gap (Asia’s emergence in global beverage markets: the rise of wine).\n\n\nBottled …",
+          "link": "https://winegourd.blogspot.com/2021/05/where-china-get-its-wine-these-days.html",
+          "publishedOn": "2021-05-16T22:30:00.000Z",
+          "wordCount": 1297,
+          "title": "Where China get its wine, these days"
+        },
+        {
+          "id": "https://www.ciencia-e-vinho.com/2021/05/16/cultivable-microbial-ecology-of-vino-cotto-a-traditional-sweet-wine-produced-in-abruzzo-and-marche-regions/",
+          "author": null,
+          "description": "“Vino cotto” is a sweet wine, produced according to traditional procedures involving a prolonged fermentation of cooked grape must. It is inserted in the Italian list of traditional food products since 2000 and can be marketed as traditional agrifood product. See more about this wine in this week Science & Wine post.",
+          "link": "https://www.ciencia-e-vinho.com/2021/05/16/cultivable-microbial-ecology-of-vino-cotto-a-traditional-sweet-wine-produced-in-abruzzo-and-marche-regions/",
+          "publishedOn": "2021-05-16T09:28:07.000Z",
+          "wordCount": 992,
+          "title": "Cultivable microbial ecology of “vino cotto” a traditional sweet wine produced in Abruzzo and Marche regions"
+        },
+        {
+          "id": "https://www.wine-searcher.com/m/2021/05/lvmh-on-the-prowl-for-rose",
+          "author": null,
+          "description": "© Luxury Paris Tours\r\n| Provence is on the itinerary for big-name producers cashing in on the rosé boom.\nThis week's news roundup includes a horror story and Mr Schumer goes to wine country.\n\r\nLuxury groups still hunting for Provence rosé\nAs news surfaced earlier this week that George and Amal Clooney's acquisition of Provence mansion and vineyard Château Canadel had hit a bump following gazumping claims, one Provence insider told the press the pink power posse was only going to get bigger.\nJean-Louis Croqu…",
+          "link": "https://www.wine-searcher.com/m/2021/05/lvmh-on-the-prowl-for-rose",
+          "publishedOn": "2021-05-16T03:17:12.000Z",
+          "wordCount": null,
+          "title": "LVMH on the Prowl for Rosé"
+        },
+        {
+          "id": "https://www.washingtonpost.com/food/2021/05/14/online-wine-buying-trends/",
+          "author": null,
+          "description": "Pandemic restrictions are beginning to ease, and we may soon feel more comfortable returning to our favorite restaurants, wine bars, wineries and stores. But what about all those “pivots” we made last year — will any of those become permanent aspects of our everyday lives?\n\nOne new habit likely to stay with us: buying wine online. Some venture capital investors sure think so.\n\n\n\n“Covid was a great awakening,” both for consumers and wineries, says Paul Mabray, a longtime e-commerce advocate for wineries. “Ho…",
+          "link": "https://www.washingtonpost.com/food/2021/05/14/online-wine-buying-trends/",
+          "publishedOn": "2021-05-15T22:24:38.000Z",
+          "wordCount": 1176,
+          "title": "Buying wine online is another pandemic-era shift that’s poised to stick around"
+        },
+        {
           "id": "https://www.wine-searcher.com/m/2021/05/western-australia-in-a-case",
           "author": null,
           "description": "© Wine Australia\r\n| Western Australia is the country's biggest state, but its wine production is tiny.\nWestern Australia will be unfamiliar to most people, but it has a long wine history and a great future.\n\r\nWhen it comes to wine from the Land Down Under, Western Australia often lives in the shadow of Victorian and South Australian based wine regions.\nUnderstandably so, considering it is geographically challenged as one of the world’s most isolated wine regions. But the west coast is gradually making its w…",
@@ -908,5 +953,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.0"
+  "cliVersion": "1.7.1"
 }
