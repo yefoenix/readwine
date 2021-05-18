@@ -6,6 +6,33 @@
       "siteUrl": "https://reader.yefoenix.ws",
       "articles": [
         {
+          "id": "https://www.liz-palmer.com/the-national-wine-committee-approves-the-canelli-docg/?utm_source=rss&utm_medium=rss&utm_campaign=the-national-wine-committee-approves-the-canelli-docg",
+          "author": null,
+          "description": "The National Committee of PDO and PGI Wines approved Friday’s session, Wednesday, May 12th, the proposal for the Disciplinary of … Continue reading \"The National Wine Committee approves the “Canelli” DOCG\"\nThe post The National Wine Committee approves the “Canelli” DOCG appeared first on Liz Palmer - International Wine and Spirit News.",
+          "link": "https://www.liz-palmer.com/the-national-wine-committee-approves-the-canelli-docg/?utm_source=rss&utm_medium=rss&utm_campaign=the-national-wine-committee-approves-the-canelli-docg",
+          "publishedOn": "2021-05-17T16:47:45.000Z",
+          "wordCount": 741,
+          "title": "The National Wine Committee approves the “Canelli” DOCG"
+        },
+        {
+          "id": "https://fermentationwineblog.com/2021/05/liars-lied-and-killed-the-postal-service-wine-shipping-bill/",
+          "author": null,
+          "description": "It’s a felony to lie under oath to Congress. However, it is not against the law to lie to Congress in a letter to its members. This is the only reason why the heads of the National Beer Wholesalers Association, the Wine & Spirits Wholesalers Association, the American Beverage Licensees and the American Distillers Alliance have not been brought up on federal charges. As part of their successful attempt to kill the amendment to the U.S. Postal Service Reform Act...\nThe post Liars Lied and Killed the Postal Se…",
+          "link": "https://fermentationwineblog.com/2021/05/liars-lied-and-killed-the-postal-service-wine-shipping-bill/",
+          "publishedOn": "2021-05-17T03:27:27.000Z",
+          "wordCount": null,
+          "title": "Liars Lied and Killed the Postal Service Wine Shipping Bill?"
+        },
+        {
+          "id": "https://www.wine-searcher.com/m/2021/05/the-other-aromas-of-winemaking",
+          "author": null,
+          "description": "© iStock\r\n| Fermenting grapes and new oak have resonant odors all of their own.\nThe harmonious blend of sweet fruit and spicy oak isn't the only bouquet associated with winemaking.\n\r\nEvery year it happens and it always makes me smile.\nI know it’s coming but it still somehow feels serendipitous, a seasonal joy, something of the miracle of existence: the first smell of fermenting grapes.\nThis year – and to be honest, like most years – it was Chardonnnay. But, to be honest, the variety doesn't matter so much; …",
+          "link": "https://www.wine-searcher.com/m/2021/05/the-other-aromas-of-winemaking",
+          "publishedOn": "2021-05-17T03:21:40.000Z",
+          "wordCount": null,
+          "title": "The Other Aromas of Winemaking"
+        },
+        {
           "id": "http://winegourd.blogspot.com/2021/05/where-china-get-its-wine-these-days.html",
           "author": null,
           "description": "Last week I looked at the declining wine market in China (So, why has China gone off the boil?). This week, I thought that I might look at where China gets its wine — has that changed recently, as well?\nIn one sense, China is no different to other Asian countries, in that wine is increasing in the mix of alcohol beverages, and beverage production has not kept up with the increase in demand, so that imports are needed to fill the gap (Asia’s emergence in global beverage markets: the rise of wine).\n\n\nBottled …",
@@ -953,5 +980,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.1"
+  "cliVersion": "1.7.2"
 }
