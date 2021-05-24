@@ -6,6 +6,51 @@
       "siteUrl": "https://reader.yefoenix.ws",
       "articles": [
         {
+          "id": "https://www.winemag.com/2021/05/17/best-hard-seltzer-hard-lemonade/",
+          "author": null,
+          "description": "<p>At the moment, lemonade seems to be the darling of the hard seltzer set.\n&ldquo;Historically, if yo...</p>",
+          "link": "https://www.winemag.com/2021/05/17/best-hard-seltzer-hard-lemonade/",
+          "publishedOn": "2021-05-23T23:35:34.000Z",
+          "wordCount": 1617,
+          "title": "Hard Seltzer Embraces the Squeeze | Wine Enthusiast"
+        },
+        {
+          "id": "https://www.storkapp.me/paper/showPaper.php?id=772510046",
+          "author": null,
+          "description": "<p>&#9711; Stork Pro&#9711; Email Translate&#9711; NIH Grant Database: Search, Translate &amp; Aler...</p>",
+          "link": "https://www.storkapp.me/paper/showPaper.php?id=772510046",
+          "publishedOn": "2021-05-23T23:29:50.000Z",
+          "wordCount": 300,
+          "title": "An Analysis of Motherhood, Alcohol Use and #winemom Culture on Instagram."
+        },
+        {
+          "id": "https://winegourd.blogspot.com/2021/05/is-big-data-always-needed-in-wine.html",
+          "author": null,
+          "description": "<p>We all know that there are plenty of things that a person can do easily but machines find more chall...</p>",
+          "link": "https://winegourd.blogspot.com/2021/05/is-big-data-always-needed-in-wine.html",
+          "publishedOn": "2021-05-23T22:30:00.000Z",
+          "wordCount": 1438,
+          "title": "Is big data always needed in the wine industry?"
+        },
+        {
+          "id": "https://wordonthegrapevine.co.uk/langhe-riesling/?utm_source=rss&utm_medium=rss&utm_campaign=langhe-riesling",
+          "author": null,
+          "description": "<p>The noblest of white grape varieties, few wines captivate so broadly as Riesling. Seizing the collec...</p>",
+          "link": "https://wordonthegrapevine.co.uk/langhe-riesling/?utm_source=rss&utm_medium=rss&utm_campaign=langhe-riesling",
+          "publishedOn": "2021-05-23T15:37:59.000Z",
+          "wordCount": 2946,
+          "title": "Langhe Riesling: discussing origin, viticulture, winemaking and more"
+        },
+        {
+          "id": "https://www.wine-searcher.com/m/2021/05/wine-thief-hands-himself-in",
+          "author": null,
+          "description": "<p>&copy; Vins d'Alsace\r\n| The Kaefferkopf Grand Cru was the scene of one of the thefts.In this week's n...</p>",
+          "link": "https://www.wine-searcher.com/m/2021/05/wine-thief-hands-himself-in",
+          "publishedOn": "2021-05-23T03:12:58.000Z",
+          "wordCount": null,
+          "title": "Wine Thief Hands Himself In"
+        },
+        {
           "id": "https://blog.wblakegray.com/2021/05/professional-wine-tasting-notes-are-for.html",
           "author": null,
           "description": "Ten years ago I went to the Professional Wine Writers’ Symposium and hated the session on writing tasting notes so much that I have complained about it ever since. This year the Symposium went virtual, with an interesting, diverse set of speakers, so I signed up.   \nPerhaps this was predictable: while I enjoyed some of it, I hated the sessions on tasting notes so much that I was either going to complain for the next 10 years, or write this rant.  \nHere is the TL;DR version:\n * The point of being a professio…",
@@ -148,6 +193,15 @@
           "publishedOn": "2021-05-18T13:51:36.000Z",
           "wordCount": null,
           "title": "Five Facts About the Wine Industry’s and Success In the Wine Industry"
+        },
+        {
+          "id": "https://www.winemag.com/2021/05/18/yeast-cultivation-career/",
+          "author": null,
+          "description": "<p>Matthew Winans of Imperial Yeast inspects the growth of classic wine yeast / Photo by Eben Waggoner ...</p>",
+          "link": "https://www.winemag.com/2021/05/18/yeast-cultivation-career/",
+          "publishedOn": "2021-05-18T11:30:45.000Z",
+          "wordCount": 1818,
+          "title": "Rise to the Occasion: Making Yeast Cultivation a Career"
         },
         {
           "id": "https://wineanorak.com/2021/05/16/personal-preferences-versus-professional-evaluation-why-we-need-to-distinguish-them/",
@@ -1214,5 +1268,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }

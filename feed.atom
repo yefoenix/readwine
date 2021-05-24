@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T00:30:52.056Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-24T00:28:50.466Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hard Seltzer Embraces the Squeeze | Wine Enthusiast]]></title>
+        <id>https://www.winemag.com/2021/05/17/best-hard-seltzer-hard-lemonade/</id>
+        <link href="https://www.winemag.com/2021/05/17/best-hard-seltzer-hard-lemonade/"/>
+        <updated>2021-05-23T23:35:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>At the moment, lemonade seems to be the darling of the hard seltzer set.
+&ldquo;Historically, if yo...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Analysis of Motherhood, Alcohol Use and #winemom Culture on Instagram.]]></title>
+        <id>https://www.storkapp.me/paper/showPaper.php?id=772510046</id>
+        <link href="https://www.storkapp.me/paper/showPaper.php?id=772510046"/>
+        <updated>2021-05-23T23:29:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>&#9711; Stork Pro&#9711; Email Translate&#9711; NIH Grant Database: Search, Translate &amp; Aler...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is big data always needed in the wine industry?]]></title>
+        <id>https://winegourd.blogspot.com/2021/05/is-big-data-always-needed-in-wine.html</id>
+        <link href="https://winegourd.blogspot.com/2021/05/is-big-data-always-needed-in-wine.html"/>
+        <updated>2021-05-23T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>We all know that there are plenty of things that a person can do easily but machines find more chall...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Langhe Riesling: discussing origin, viticulture, winemaking and more]]></title>
+        <id>https://wordonthegrapevine.co.uk/langhe-riesling/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=langhe-riesling</id>
+        <link href="https://wordonthegrapevine.co.uk/langhe-riesling/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=langhe-riesling"/>
+        <updated>2021-05-23T15:37:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>The noblest of white grape varieties, few wines captivate so broadly as Riesling. Seizing the collec...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine Thief Hands Himself In]]></title>
+        <id>https://www.wine-searcher.com/m/2021/05/wine-thief-hands-himself-in</id>
+        <link href="https://www.wine-searcher.com/m/2021/05/wine-thief-hands-himself-in"/>
+        <updated>2021-05-23T03:12:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>&copy; Vins d'Alsace
+| The Kaefferkopf Grand Cru was the scene of one of the thefts.In this week's n...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Professional wine tasting notes are for the reader, not the writer]]></title>
         <id>https://blog.wblakegray.com/2021/05/professional-wine-tasting-notes-are-for.html</id>
@@ -244,6 +296,16 @@ This is not a joke. A lawsuit was filed earlier this month in New York against 
         <updated>2021-05-18T13:51:36.000Z</updated>
         <summary type="html"><![CDATA[A clear eyed understanding of the wine industry is the prerequisite for the industry’s health and for success working in the industry. Too often I bump up against folks in the industry that don’t appreciate some basic truths about the industry. This, in turn, leads folks who want to succeed in the wine industry down a path that inevitably runs up against roadblocks. The five facts that follow are among the most important clear-eyed views of the wine industry that...
 The post Five Facts About the Wine Indust…]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rise to the Occasion: Making Yeast Cultivation a Career]]></title>
+        <id>https://www.winemag.com/2021/05/18/yeast-cultivation-career/</id>
+        <link href="https://www.winemag.com/2021/05/18/yeast-cultivation-career/"/>
+        <updated>2021-05-18T11:30:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>Matthew Winans of Imperial Yeast inspects the growth of classic wine yeast / Photo by Eben Waggoner ...</p>]]></summary>
         <author>
             <name>readwine</name>
         </author>
