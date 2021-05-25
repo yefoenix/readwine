@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T00:28:50.466Z</updated>
+    <updated>2021-05-25T00:29:09.963Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[No…You May Not Have Access to Burgundy, Bordeaux, German or Italian Wines]]></title>
+        <id>https://fermentationwineblog.com/2021/05/no-you-may-not-have-access-to-burgundy-bordeaux-german-or-italian-wines/</id>
+        <link href="https://fermentationwineblog.com/2021/05/no-you-may-not-have-access-to-burgundy-bordeaux-german-or-italian-wines/"/>
+        <updated>2021-05-24T17:12:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>You can sign for a bottle of Sonoma Coast Pinot Noir, but not for a bottle of Argentine Malbec. You ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Judgment of Beaune According to Borda]]></title>
+        <id>https://www.wine-searcher.com/m/2021/05/the-judgment-of-beaune-according-to-borda</id>
+        <link href="https://www.wine-searcher.com/m/2021/05/the-judgment-of-beaune-according-to-borda"/>
+        <updated>2021-05-24T03:08:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>&copy; iStock
+| The Judgment of Paris tasting was a watershed moment, but the Beaune tasting was muc...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-driving tractor set to work in major NZ vineyards]]></title>
+        <id>https://www.tvnz.co.nz/one-news/new-zealand/meet-self-driving-tractor-could-behind-your-next-glass-wine#new_tab</id>
+        <link href="https://www.tvnz.co.nz/one-news/new-zealand/meet-self-driving-tractor-could-behind-your-next-glass-wine#new_tab"/>
+        <updated>2021-05-24T00:38:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>A tractor, which uses artificial intelligence, is the latest development that could soon be running ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hard Seltzer Embraces the Squeeze | Wine Enthusiast]]></title>
         <id>https://www.winemag.com/2021/05/17/best-hard-seltzer-hard-lemonade/</id>
