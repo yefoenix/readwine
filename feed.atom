@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T00:35:26.074Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-27T00:37:21.274Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spanish Wine Loses a Pioneer]]></title>
+        <id>https://www.wine-searcher.com/m/2021/05/spanish-wine-loses-a-pioneer</id>
+        <link href="https://www.wine-searcher.com/m/2021/05/spanish-wine-loses-a-pioneer"/>
+        <updated>2021-05-26T03:21:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>&copy; Bibendum
+| Alejandro Fernandez was one of the great pioneers &ndash; and champions &ndash; of the Ribera ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Letter from Burgundy: The good friends of Burgundy's 2017 vintage - World Of Fine Wine]]></title>
         <id>https://worldoffinewine.com/columns/a-letter-from-burgundy-the-good-friends-of-burgundys-2017-vintage/</id>

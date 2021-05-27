@@ -6,6 +6,15 @@
       "siteUrl": "https://reader.yefoenix.ws",
       "articles": [
         {
+          "id": "https://www.wine-searcher.com/m/2021/05/spanish-wine-loses-a-pioneer",
+          "author": null,
+          "description": "<p>&copy; Bibendum\r\n| Alejandro Fernandez was one of the great pioneers &ndash; and champions &ndash; of the Ribera ...</p>",
+          "link": "https://www.wine-searcher.com/m/2021/05/spanish-wine-loses-a-pioneer",
+          "publishedOn": "2021-05-26T03:21:15.000Z",
+          "wordCount": null,
+          "title": "Spanish Wine Loses a Pioneer"
+        },
+        {
           "id": "https://worldoffinewine.com/columns/a-letter-from-burgundy-the-good-friends-of-burgundys-2017-vintage/",
           "author": null,
           "description": "<p>Now is a good time for an...</p>",
@@ -1412,5 +1421,5 @@
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }
