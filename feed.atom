@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T00:37:21.274Z</updated>
+    <updated>2021-05-28T00:42:29.358Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Cap Classique: South Africa&#039;s Fastest Growing Wine Category]]></title>
+        <id>https://degrendel.co.za/blogs/news/understanding-cap-classique-south-africa</id>
+        <link href="https://degrendel.co.za/blogs/news/understanding-cap-classique-south-africa"/>
+        <updated>2021-05-27T23:22:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>If you are new to the fascinating world of Cap Classique read on because we will demystify some ter...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Txakolina, a Simple Pleasure With a Deep Sense of Place]]></title>
+        <id>https://www.nytimes.com/2021/05/27/dining/drinks/wine-school-txakolina.html</id>
+        <link href="https://www.nytimes.com/2021/05/27/dining/drinks/wine-school-txakolina.html"/>
+        <updated>2021-05-27T18:46:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>This slightly effervescent wine of the Spanish Basque Country epitomizes the globalization of once-l...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Effect of Ambient Light Brightness on Intensity of Flavor Perception]]></title>
+        <id>http://www.academicwino.com/2021/05/ambient-light-brightness-flavor-intensity.html/</id>
+        <link href="http://www.academicwino.com/2021/05/ambient-light-brightness-flavor-intensity.html/"/>
+        <updated>2021-05-27T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Continuing with the theme of taste perception, this weeks&rsquo; blog post highlights a short study ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandemic Triggers US Sake Slump]]></title>
+        <id>https://www.wine-searcher.com/m/2021/05/pandemic-triggers-us-sake-slump</id>
+        <link href="https://www.wine-searcher.com/m/2021/05/pandemic-triggers-us-sake-slump"/>
+        <updated>2021-05-27T03:08:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>&copy; Getty Images
+| Sake sales were hit hard when US restaurants closed down during the pandemic.W...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米其林看重的餐搭酒，中餐到底怎么搭？]]></title>
+        <id>https://mp.weixin.qq.com/s/F9NSyCJlRmBa_uSYIwZZYQ</id>
+        <link href="https://mp.weixin.qq.com/s/F9NSyCJlRmBa_uSYIwZZYQ"/>
+        <updated>2021-05-27T03:07:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>&#22914;&#20309;&#25214;&#21040;&#20013;&#39184;&#37197;&#37202;&#30340;&#21512;&#29702;&#24615;...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Promising technology to combat smoke taint being developed through new partnership]]></title>
+        <id>https://winetitles.com.au/promising-technology-to-combat-smoke-taint-being-developed-through-new-partnership/</id>
+        <link href="https://winetitles.com.au/promising-technology-to-combat-smoke-taint-being-developed-through-new-partnership/"/>
+        <updated>2021-05-27T00:39:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>Image courtesy of Professor Kerry Wilkinson. 
+Professor Kerry Wilkinson from the University of Adela...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emerging opportunities for Australian wine in Russia and Vietnam]]></title>
+        <id>https://www.wineaustralia.com/news/market-bulletin/issue-239#new_tab</id>
+        <link href="https://www.wineaustralia.com/news/market-bulletin/issue-239#new_tab"/>
+        <updated>2021-05-27T00:29:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>Russia and Vietnam have been identified as presenting good opportunities for Australian wine exports...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wild Washington yeast may hold key to reducing sugar content in wine]]></title>
+        <id>https://fruitgrowersnews.com/news/wild-washington-yeast-may-hold-key-to-reducing-sugar-content-in-wine/#new_tab</id>
+        <link href="https://fruitgrowersnews.com/news/wild-washington-yeast-may-hold-key-to-reducing-sugar-content-in-wine/#new_tab"/>
+        <updated>2021-05-27T00:26:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>Researchers from Washington State University&rsquo;s school of food science are working with non-Sac...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: Wine stabilisation techniques with low environmental impact]]></title>
+        <id>https://www.infowine.com/en/news/wine_stabilization_techniques_with_low_environmental_impact_sc_19357.htm#new_tab</id>
+        <link href="https://www.infowine.com/en/news/wine_stabilization_techniques_with_low_environmental_impact_sc_19357.htm#new_tab"/>
+        <updated>2021-05-27T00:26:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>The data of the European project &ldquo;Stabiwine&rdquo; has been submitted to the Oenologists of th...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The powerful women of Bulgaria | JancisRobinson.com]]></title>
+        <id>https://www.jancisrobinson.com/articles/powerful-women-bulgaria</id>
+        <link href="https://www.jancisrobinson.com/articles/powerful-women-bulgaria"/>
+        <updated>2021-05-26T23:17:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>Eastern European specialist Caroline Gilby MW reports on a remarkable phenomenon. The inspirational ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Whisper Of Umami]]></title>
+        <id>https://timatkin.com/the-whisper-of-umami/</id>
+        <link href="https://timatkin.com/the-whisper-of-umami/"/>
+        <updated>2021-05-26T06:35:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>I chip into the hard yellow wax over the cork and it shatters; a frustrating rain over my station. D...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spanish Wine Loses a Pioneer]]></title>
         <id>https://www.wine-searcher.com/m/2021/05/spanish-wine-loses-a-pioneer</id>
@@ -43,6 +155,16 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MTY0MzI5NDcwMQ==&amp;mid=2651241836&amp;idx=1&amp;sn=5fab4248d403e6bb2a5d93511ac43e4c&amp;chksm=523f45ee6548ccf823698d04f077e4bda06a43afab02adb78a523c791adae7b2646cbba14814#rd"/>
         <updated>2021-05-25T13:21:31.000Z</updated>
         <summary type="html"><![CDATA[<p>4&#26376;27&#26085;&#26202;&#65292;&#36149;&#24030;&#33541;&#21488;&#65288;600519.SH&#65289;&#25259;...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Too Much, Too Much, Too Little: Solving the Canned Wine Puzzle]]></title>
+        <id>https://wineeconomist.com/2021/05/25/gazela-can/</id>
+        <link href="https://wineeconomist.com/2021/05/25/gazela-can/"/>
+        <updated>2021-05-25T09:01:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>Sogrape, a leading Portuguese wine producer, recently sent us samples of their new entry into the ca...</p>]]></summary>
         <author>
             <name>readwine</name>
         </author>
