@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T00:42:29.358Z</updated>
+    <updated>2021-05-29T00:52:42.103Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stars Align for Jordan's Vineyard Move]]></title>
+        <id>https://www.wine-searcher.com/m/2021/05/stars-align-for-jordans-vineyard-move</id>
+        <link href="https://www.wine-searcher.com/m/2021/05/stars-align-for-jordans-vineyard-move"/>
+        <updated>2021-05-28T03:20:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>&copy; Jordan Vineyard &amp; Winery
+| Not a lot has changed at Jordan began since it began in 1972 &ndash;...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going ‘lo and no’: is this a sustainable trend?]]></title>
+        <id>https://wineindustryadvisor.com/2021/05/26/going-lo-and-no-is-this-a-sustainable-trend#new_tab</id>
+        <link href="https://wineindustryadvisor.com/2021/05/26/going-lo-and-no-is-this-a-sustainable-trend#new_tab"/>
+        <updated>2021-05-28T00:41:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>Much has been written about the burgeoning trend towards &ldquo;better for you&rdquo; beverages in t...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Napa’s Trinchero trials new smart sprayer control system]]></title>
+        <id>https://www.winebusiness.com/news/?go=getArticle&amp;dataId=246123#new_tab</id>
+        <link href="https://www.winebusiness.com/news/?go=getArticle&amp;dataId=246123#new_tab"/>
+        <updated>2021-05-28T00:35:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>Trinchero Family Estates in Napa is performing trials this year in Lodi area vineyards with a new sm...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Cap Classique: South Africa&#039;s Fastest Growing Wine Category]]></title>
         <id>https://degrendel.co.za/blogs/news/understanding-cap-classique-south-africa</id>
@@ -27,11 +58,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Is Hyperspecific Wine Stemware Worth It?]]></title>
+        <id>https://www.winemag.com/2021/05/27/hyperspecific-wine-stemware-worth-it/</id>
+        <link href="https://www.winemag.com/2021/05/27/hyperspecific-wine-stemware-worth-it/"/>
+        <updated>2021-05-27T12:00:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>Photos and animation by Tom ArenaWhether it&rsquo;s Burgundy, Bordeaux, Chardonnay or Chenin Blanc, ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Effect of Ambient Light Brightness on Intensity of Flavor Perception]]></title>
         <id>http://www.academicwino.com/2021/05/ambient-light-brightness-flavor-intensity.html/</id>
         <link href="http://www.academicwino.com/2021/05/ambient-light-brightness-flavor-intensity.html/"/>
         <updated>2021-05-27T10:30:00.000Z</updated>
         <summary type="html"><![CDATA[<p>Continuing with the theme of taste perception, this weeks&rsquo; blog post highlights a short study ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cap Classique – Is there better value to be found in fizz?]]></title>
+        <id>https://threewinemen.co.uk/cap-classique-is-there-better-value-to-be-found-in-fizz/</id>
+        <link href="https://threewinemen.co.uk/cap-classique-is-there-better-value-to-be-found-in-fizz/"/>
+        <updated>2021-05-27T08:12:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>2021 marks 50 years of Cap Classique wines, the incredible sparkling wines, made from Chardonnay, Pi...</p>]]></summary>
         <author>
             <name>readwine</name>
         </author>
@@ -2066,50 +2117,6 @@ The relationship between quality and quantity is one of those brilliantly geeky 
         <summary type="html"><![CDATA[Wine is a global commodity, but does it make for a better product when everything is locally sourced?
 The history of wine-grape cultivation dates to at least 6,000 B.C., and it&rsquo;s deeply intertwined with the development of civilizations, empires and global trade. Grapes are planted on every continent except Antarctica, and producers craft bottlings from grape varieties indigenous to regions across the planet.
 But increasingly, winemakers try to source ingredients from closer to home in a bid, they say,…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perception of Flavor: A Basic Primer on Cross-Modal Interactions]]></title>
-        <id>http://www.academicwino.com/2021/04/cross-modal-interactions-flavor.html/</id>
-        <link href="http://www.academicwino.com/2021/04/cross-modal-interactions-flavor.html/"/>
-        <updated>2021-04-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello, readers!&nbsp; I&rsquo;m going to diverge from my usual m.o and present today a slightly older study than I usually do.&nbsp; Instead of being published in the last year, this one was published in 2017.&nbsp; Why? Well, I&rsquo;m in the beginning stages of a new project on perception of taste and flavor and am reading a whole bunch of papers from a wide range of years.&nbsp; Today&rsquo;s paper I consider to be a short, introductory paper to the general topic of interest for this new project.&nbsp; N…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How many calories are in your alcoholic drink, and which has the lowest?]]></title>
-        <id>https://www.telegraph.co.uk/food-and-drink/features/many-calories-alcoholic-drink/</id>
-        <link href="https://www.telegraph.co.uk/food-and-drink/features/many-calories-alcoholic-drink/"/>
-        <updated>2021-04-29T08:01:10.000Z</updated>
-        <summary type="html"><![CDATA[How many calories are in your alcoholic drink, and which has the lowest?]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How local wineries made the most from smoke-tainted vintage]]></title>
-        <id>https://aboutregional.com.au/how-local-wineries-made-the-most-from-smoke-tainted-vintage/#new_tab</id>
-        <link href="https://aboutregional.com.au/how-local-wineries-made-the-most-from-smoke-tainted-vintage/#new_tab"/>
-        <updated>2021-04-29T00:20:25.000Z</updated>
-        <summary type="html"><![CDATA[While wineries in the region have just harvested the grapes for their 2021 vintages, the effects of smoke from the 2019-20 bushfires are still lingering (in a good way) for a handful of local winemakers who banded together to make the most of what could have been a bad batch.
-
-The post How local wineries made the most from smoke-tainted vintage appeared first on Winetitles.]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Searching for China’s signature winegrape]]></title>
-        <id>https://www.decanterchina.com/en/news/searching-for-china-s-signature-wine-grape#new_tab</id>
-        <link href="https://www.decanterchina.com/en/news/searching-for-china-s-signature-wine-grape#new_tab"/>
-        <updated>2021-04-29T00:17:32.000Z</updated>
-        <summary type="html"><![CDATA[A French crossing and the Chinese equivalent Carmenere are among the likely candidates to become China&rsquo;s signature winegrape, local experts believe. Although Cabernet Sauvignon is currently the most widely planted winegrape in China, taking up 60%-70% of Chinese wine growing areas, local producers believe that China needs its own &lsquo;signature grape&rsquo; to establish its identity in the global market.
-
-The post Searching for China&rsquo;s signature winegrape appeared first on Winetitles.]]></summary>
         <author>
             <name>readwine</name>
         </author>
