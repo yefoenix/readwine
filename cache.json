@@ -6,6 +6,15 @@
       "siteUrl": "https://reader.yefoenix.ws",
       "articles": [
         {
+          "id": "https://www.wine-searcher.com/m/2021/05/champagne-prepares-two-more-standout-vintages",
+          "author": null,
+          "description": "<p>&copy; Reuters\r\n| The 2018 vintage gets the plaudits, but 2019 and 2020 will likely surpass it.What c...</p>",
+          "link": "https://www.wine-searcher.com/m/2021/05/champagne-prepares-two-more-standout-vintages",
+          "publishedOn": "2021-05-31T03:24:28.000Z",
+          "wordCount": null,
+          "title": "Champagne Prepares Two More Standout Vintages"
+        },
+        {
           "id": "https://winegourd.blogspot.com/2021/05/australia-versus-new-zealand-wine.html",
           "author": null,
           "description": "<p>There has long been a rivalry between Australia and New Zealand. This dates at least back to when Au...</p>",
@@ -1480,33 +1489,6 @@
           "publishedOn": "2021-05-02T22:30:00.000Z",
           "wordCount": 1062,
           "title": "Changes in scores of top wines?"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s?__biz=MjM5NTYwODk3NA==&mid=2659322231&idx=1&sn=7a09868b0de61d73cbf307a45fa306fd&chksm=bd8349968af4c08038b1cc2fe8cb3dbfc1870be0cbded820c858a6dcf804d49183f3314e989c&sessionid=1619958121&scene=126&clicktime=1619958142&enterid=1619958142&ascene=3&devicetype=android-28&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=A3WJjR/2An91oJwMX+UgbzQ=&pass_ticket=8TSnnHW6u6R/PnY5LlUiqHPOkh/AX7lHwF5egEdYMWVlxf+Jrz4ggiLDepjxR3UP&wx_header=1",
-          "author": null,
-          "description": "&#22312;&#22823;&#21697;&#29260;&#12289;&#24037;&#19994;&#21270;&#21860;&#37202;&#22810;&#24180;&#26469;&#19968;&#32479;&#27743;&#28246;&#30340;&#32972;&#26223;&#19979;&#65292;&#31934;&#37247;&#21860;&#37202;&#65288;Craft Beer&#65289;&#36817;&#24180;&#26469;&#36880;&#28176;&#34987;&#22269;&#20154;&#25152;&#37325;&#35270;&#65292;&#36825;&#31181;&#20855;&#22791;&#20135;&#37327;&#23569;&#12289;&#20010;&#24615;&#36275;&#12289;&#24037;&#33402;&#31934;&#31561;&#29305;&#36136;&#30340;&#23567;&#21697;&#29260;&#2186…",
-          "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTYwODk3NA==&mid=2659322231&idx=1&sn=7a09868b0de61d73cbf307a45fa306fd&chksm=bd8349968af4c08038b1cc2fe8cb3dbfc1870be0cbded820c858a6dcf804d49183f3314e989c&sessionid=1619958121&scene=126&clicktime=1619958142&enterid=1619958142&ascene=3&devicetype=android-28&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=A3WJjR/2An91oJwMX+UgbzQ=&pass_ticket=8TSnnHW6u6R/PnY5LlUiqHPOkh/AX7lHwF5egEdYMWVlxf+Jrz4ggiLDepjxR3UP&wx_header=1",
-          "publishedOn": "2021-05-02T12:22:54.000Z",
-          "wordCount": 71,
-          "title": "奇怪的味道增加了 | 据说这款啤酒的口味，来自百年前降落的一块陨石"
-        },
-        {
-          "id": "https://www.ciencia-e-vinho.com/2021/05/02/understanding-malbec-clonal-diversity-through-genomics-and-history/",
-          "author": null,
-          "description": "Malbec is a cultivar that is well-appreciated for the elaboration of red wine. It originated in Southwestern France and was introduced in Argentina during the 1850s. In order to study the clonal genetic diversity of Malbec grapevines, the authors of this post generated whole-genome resequencing data for four accessions with different clonal propagation records. The results show the usefulness of this approach for the study of the scarce intra-cultivar genetic diversity in grapevines. We also provide evidenc…",
-          "link": "https://www.ciencia-e-vinho.com/2021/05/02/understanding-malbec-clonal-diversity-through-genomics-and-history/",
-          "publishedOn": "2021-05-02T10:22:02.000Z",
-          "wordCount": 1122,
-          "title": "Understanding ‘Malbec’ clonal diversity through genomics and history"
-        },
-        {
-          "id": "https://www.wine-searcher.com/m/2021/05/france-opens-up-to-foreign-grapes",
-          "author": null,
-          "description": "&copy; EWT\r\n| Exotic grapes like Georgia's Saperavi are being planted in France as part of a trial to combat climate change.\nIt's been a crazy week, so here are some wine stories that might have passed you by.\n\r\nWhile most of you will no doubt have read of Francois Pinault's plea for his fellow Bordeaux winery owners to come to the rescue of beleaguered football club FC Girondins, the annual buzz generated around En Primeur, and the news that the EU will not bail out the wine industry, here are some of the …",
-          "link": "https://www.wine-searcher.com/m/2021/05/france-opens-up-to-foreign-grapes",
-          "publishedOn": "2021-05-02T03:26:05.000Z",
-          "wordCount": null,
-          "title": "France Opens up to Foreign Grapes"
         }
       ]
     }

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T01:04:25.520Z</updated>
+    <updated>2021-06-01T01:20:27.926Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Champagne Prepares Two More Standout Vintages]]></title>
+        <id>https://www.wine-searcher.com/m/2021/05/champagne-prepares-two-more-standout-vintages</id>
+        <link href="https://www.wine-searcher.com/m/2021/05/champagne-prepares-two-more-standout-vintages"/>
+        <updated>2021-05-31T03:24:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>&copy; Reuters
+| The 2018 vintage gets the plaudits, but 2019 and 2020 will likely surpass it.What c...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australia versus New Zealand wine exports]]></title>
         <id>https://winegourd.blogspot.com/2021/05/australia-versus-new-zealand-wine.html</id>
@@ -2040,40 +2051,6 @@ In this regard, James Suckling provides an annual list of Top 100 Wines, which i
         <updated>2021-05-02T22:30:00.000Z</updated>
         <summary type="html"><![CDATA[There have been many comments about wine critics, especially concerning various characteristics of their wine ratings, including things like inflation and inconsistency. One thing that I could look at here is the matter of "top-rated" wines, and how their scores vary from year to year.
 In this regard, James Suckling provides an annual list of Top 100 Wines, which is worth looking into; so, I have collated the scores for the years 2014 to 2020, inclusive. [Thanks to James for giving me access to his database…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇怪的味道增加了 | 据说这款啤酒的口味，来自百年前降落的一块陨石]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5NTYwODk3NA==&amp;mid=2659322231&amp;idx=1&amp;sn=7a09868b0de61d73cbf307a45fa306fd&amp;chksm=bd8349968af4c08038b1cc2fe8cb3dbfc1870be0cbded820c858a6dcf804d49183f3314e989c&amp;sessionid=1619958121&amp;scene=126&amp;clicktime=1619958142&amp;enterid=1619958142&amp;ascene=3&amp;devicetype=android-28&amp;version=27001545&amp;nettype=WIFI&amp;abtest_cookie=AAACAA==&amp;lang=zh_CN&amp;exportkey=A3WJjR/2An91oJwMX+UgbzQ=&amp;pass_ticket=8TSnnHW6u6R/PnY5LlUiqHPOkh/AX7lHwF5egEdYMWVlxf+Jrz4ggiLDepjxR3UP&amp;wx_header=1</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5NTYwODk3NA==&amp;mid=2659322231&amp;idx=1&amp;sn=7a09868b0de61d73cbf307a45fa306fd&amp;chksm=bd8349968af4c08038b1cc2fe8cb3dbfc1870be0cbded820c858a6dcf804d49183f3314e989c&amp;sessionid=1619958121&amp;scene=126&amp;clicktime=1619958142&amp;enterid=1619958142&amp;ascene=3&amp;devicetype=android-28&amp;version=27001545&amp;nettype=WIFI&amp;abtest_cookie=AAACAA==&amp;lang=zh_CN&amp;exportkey=A3WJjR/2An91oJwMX+UgbzQ=&amp;pass_ticket=8TSnnHW6u6R/PnY5LlUiqHPOkh/AX7lHwF5egEdYMWVlxf+Jrz4ggiLDepjxR3UP&amp;wx_header=1"/>
-        <updated>2021-05-02T12:22:54.000Z</updated>
-        <summary type="html"><![CDATA[&#22312;&#22823;&#21697;&#29260;&#12289;&#24037;&#19994;&#21270;&#21860;&#37202;&#22810;&#24180;&#26469;&#19968;&#32479;&#27743;&#28246;&#30340;&#32972;&#26223;&#19979;&#65292;&#31934;&#37247;&#21860;&#37202;&#65288;Craft Beer&#65289;&#36817;&#24180;&#26469;&#36880;&#28176;&#34987;&#22269;&#20154;&#25152;&#37325;&#35270;&#65292;&#36825;&#31181;&#20855;&#22791;&#20135;&#37327;&#23569;&#12289;&#20010;&#24615;&#36275;&#12289;&#24037;&#33402;&#31934;&#31561;&#29305;&#36136;&#30340;&#23567;&#21697;&#29260;&#2186…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding ‘Malbec’ clonal diversity through genomics and history]]></title>
-        <id>https://www.ciencia-e-vinho.com/2021/05/02/understanding-malbec-clonal-diversity-through-genomics-and-history/</id>
-        <link href="https://www.ciencia-e-vinho.com/2021/05/02/understanding-malbec-clonal-diversity-through-genomics-and-history/"/>
-        <updated>2021-05-02T10:22:02.000Z</updated>
-        <summary type="html"><![CDATA[Malbec is a cultivar that is well-appreciated for the elaboration of red wine. It originated in Southwestern France and was introduced in Argentina during the 1850s. In order to study the clonal genetic diversity of Malbec grapevines, the authors of this post generated whole-genome resequencing data for four accessions with different clonal propagation records. The results show the usefulness of this approach for the study of the scarce intra-cultivar genetic diversity in grapevines. We also provide evidenc…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[France Opens up to Foreign Grapes]]></title>
-        <id>https://www.wine-searcher.com/m/2021/05/france-opens-up-to-foreign-grapes</id>
-        <link href="https://www.wine-searcher.com/m/2021/05/france-opens-up-to-foreign-grapes"/>
-        <updated>2021-05-02T03:26:05.000Z</updated>
-        <summary type="html"><![CDATA[&copy; EWT
-| Exotic grapes like Georgia's Saperavi are being planted in France as part of a trial to combat climate change.
-It's been a crazy week, so here are some wine stories that might have passed you by.
-
-While most of you will no doubt have read of Francois Pinault's plea for his fellow Bordeaux winery owners to come to the rescue of beleaguered football club FC Girondins, the annual buzz generated around En Primeur, and the news that the EU will not bail out the wine industry, here are some of the …]]></summary>
         <author>
             <name>readwine</name>
         </author>
