@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T01:20:27.926Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-02T01:26:46.116Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[夏日的白花恋语：“白诗南”葡萄的风味和卢瓦河谷风格指南 | Decanter品种秀]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzU3NjU1ODUzMw==&amp;mid=2247497286&amp;idx=1&amp;sn=42e6efa77af9ec7abcbd8d4dbd80fc04&amp;chksm=fd10b2ecca673bfa10e61afa937136f4537d4a3d68eefcebd4bd1b79c3fb7ce572e76fee91f5&amp;xtrack=1&amp;scene=90&amp;subscene=93&amp;sessionid=1622594041&amp;clicktime=1622594062&amp;enterid=1622594062&amp;ascene=56&amp;devicetype=android-29&amp;version=27001545&amp;nettype=WIFI&amp;abtest_cookie=AAACAA==&amp;lang=zh_CN&amp;exportkey=AzaOQAuoMIII4jXpQqYEatw=&amp;pass_ticket=/ld/l14yB90l/KtdriCSuXNbs1GECuRsqnt+kO0vy9PWkrwIGWRKlpvtYdqguuax&amp;wx_header=1</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzU3NjU1ODUzMw==&amp;mid=2247497286&amp;idx=1&amp;sn=42e6efa77af9ec7abcbd8d4dbd80fc04&amp;chksm=fd10b2ecca673bfa10e61afa937136f4537d4a3d68eefcebd4bd1b79c3fb7ce572e76fee91f5&amp;xtrack=1&amp;scene=90&amp;subscene=93&amp;sessionid=1622594041&amp;clicktime=1622594062&amp;enterid=1622594062&amp;ascene=56&amp;devicetype=android-29&amp;version=27001545&amp;nettype=WIFI&amp;abtest_cookie=AAACAA==&amp;lang=zh_CN&amp;exportkey=AzaOQAuoMIII4jXpQqYEatw=&amp;pass_ticket=/ld/l14yB90l/KtdriCSuXNbs1GECuRsqnt+kO0vy9PWkrwIGWRKlpvtYdqguuax&amp;wx_header=1"/>
+        <updated>2021-06-02T00:34:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>&#28857;&#20987;&#19978;&#26041;&#20844;&#20247;&#21495;&#21517;&#31216;&ldquo;Decanter&#37255;	...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘It’s Going to Be a Big Summer for Hard Seltzer’]]></title>
+        <id>https://www.nytimes.com/2021/05/30/business/white-claw-hard-seltzer-sales.html</id>
+        <link href="https://www.nytimes.com/2021/05/30/business/white-claw-hard-seltzer-sales.html"/>
+        <updated>2021-06-02T00:03:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Seltzer at the Rambler Kitchen and Tap, a Chicago establishment that expects to sell close to 500 ca...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Funk: Standard Wormwood Distillery]]></title>
+        <id>https://vintnerproject.com/spirits/good-funk-standard-wormwood-distillery/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=good-funk-standard-wormwood-distillery</id>
+        <link href="https://vintnerproject.com/spirits/good-funk-standard-wormwood-distillery/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=good-funk-standard-wormwood-distillery"/>
+        <updated>2021-06-01T18:14:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>Two longtime friends were out on the open road. They bartered homemade &lsquo;scorched&rsquo; absint...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-Pandemic, Wine Writers Prepare for a More Diverse and Delicious Future — Thinking Outside the Bottle]]></title>
+        <id>https://www.thinkingoutsidethebottle.com/blog/li8z9fsygckeidszhv9m0jf57db28y</id>
+        <link href="https://www.thinkingoutsidethebottle.com/blog/li8z9fsygckeidszhv9m0jf57db28y"/>
+        <updated>2021-06-01T16:12:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>Wine writers occupy a strange, small precipice that hovers over, observes and analyzes&mdash;and is ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Third Times the Charm: Texas Legislature Passes New Wine Labeling Law]]></title>
+        <id>https://www.winebusiness.com/news/?go=getArticle&amp;dataId=245882</id>
+        <link href="https://www.winebusiness.com/news/?go=getArticle&amp;dataId=245882"/>
+        <updated>2021-06-01T15:19:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>In a Texas legislative session marred by partisanship, a labeling law designed to guarantee authenti...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prisoners restoring first jail vineyard banned from turning grapes into wine]]></title>
+        <id>https://www.mirror.co.uk/news/uk-news/prisoners-restoring-first-jail-vineyard-24211368</id>
+        <link href="https://www.mirror.co.uk/news/uk-news/prisoners-restoring-first-jail-vineyard-24211368"/>
+        <updated>2021-06-01T05:30:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>Prisoners are tending Britain&rsquo;s first jail vineyard &ndash; but they have been banned from tur...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[French Biodiversity Office leaks damaging report | Meiningers Wine Business International]]></title>
+        <id>https://www.wine-business-international.com/wine/news/french-biodiversity-office-leaks-damaging-report</id>
+        <link href="https://www.wine-business-international.com/wine/news/french-biodiversity-office-leaks-damaging-report"/>
+        <updated>2021-06-01T05:07:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>News
+ 2021 May 28 /  
+        
+		
+		 
+            Report sparks organic producers to resist...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine "Supertasters" and Covid Resistance]]></title>
+        <id>https://www.wine-searcher.com/m/2021/06/wine-supertasters-and-covid-resistance</id>
+        <link href="https://www.wine-searcher.com/m/2021/06/wine-supertasters-and-covid-resistance"/>
+        <updated>2021-06-01T03:24:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>&copy; Shutterstock/Dan Kosmayer
+| Covid can affect your tasting ability, but that ability might als...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 French Wine Terms You Need To Know]]></title>
+        <id>https://www.winescholarguild.org/blog/25-french-wine-terms-you-need-to-know</id>
+        <link href="https://www.winescholarguild.org/blog/25-french-wine-terms-you-need-to-know"/>
+        <updated>2021-05-31T22:39:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>25 French Wine Terms You Need To Know</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ch. Lafite Rothschild: the long view]]></title>
+        <id>https://blog.bbr.com/2021/05/31/ch-lafite-rothschild-the-long-view/</id>
+        <link href="https://blog.bbr.com/2021/05/31/ch-lafite-rothschild-the-long-view/"/>
+        <updated>2021-05-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Photograph &copy; Marl&egrave;ne Awaad
+
+
+
+The Rothschild family have been the custodians of Lafite ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Champagne Prepares Two More Standout Vintages]]></title>
         <id>https://www.wine-searcher.com/m/2021/05/champagne-prepares-two-more-standout-vintages</id>
@@ -13,6 +123,16 @@
         <updated>2021-05-31T03:24:28.000Z</updated>
         <summary type="html"><![CDATA[<p>&copy; Reuters
 | The 2018 vintage gets the plaudits, but 2019 and 2020 will likely surpass it.What c...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia versus New Zealand wine exports]]></title>
+        <id>http://winegourd.blogspot.com/2021/05/australia-versus-new-zealand-wine.html</id>
+        <link href="http://winegourd.blogspot.com/2021/05/australia-versus-new-zealand-wine.html"/>
+        <updated>2021-05-30T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>There has long been a rivalry between Australia and New Zealand. This dates at least back to when Au...</p>]]></summary>
         <author>
             <name>readwine</name>
         </author>
@@ -28,12 +148,32 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Production of Phytotoxic Metabolites by Botryosphaeriaceae in Naturally Infected and Artificially Inoculated Grapevines]]></title>
+        <id>https://www.ciencia-e-vinho.com/2021/05/30/production-of-phytotoxic-metabolites-by-botryosphaeriaceae-in-naturally-infected-and-artificially-inoculated-grapevines/</id>
+        <link href="https://www.ciencia-e-vinho.com/2021/05/30/production-of-phytotoxic-metabolites-by-botryosphaeriaceae-in-naturally-infected-and-artificially-inoculated-grapevines/"/>
+        <updated>2021-05-30T17:16:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>Grapevine trunk diseases (GTDs) are considered a serious problem to viticulture worldwide. Several G...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Burgundy Eyes Alternative Varieties]]></title>
         <id>https://www.wine-searcher.com/m/2021/05/burgundy-eyes-alternative-varieties</id>
         <link href="https://www.wine-searcher.com/m/2021/05/burgundy-eyes-alternative-varieties"/>
         <updated>2021-05-30T03:12:27.000Z</updated>
         <summary type="html"><![CDATA[<p>&copy; Authentica
 | Burgundy's position as the land of Pinot Noir and Chardonnay could be under thre...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fair Labor Practices Enter the Natural Wine Conversation]]></title>
+        <id>https://daily.sevenfifty.com/fair-labor-practices-enter-the-natural-wine-conversation/</id>
+        <link href="https://daily.sevenfifty.com/fair-labor-practices-enter-the-natural-wine-conversation/"/>
+        <updated>2021-05-28T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Fair Labor Practices Enter the Natural Wine Conversation</p>]]></summary>
         <author>
             <name>readwine</name>
         </author>
@@ -1952,105 +2092,6 @@ But…]]></summary>
         <updated>2021-05-03T21:26:32.000Z</updated>
         <summary type="html"><![CDATA[TAICHUNG  &mdash;  How could anyone imagine any sort of viticulture on land that never experiences winter and is ravaged by an average of five typhoons per year? The island of Taiwan is much more famous for its tea and street food than for its vineyards. Producing wine is certainly possible, but producing very good wine is another story. And most of the bottles found in this hot country are closer to cheap plonk than great vintages.
 Yet Vino Formosa, a sweet white wine, and Vino Formosa Rosso, its red equiv…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now is the Time To Buy Prime Vineyard Land…It’s a Bargain]]></title>
-        <id>https://fermentationwineblog.com/2021/05/now-is-the-time-to-buy-prime-vineyard-land-its-a-bargain/</id>
-        <link href="https://fermentationwineblog.com/2021/05/now-is-the-time-to-buy-prime-vineyard-land-its-a-bargain/"/>
-        <updated>2021-05-03T03:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Say you are 30 years old and you, unlike so many your age, are thinking about your future and thinking about securing your financial future. Here is how you do it: Do whatever it takes, find partners, find the funding, and buy a few acres of Napa Valley, Russian River Valley or Willamette Valley vineyard land&hellip;.the really good terroir. In 30 years, you will be able to sell this land for oodles and oodles more than you bought it. The...
-The post Now is the Time To Buy Prime Vineyard Land&hellip;It&rsqu…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Science Makes a Mockery of Tasting Notes]]></title>
-        <id>https://www.wine-searcher.com/m/2021/05/science-makes-a-mockery-of-tasting-notes</id>
-        <link href="https://www.wine-searcher.com/m/2021/05/science-makes-a-mockery-of-tasting-notes"/>
-        <updated>2021-05-03T03:09:58.000Z</updated>
-        <summary type="html"><![CDATA[&copy; iStock
-| One person's vanilla might well be another person's butterscotch.
-Your wine tasting notes are probably wrong &ndash; for other people, at least.
-
-A rose is a rose is a rose may not actually be the case when it comes to taste.
-New research indicates that your vanilla may not in fact be Johnny's vanilla. Johnny's vanilla may be less intense than yours, or gasp, Johnny's repertoire of flavor associations may not name your vanilla as vanilla; more vexing still, this note may not even make a bo…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Furmint in focus - Decanter]]></title>
-        <id>https://www.decanter.com/sponsored/furmint-in-focus-455865/</id>
-        <link href="https://www.decanter.com/sponsored/furmint-in-focus-455865/"/>
-        <updated>2021-05-03T01:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Hungary 2021 supplement
- Promotion
-  
- Furmint is building a reputation as the next big thing for thrilling dry white wines. It channels Riesling in having the ability to go from bone-dry to lusciously sweet in style, always underscored by a streak of refreshing acidity. Then it can also resemble Chardonnay, being capable of producing fine sparkling wine, steely linear whites (think mouthwatering, spicy Chablis) and complex, layered ones (think Burgundy on steroids).
-This all makes genetic sense: Furmint is…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best canned wine: How good is the quality? - Decanter]]></title>
-        <id>https://www.decanter.com/decanter-best/canned-wine-405876/</id>
-        <link href="https://www.decanter.com/decanter-best/canned-wine-405876/"/>
-        <updated>2021-05-03T01:25:36.000Z</updated>
-        <summary type="html"><![CDATA[The modern canned wine movement has been developing apace in the US for several years, but the concept has also become more popular in the UK recently.
-Cans are a great option for al fresco drinking and picnics, which is something to consider as the UK government prepares to allow more outdoor meet-ups.
- There&rsquo;s no need to pack a corkscrew for one thing.
-Canned wine on the rise in UK
-&lsquo;More retailers are now stocking wine in cans in the UK,&rsquo; said Andy Howard MW in the August 2019 issue of D…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Other Side of the Slope: Burgundy&#039;s Other Grapes and Wines | Wine Enthusiast]]></title>
-        <id>https://www.winemag.com/2021/04/30/burgundy-grape-varieties/</id>
-        <link href="https://www.winemag.com/2021/04/30/burgundy-grape-varieties/"/>
-        <updated>2021-05-03T01:24:09.000Z</updated>
-        <summary type="html"><![CDATA[Burgundy is known for two noble grape varieties: Chardonnay and Pinot Noir.&#8239;The vast majority of&#8239;the plantings there are those two varieties, which often command insanely high prices.&nbsp;But&#8239;there&rsquo;s&#8239;more to Burgundy than meets the eye,&nbsp;with a variety of styles produced&nbsp;and grapes other than Chardonnay and&nbsp;Pinot&nbsp;can&nbsp;also create stellar wines, but&nbsp;with incredible value.&#8239;&#8239;&nbsp;
- Aligot&eacute;&#8239;&#8239;&nbsp;
- One of Burgundy&rsquo;…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine photographers of the year]]></title>
-        <id>https://vino-joy.com/2021/05/03/wine-photographers-of-the-year/</id>
-        <link href="https://vino-joy.com/2021/05/03/wine-photographers-of-the-year/"/>
-        <updated>2021-05-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The bests in wine photography are celebrated at this year's Pink Lady Food Photography of the Year. See all the winning photos here.
-The post Wine photographers of the year appeared first on Vino Joy News.]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changes in scores of top wines?]]></title>
-        <id>http://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html</id>
-        <link href="http://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html"/>
-        <updated>2021-05-02T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There have been many comments about wine critics, especially concerning various characteristics of their wine ratings, including things like inflation and inconsistency. One thing that I could look at here is the matter of "top-rated" wines, and how their scores vary from year to year.
-In this regard, James Suckling provides an annual list of Top 100 Wines, which is worth looking into; so, I have collated the scores for the years 2014 to 2020, inclusive. [Thanks to James for giving me access to his database…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changes in scores of top wines?]]></title>
-        <id>https://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html</id>
-        <link href="https://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html"/>
-        <updated>2021-05-02T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There have been many comments about wine critics, especially concerning various characteristics of their wine ratings, including things like inflation and inconsistency. One thing that I could look at here is the matter of "top-rated" wines, and how their scores vary from year to year.
-In this regard, James Suckling provides an annual list of Top 100 Wines, which is worth looking into; so, I have collated the scores for the years 2014 to 2020, inclusive. [Thanks to James for giving me access to his database…]]></summary>
         <author>
             <name>readwine</name>
         </author>

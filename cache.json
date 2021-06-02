@@ -6,6 +6,96 @@
       "siteUrl": "https://reader.yefoenix.ws",
       "articles": [
         {
+          "id": "https://mp.weixin.qq.com/s?__biz=MzU3NjU1ODUzMw==&mid=2247497286&idx=1&sn=42e6efa77af9ec7abcbd8d4dbd80fc04&chksm=fd10b2ecca673bfa10e61afa937136f4537d4a3d68eefcebd4bd1b79c3fb7ce572e76fee91f5&xtrack=1&scene=90&subscene=93&sessionid=1622594041&clicktime=1622594062&enterid=1622594062&ascene=56&devicetype=android-29&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=AzaOQAuoMIII4jXpQqYEatw=&pass_ticket=/ld/l14yB90l/KtdriCSuXNbs1GECuRsqnt+kO0vy9PWkrwIGWRKlpvtYdqguuax&wx_header=1",
+          "author": null,
+          "description": "<p>&#28857;&#20987;&#19978;&#26041;&#20844;&#20247;&#21495;&#21517;&#31216;&ldquo;Decanter&#37255;\t...</p>",
+          "link": "https://mp.weixin.qq.com/s?__biz=MzU3NjU1ODUzMw==&mid=2247497286&idx=1&sn=42e6efa77af9ec7abcbd8d4dbd80fc04&chksm=fd10b2ecca673bfa10e61afa937136f4537d4a3d68eefcebd4bd1b79c3fb7ce572e76fee91f5&xtrack=1&scene=90&subscene=93&sessionid=1622594041&clicktime=1622594062&enterid=1622594062&ascene=56&devicetype=android-29&version=27001545&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=AzaOQAuoMIII4jXpQqYEatw=&pass_ticket=/ld/l14yB90l/KtdriCSuXNbs1GECuRsqnt+kO0vy9PWkrwIGWRKlpvtYdqguuax&wx_header=1",
+          "publishedOn": "2021-06-02T00:34:49.000Z",
+          "wordCount": 164,
+          "title": "夏日的白花恋语：“白诗南”葡萄的风味和卢瓦河谷风格指南 | Decanter品种秀"
+        },
+        {
+          "id": "https://www.nytimes.com/2021/05/30/business/white-claw-hard-seltzer-sales.html",
+          "author": null,
+          "description": "<p>Seltzer at the Rambler Kitchen and Tap, a Chicago establishment that expects to sell close to 500 ca...</p>",
+          "link": "https://www.nytimes.com/2021/05/30/business/white-claw-hard-seltzer-sales.html",
+          "publishedOn": "2021-06-02T00:03:00.000Z",
+          "wordCount": 1408,
+          "title": "‘It’s Going to Be a Big Summer for Hard Seltzer’"
+        },
+        {
+          "id": "https://vintnerproject.com/spirits/good-funk-standard-wormwood-distillery/?utm_source=rss&utm_medium=rss&utm_campaign=good-funk-standard-wormwood-distillery",
+          "author": null,
+          "description": "<p>Two longtime friends were out on the open road. They bartered homemade &lsquo;scorched&rsquo; absint...</p>",
+          "link": "https://vintnerproject.com/spirits/good-funk-standard-wormwood-distillery/?utm_source=rss&utm_medium=rss&utm_campaign=good-funk-standard-wormwood-distillery",
+          "publishedOn": "2021-06-01T18:14:41.000Z",
+          "wordCount": 1092,
+          "title": "Good Funk: Standard Wormwood Distillery"
+        },
+        {
+          "id": "https://www.thinkingoutsidethebottle.com/blog/li8z9fsygckeidszhv9m0jf57db28y",
+          "author": null,
+          "description": "<p>Wine writers occupy a strange, small precipice that hovers over, observes and analyzes&mdash;and is ...</p>",
+          "link": "https://www.thinkingoutsidethebottle.com/blog/li8z9fsygckeidszhv9m0jf57db28y",
+          "publishedOn": "2021-06-01T16:12:54.000Z",
+          "wordCount": 1707,
+          "title": "Post-Pandemic, Wine Writers Prepare for a More Diverse and Delicious Future — Thinking Outside the Bottle"
+        },
+        {
+          "id": "https://www.winebusiness.com/news/?go=getArticle&dataId=245882",
+          "author": null,
+          "description": "<p>In a Texas legislative session marred by partisanship, a labeling law designed to guarantee authenti...</p>",
+          "link": "https://www.winebusiness.com/news/?go=getArticle&dataId=245882",
+          "publishedOn": "2021-06-01T15:19:26.000Z",
+          "wordCount": 2320,
+          "title": "Third Times the Charm: Texas Legislature Passes New Wine Labeling Law"
+        },
+        {
+          "id": "https://www.mirror.co.uk/news/uk-news/prisoners-restoring-first-jail-vineyard-24211368",
+          "author": null,
+          "description": "<p>Prisoners are tending Britain&rsquo;s first jail vineyard &ndash; but they have been banned from tur...</p>",
+          "link": "https://www.mirror.co.uk/news/uk-news/prisoners-restoring-first-jail-vineyard-24211368",
+          "publishedOn": "2021-06-01T05:30:47.000Z",
+          "wordCount": 1412,
+          "title": "Prisoners restoring first jail vineyard banned from turning grapes into wine"
+        },
+        {
+          "id": "https://www.wine-business-international.com/wine/news/french-biodiversity-office-leaks-damaging-report",
+          "author": null,
+          "description": "<p>News\n 2021 May 28 /  \n        \n\t\t\n\t\t \n            Report sparks organic producers to resist...</p>",
+          "link": "https://www.wine-business-international.com/wine/news/french-biodiversity-office-leaks-damaging-report",
+          "publishedOn": "2021-06-01T05:07:55.000Z",
+          "wordCount": 687,
+          "title": "French Biodiversity Office leaks damaging report | Meiningers Wine Business International"
+        },
+        {
+          "id": "https://www.wine-searcher.com/m/2021/06/wine-supertasters-and-covid-resistance",
+          "author": null,
+          "description": "<p>&copy; Shutterstock/Dan Kosmayer\r\n| Covid can affect your tasting ability, but that ability might als...</p>",
+          "link": "https://www.wine-searcher.com/m/2021/06/wine-supertasters-and-covid-resistance",
+          "publishedOn": "2021-06-01T03:24:17.000Z",
+          "wordCount": null,
+          "title": "Wine \"Supertasters\" and Covid Resistance"
+        },
+        {
+          "id": "https://www.winescholarguild.org/blog/25-french-wine-terms-you-need-to-know",
+          "author": null,
+          "description": "<p>25 French Wine Terms You Need To Know</p>",
+          "link": "https://www.winescholarguild.org/blog/25-french-wine-terms-you-need-to-know",
+          "publishedOn": "2021-05-31T22:39:55.000Z",
+          "wordCount": 2124,
+          "title": "25 French Wine Terms You Need To Know"
+        },
+        {
+          "id": "https://blog.bbr.com/2021/05/31/ch-lafite-rothschild-the-long-view/",
+          "author": null,
+          "description": "<p>Photograph &copy; Marl&egrave;ne Awaad\n\n\n\nThe Rothschild family have been the custodians of Lafite ...</p>",
+          "link": "https://blog.bbr.com/2021/05/31/ch-lafite-rothschild-the-long-view/",
+          "publishedOn": "2021-05-31T07:00:00.000Z",
+          "wordCount": 1729,
+          "title": "Ch. Lafite Rothschild: the long view"
+        },
+        {
           "id": "https://www.wine-searcher.com/m/2021/05/champagne-prepares-two-more-standout-vintages",
           "author": null,
           "description": "<p>&copy; Reuters\r\n| The 2018 vintage gets the plaudits, but 2019 and 2020 will likely surpass it.What c...</p>",
@@ -13,6 +103,15 @@
           "publishedOn": "2021-05-31T03:24:28.000Z",
           "wordCount": null,
           "title": "Champagne Prepares Two More Standout Vintages"
+        },
+        {
+          "id": "http://winegourd.blogspot.com/2021/05/australia-versus-new-zealand-wine.html",
+          "author": null,
+          "description": "<p>There has long been a rivalry between Australia and New Zealand. This dates at least back to when Au...</p>",
+          "link": "http://winegourd.blogspot.com/2021/05/australia-versus-new-zealand-wine.html",
+          "publishedOn": "2021-05-30T22:30:00.000Z",
+          "wordCount": 1678,
+          "title": "Australia versus New Zealand wine exports"
         },
         {
           "id": "https://winegourd.blogspot.com/2021/05/australia-versus-new-zealand-wine.html",
@@ -24,6 +123,15 @@
           "title": "Australia versus New Zealand wine exports"
         },
         {
+          "id": "https://www.ciencia-e-vinho.com/2021/05/30/production-of-phytotoxic-metabolites-by-botryosphaeriaceae-in-naturally-infected-and-artificially-inoculated-grapevines/",
+          "author": null,
+          "description": "<p>Grapevine trunk diseases (GTDs) are considered a serious problem to viticulture worldwide. Several G...</p>",
+          "link": "https://www.ciencia-e-vinho.com/2021/05/30/production-of-phytotoxic-metabolites-by-botryosphaeriaceae-in-naturally-infected-and-artificially-inoculated-grapevines/",
+          "publishedOn": "2021-05-30T17:16:12.000Z",
+          "wordCount": 2900,
+          "title": "Production of Phytotoxic Metabolites by Botryosphaeriaceae in Naturally Infected and Artificially Inoculated Grapevines"
+        },
+        {
           "id": "https://www.wine-searcher.com/m/2021/05/burgundy-eyes-alternative-varieties",
           "author": null,
           "description": "<p>&copy; Authentica\r\n| Burgundy's position as the land of Pinot Noir and Chardonnay could be under thre...</p>",
@@ -31,6 +139,15 @@
           "publishedOn": "2021-05-30T03:12:27.000Z",
           "wordCount": null,
           "title": "Burgundy Eyes Alternative Varieties"
+        },
+        {
+          "id": "https://daily.sevenfifty.com/fair-labor-practices-enter-the-natural-wine-conversation/",
+          "author": null,
+          "description": "<p>Fair Labor Practices Enter the Natural Wine Conversation</p>",
+          "link": "https://daily.sevenfifty.com/fair-labor-practices-enter-the-natural-wine-conversation/",
+          "publishedOn": "2021-05-28T17:15:00.000Z",
+          "wordCount": 2300,
+          "title": "Fair Labor Practices Enter the Natural Wine Conversation"
         },
         {
           "id": "https://www.wine-searcher.com/m/2021/05/stars-align-for-jordans-vineyard-move",
@@ -1417,81 +1534,9 @@
           "publishedOn": "2021-05-03T21:26:32.000Z",
           "wordCount": 1505,
           "title": "Tropical Terroir: The Man Turning Taiwan Into Wine Country"
-        },
-        {
-          "id": "https://fermentationwineblog.com/2021/05/now-is-the-time-to-buy-prime-vineyard-land-its-a-bargain/",
-          "author": null,
-          "description": "Say you are 30 years old and you, unlike so many your age, are thinking about your future and thinking about securing your financial future. Here is how you do it: Do whatever it takes, find partners, find the funding, and buy a few acres of Napa Valley, Russian River Valley or Willamette Valley vineyard land&hellip;.the really good terroir. In 30 years, you will be able to sell this land for oodles and oodles more than you bought it. The...\nThe post Now is the Time To Buy Prime Vineyard Land&hellip;It&rsqu…",
-          "link": "https://fermentationwineblog.com/2021/05/now-is-the-time-to-buy-prime-vineyard-land-its-a-bargain/",
-          "publishedOn": "2021-05-03T03:39:13.000Z",
-          "wordCount": null,
-          "title": "Now is the Time To Buy Prime Vineyard Land…It’s a Bargain"
-        },
-        {
-          "id": "https://www.wine-searcher.com/m/2021/05/science-makes-a-mockery-of-tasting-notes",
-          "author": null,
-          "description": "&copy; iStock\r\n| One person's vanilla might well be another person's butterscotch.\nYour wine tasting notes are probably wrong &ndash; for other people, at least.\n\r\nA rose is a rose is a rose may not actually be the case when it comes to taste.\nNew research indicates that your vanilla may not in fact be Johnny's vanilla. Johnny's vanilla may be less intense than yours, or gasp, Johnny's repertoire of flavor associations may not name your vanilla as vanilla; more vexing still, this note may not even make a bo…",
-          "link": "https://www.wine-searcher.com/m/2021/05/science-makes-a-mockery-of-tasting-notes",
-          "publishedOn": "2021-05-03T03:09:58.000Z",
-          "wordCount": null,
-          "title": "Science Makes a Mockery of Tasting Notes"
-        },
-        {
-          "id": "https://www.decanter.com/sponsored/furmint-in-focus-455865/",
-          "author": null,
-          "description": "Hungary 2021 supplement\n Promotion\n  \n Furmint is building a reputation as the next big thing for thrilling dry white wines. It channels Riesling in having the ability to go from bone-dry to lusciously sweet in style, always underscored by a streak of refreshing acidity. Then it can also resemble Chardonnay, being capable of producing fine sparkling wine, steely linear whites (think mouthwatering, spicy Chablis) and complex, layered ones (think Burgundy on steroids).\nThis all makes genetic sense: Furmint is…",
-          "link": "https://www.decanter.com/sponsored/furmint-in-focus-455865/",
-          "publishedOn": "2021-05-03T01:26:07.000Z",
-          "wordCount": 958,
-          "title": "Furmint in focus - Decanter"
-        },
-        {
-          "id": "https://www.decanter.com/decanter-best/canned-wine-405876/",
-          "author": null,
-          "description": "The modern canned wine movement has been developing apace in the US for several years, but the concept has also become more popular in the UK recently.\nCans are a great option for al fresco drinking and picnics, which is something to consider as the UK government prepares to allow more outdoor meet-ups.\n There&rsquo;s no need to pack a corkscrew for one thing.\nCanned wine on the rise in UK\n&lsquo;More retailers are now stocking wine in cans in the UK,&rsquo; said Andy Howard MW in the August 2019 issue of D…",
-          "link": "https://www.decanter.com/decanter-best/canned-wine-405876/",
-          "publishedOn": "2021-05-03T01:25:36.000Z",
-          "wordCount": 816,
-          "title": "Best canned wine: How good is the quality? - Decanter"
-        },
-        {
-          "id": "https://www.winemag.com/2021/04/30/burgundy-grape-varieties/",
-          "author": null,
-          "description": "Burgundy is known for two noble grape varieties: Chardonnay and Pinot Noir.&#8239;The vast majority of&#8239;the plantings there are those two varieties, which often command insanely high prices.&nbsp;But&#8239;there&rsquo;s&#8239;more to Burgundy than meets the eye,&nbsp;with a variety of styles produced&nbsp;and grapes other than Chardonnay and&nbsp;Pinot&nbsp;can&nbsp;also create stellar wines, but&nbsp;with incredible value.&#8239;&#8239;&nbsp;\n Aligot&eacute;&#8239;&#8239;&nbsp;\n One of Burgundy&rsquo;…",
-          "link": "https://www.winemag.com/2021/04/30/burgundy-grape-varieties/",
-          "publishedOn": "2021-05-03T01:24:09.000Z",
-          "wordCount": 1710,
-          "title": "The Other Side of the Slope: Burgundy&#039;s Other Grapes and Wines | Wine Enthusiast"
-        },
-        {
-          "id": "https://vino-joy.com/2021/05/03/wine-photographers-of-the-year/",
-          "author": null,
-          "description": "The bests in wine photography are celebrated at this year's Pink Lady Food Photography of the Year. See all the winning photos here.\nThe post Wine photographers of the year appeared first on Vino Joy News.",
-          "link": "https://vino-joy.com/2021/05/03/wine-photographers-of-the-year/",
-          "publishedOn": "2021-05-03T00:00:00.000Z",
-          "wordCount": 1564,
-          "title": "Wine photographers of the year"
-        },
-        {
-          "id": "http://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html",
-          "author": null,
-          "description": "There have been many comments about wine critics, especially concerning various characteristics of their wine ratings, including things like inflation and inconsistency. One thing that I could look at here is the matter of \"top-rated\" wines, and how their scores vary from year to year.\nIn this regard, James Suckling provides an annual list of Top 100 Wines, which is worth looking into; so, I have collated the scores for the years 2014 to 2020, inclusive. [Thanks to James for giving me access to his database…",
-          "link": "http://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html",
-          "publishedOn": "2021-05-02T22:30:00.000Z",
-          "wordCount": 1062,
-          "title": "Changes in scores of top wines?"
-        },
-        {
-          "id": "https://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html",
-          "author": null,
-          "description": "There have been many comments about wine critics, especially concerning various characteristics of their wine ratings, including things like inflation and inconsistency. One thing that I could look at here is the matter of \"top-rated\" wines, and how their scores vary from year to year.\nIn this regard, James Suckling provides an annual list of Top 100 Wines, which is worth looking into; so, I have collated the scores for the years 2014 to 2020, inclusive. [Thanks to James for giving me access to his database…",
-          "link": "https://winegourd.blogspot.com/2021/05/changes-in-scores-of-top-wines.html",
-          "publishedOn": "2021-05-02T22:30:00.000Z",
-          "wordCount": 1062,
-          "title": "Changes in scores of top wines?"
         }
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
