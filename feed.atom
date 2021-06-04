@@ -2,16 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T01:09:55.798Z</updated>
+    <updated>2021-06-04T01:08:58.501Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Does ‘Creamy’ Mean in Wine?]]></title>
+        <id>https://www.winemag.com/2021/06/01/creamy-wine-buttery-chardonnay/</id>
+        <link href="https://www.winemag.com/2021/06/01/creamy-wine-buttery-chardonnay/"/>
+        <updated>2021-06-04T00:04:03.000Z</updated>
+        <summary type="html"><![CDATA[<p>The term &ldquo;creamy&rdquo; crops up in a lot of wine tastings. Primarily a reference to textur...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indigenous North American grapevines, not the standard European varieties, may be California wine's answer to climate change]]></title>
+        <id>https://www.sfchronicle.com/food/wine/article/Indigenous-American-hybrid-wine-climate-change-16188640.php</id>
+        <link href="https://www.sfchronicle.com/food/wine/article/Indigenous-American-hybrid-wine-climate-change-16188640.php"/>
+        <updated>2021-06-03T23:58:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>Matthew Niess believes the future of California wine lies with native California grapes.This might s...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asti DOCG and its terroir]]></title>
+        <id>https://www.decanter.com/sponsored/asti-docg-and-its-terroir-458396/</id>
+        <link href="https://www.decanter.com/sponsored/asti-docg-and-its-terroir-458396/"/>
+        <updated>2021-06-03T23:58:33.000Z</updated>
+        <summary type="html"><![CDATA[<p>The world&rsquo;s best-selling sweet sparkling wine comes from Piedmont in Italy. The story begins...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfume and Wine]]></title>
+        <id>https://timatkin.com/perfume-and-wine/</id>
+        <link href="https://timatkin.com/perfume-and-wine/"/>
+        <updated>2021-06-03T23:17:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>I fell in love with both perfume and Sauternes at roughly the same time, when I moved to the C...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Used To Steal Verdicchio, Then It Stole Me]]></title>
+        <id>https://www.pix.wine/the-drop/stealing-verdicchio-essay/</id>
+        <link href="https://www.pix.wine/the-drop/stealing-verdicchio-essay/"/>
+        <updated>2021-06-03T20:53:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>The knotty pine bar
+
+	
+		A bit player in the oil industry, my father set up factories to recond...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swedish wine growers establish a new industry association]]></title>
+        <id>https://www.liz-palmer.com/swedish-wine-growers-establish-a-new-industry-association/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=swedish-wine-growers-establish-a-new-industry-association</id>
+        <link href="https://www.liz-palmer.com/swedish-wine-growers-establish-a-new-industry-association/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=swedish-wine-growers-establish-a-new-industry-association"/>
+        <updated>2021-06-03T20:17:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>Do you have Swedish wine on your wine list? &nbsp;Well, now it&rsquo;s time! A group of Swedish prof...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Oregon Wine Tourism Survive the Portland Problem?]]></title>
+        <id>https://fermentationwineblog.com/2021/06/can-oregon-wine-tourism-survive-the-portland-problem/</id>
+        <link href="https://fermentationwineblog.com/2021/06/can-oregon-wine-tourism-survive-the-portland-problem/"/>
+        <updated>2021-06-03T15:45:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>&ldquo;Five Days After Attack, Andy Ngo Releases Statement Confirming He Was Chased and Beaten in Po...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ancient Origins of Beer Geeks and Wine Snobs]]></title>
+        <id>https://www.winemag.com/2021/06/03/ancient-rome-history-ancient-greek-history-wine/</id>
+        <link href="https://www.winemag.com/2021/06/03/ancient-rome-history-ancient-greek-history-wine/"/>
+        <updated>2021-06-03T11:45:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>GettyIf you&rsquo;re into wine or beer, you&rsquo;ve likely come across a few &ldquo;wine snobs&amp;rdqu...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一杯啤酒里有多少个泡泡？科学家真的算出来了]]></title>
+        <id>https://mp.weixin.qq.com/s?sub=&amp;__biz=MjM5NDA1Njg2MA==&amp;mid=2652020474&amp;idx=1&amp;sn=1fb99cb4b9bd9a01a6ee9314dcbd6b86&amp;chksm=bd6ba1098a1c281fe025ec693eadc6528efc3fac2ed149e977e18430355f6ab8d5039d9c5247&amp;scene=19&amp;subscene=10000&amp;clicktime=1622718643&amp;enterid=1622718643&amp;ascene=0&amp;devicetype=android-29&amp;version=27001545&amp;nettype=WIFI&amp;abtest_cookie=AAACAA==&amp;lang=zh_CN&amp;exportkey=A0gOPUZ84V5tDD++hIDww4c=&amp;pass_ticket=2JiGC9V+1xMhNtzIlZuAQ7upkBvke4n6CZnCVDdUR1363v1RBxPn9nAR4WPo3Y2U&amp;wx_header=1</id>
+        <link href="https://mp.weixin.qq.com/s?sub=&amp;__biz=MjM5NDA1Njg2MA==&amp;mid=2652020474&amp;idx=1&amp;sn=1fb99cb4b9bd9a01a6ee9314dcbd6b86&amp;chksm=bd6ba1098a1c281fe025ec693eadc6528efc3fac2ed149e977e18430355f6ab8d5039d9c5247&amp;scene=19&amp;subscene=10000&amp;clicktime=1622718643&amp;enterid=1622718643&amp;ascene=0&amp;devicetype=android-29&amp;version=27001545&amp;nettype=WIFI&amp;abtest_cookie=AAACAA==&amp;lang=zh_CN&amp;exportkey=A0gOPUZ84V5tDD++hIDww4c=&amp;pass_ticket=2JiGC9V+1xMhNtzIlZuAQ7upkBvke4n6CZnCVDdUR1363v1RBxPn9nAR4WPo3Y2U&amp;wx_header=1"/>
+        <updated>2021-06-03T11:11:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>&#19968;&#26479;&#21860;&#37202;&#37324;&#26377;&#22810;&#23569;&#20010;&#27873;&#27873;&#65311;&#31185;&#23398;&#23478;&#30495;&#30340;&#31639;&#20986;&#26469;&#20102;</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Now Is the Best Time to Get Into the Wine Industry in Decades]]></title>
         <id>https://fermentationwineblog.com/2021/06/now-is-the-best-time-to-get-into-the-wine-industry-in-decades/</id>
         <link href="https://fermentationwineblog.com/2021/06/now-is-the-best-time-to-get-into-the-wine-industry-in-decades/"/>
         <updated>2021-06-02T22:20:27.000Z</updated>
         <summary type="html"><![CDATA[<p>This moment, right now, is the best time to find a job in the wine industry that I&rsquo;ve witnesse...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should you put ice cubes in wine?]]></title>
+        <id>https://www.decanter.com/learn/advice/put-ice-cubes-in-wine-318618/</id>
+        <link href="https://www.decanter.com/learn/advice/put-ice-cubes-in-wine-318618/"/>
+        <updated>2021-06-02T13:00:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>It is commonly believed that putting ice cubes in your wine is a faux pas; watering down and dilutin...</p>]]></summary>
         <author>
             <name>readwine</name>
         </author>
@@ -2049,21 +2152,6 @@ By the early 2000s, the international market had become saturated with Super-Tus
         <updated>2021-05-05T16:46:44.000Z</updated>
         <summary type="html"><![CDATA[It was an honour and a privilege to participate as a speaker today for FIJEV [Journalistes et Ecrivains des Vins &hellip; Continue reading "Digital Wine Marketing for Wine Journalists"
 The post Digital Wine Marketing for Wine Journalists appeared first on Liz Palmer - International Wine and Spirit News.]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine Country Fights Back in Weed Wars]]></title>
-        <id>https://www.wine-searcher.com/m/2021/05/wine-country-fights-back-in-weed-wars</id>
-        <link href="https://www.wine-searcher.com/m/2021/05/wine-country-fights-back-in-weed-wars"/>
-        <updated>2021-05-05T03:05:49.000Z</updated>
-        <summary type="html"><![CDATA[&copy; PANNA
-| Cannabis cultivation has ballooned in California and winemakers worry about its impact.
-Grapegrowers and wine producers are pushing back against the cannabis industry's push into prime California wine country.
-
-California winemakers are scrambling for survival as the biggest cannabis farms on earth make their way into wine country, bringing a broad range of cultural and logistical challenges in their wake.
-Factory-style cannabis farms have not been allowed in much of wine country, mind you.…]]></summary>
         <author>
             <name>readwine</name>
         </author>
