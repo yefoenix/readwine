@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T01:08:58.501Z</updated>
+    <updated>2021-06-05T00:46:49.246Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Willamette Valley: The New Burgundy?]]></title>
+        <id>https://www.wine-searcher.com/m/2021/06/willamette-valley-the-new-burgundy</id>
+        <link href="https://www.wine-searcher.com/m/2021/06/willamette-valley-the-new-burgundy"/>
+        <updated>2021-06-04T03:22:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>&copy; Lingua Franca
+| Oregon built its reputation on Pinot Noir, but Chardonnay could be the future...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Does ‘Creamy’ Mean in Wine?]]></title>
         <id>https://www.winemag.com/2021/06/01/creamy-wine-buttery-chardonnay/</id>
@@ -2027,131 +2038,6 @@ Whi…]]></summary>
         <updated>2021-05-06T12:59:24.000Z</updated>
         <summary type="html"><![CDATA[The first in a series that attempts to decode some of wine&rsquo;s long-held truths.
 The post Chill White Wine&hellip;But Why? appeared first on PUNCH.]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Blaufränkisch New Jersey's Signature Grape?]]></title>
-        <id>https://www.winebusiness.com/?go=getNewsLink&amp;dataId=245159</id>
-        <link href="https://www.winebusiness.com/?go=getNewsLink&amp;dataId=245159"/>
-        <updated>2021-05-06T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Because two different styles of wine can be produced from Blaufr&auml;nkisch, it has a huge potential in both North and South Jersey.]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting acquainted with birds in UK vineyards – fieldwork in April 2021]]></title>
-        <id>https://www.winegb.co.uk/2021/05/06/getting-acquainted-with-birds/</id>
-        <link href="https://www.winegb.co.uk/2021/05/06/getting-acquainted-with-birds/"/>
-        <updated>2021-05-06T11:03:48.000Z</updated>
-        <summary type="html"><![CDATA[What a wonderful two weeks this has been! Two weeks of lone adventures across the unexplored (by me!) vineyard landscapes filled me with enthusiasm for my project and got me beaming with new-found spring energy. In short, the birds across UK vineyards did not disappoint.
-If you&rsquo;re anything like me then you don&rsquo;t need much persuading to get out of the house, especially after endless months of home-working, but what I experienced across 18 British vineyards was more than just a walk to the local r…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes Natural Wine Exclusionary? The Name, Some Say]]></title>
-        <id>https://www.winemag.com/2021/05/06/natural-wine-term/</id>
-        <link href="https://www.winemag.com/2021/05/06/natural-wine-term/"/>
-        <updated>2021-05-06T11:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Getty
-Megan Bell, winemaker at Margins Wine, is frustrated by the term &ldquo;natural wine.&rdquo;
-While there&rsquo;s no official U.S. designation, it generally refers to wines made without chemicals, flavoring or coloring agents, as well as no added sugars or acids, fining or filtration. Many believe that natural wines should be made without additional sulfur or temperature-controlling agents like dry ice, though others make exceptions for those practices. Despite such porous parameters, Bell finds the te…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Friends Split over Napa Cab]]></title>
-        <id>https://www.wine-searcher.com/m/2021/05/old-friends-split-over-napa-cab</id>
-        <link href="https://www.wine-searcher.com/m/2021/05/old-friends-split-over-napa-cab"/>
-        <updated>2021-05-06T03:03:50.000Z</updated>
-        <summary type="html"><![CDATA[&copy; Schrader Cellars
-| The two old friends fell out after the wine stopped flowing.
-A long-standing friendship has broken down and ended up in court over a wine deal gone wrong.
-By W. Blake Gray | Posted Thursday, 06-May-2021
-
-They were great friends until one stopped sending the other wine.
-Texas attorney Robert "Randy" Roach said in a court filing that he was the best man at vintner Fred Schrader's wedding. They traveled together; dined together; and Schrader said in a deposition that when Roach thou…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Natural Wine Isn't Always the Healthiest (or Tastiest) Option]]></title>
-        <id>https://www.realsimple.com/food-recipes/shopping-storing/beverages/natural-wine-facts</id>
-        <link href="https://www.realsimple.com/food-recipes/shopping-storing/beverages/natural-wine-facts"/>
-        <updated>2021-05-06T02:58:11.000Z</updated>
-        <summary type="html"><![CDATA[At first, it was a novelty hostess gift. Natural wine? I asked my friend at a party a few years ago. Isn't all wine natural? She shook her head with pity. A couple months later, I noticed a natural wine endcap at my local wine shop. Next, an onslaught of orange wine populated my Instagram feed until, finally, it seemed natural wine was all anyone in my online or offline social circles wanted to drink.
-It doesn't have as much sugar, someone said recently at a socially distant happy hour. The group of 30-some…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magical Mystery Box: Emerging China Wine Market Strategy]]></title>
-        <id>https://wineeconomist.com/2021/05/04/toro-china/</id>
-        <link href="https://wineeconomist.com/2021/05/04/toro-china/"/>
-        <updated>2021-05-06T01:40:14.000Z</updated>
-        <summary type="html"><![CDATA[The Chinese economy is booming, recovering from the pandemic sooner and stronger than any other country, although the pace of recovery seems to have slowed. The wine economy in China is still struggling, however, with high inventory levels remaining due to last year&rsquo;s lockdowns. Selling off the surplus stock without eroding price points and reputations is serious concern. Recently reports highlight creative solutions to the problem.
-Doubling Down on China
-Concha y Toro, the famous Chilean wine brand, …]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine Retail’s Great Awakening]]></title>
-        <id>https://punchdrink.com/articles/wine-retails-great-awakening-miracle-plum-fiasco-leisir-new-york/</id>
-        <link href="https://punchdrink.com/articles/wine-retails-great-awakening-miracle-plum-fiasco-leisir-new-york/"/>
-        <updated>2021-05-06T01:39:47.000Z</updated>
-        <summary type="html"><![CDATA[If you&rsquo;ve wandered into an American wine store in the past five years, you may have noticed that retail is shifting. Where establishments with the library approach once dominated the market with their towering stacks of cases and big-name, blue-chip wines on pedestals, smaller shops with eclectic, affordable wines and attentive, casual service have come to the fore. Wine shopping has become, well, cool. Nudged along by the pandemic, the world of retail wine seems to be experiencing a great awakening.
-…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Super-Tuscans have fallen from fashion]]></title>
-        <id>https://cluboenologique.com/story/why-super-tuscans-have-fallen-from-fashion/</id>
-        <link href="https://cluboenologique.com/story/why-super-tuscans-have-fallen-from-fashion/"/>
-        <updated>2021-05-05T23:48:44.000Z</updated>
-        <summary type="html"><![CDATA[In the 1980s, the wine world was in thrall to the Super-Tuscans. These pioneering Bordeaux blends took the market by storm, quickly commanding stratospheric prices. But while once hailed as a driving force behind the modernisation of Italian winemaking, today the Super-Tuscans are suffering an identity crisis.
-By the early 2000s, the international market had become saturated with Super-Tuscans. Triggered by the predictable style of an ever-growing number of wines with names ending in &lsquo;-aia&rsquo; (Lup…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Put-Upon, Underpaid, Disparaged, Victims—The Life of Wine Influencers]]></title>
-        <id>https://fermentationwineblog.com/2021/05/put-upon-underpaid-disparaged-victims-the-life-of-wine-influencers/</id>
-        <link href="https://fermentationwineblog.com/2021/05/put-upon-underpaid-disparaged-victims-the-life-of-wine-influencers/"/>
-        <updated>2021-05-05T18:15:54.000Z</updated>
-        <summary type="html"><![CDATA[Are wine influencers mining the depths and potential of Instagram really just put-upon, underpaid, disparaged journalists working in a new medium that the sexist wine industry is too male and too old to understand or appreciate? As usual, the San Francisco Chronicle&rsquo;s Esther Mobley provides some fascinating insight into her subject matter, this time looking at &ldquo;wine influencers&rdquo; and doing a good job of letting them tell their story without too much interruption. Unfortunately, in &ldquo;In…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voor-Paardeberg: The Birth of the Revolution – Tim Atkin – Master of Wine]]></title>
-        <id>https://timatkin.com/voor-paardeberg-the-birth-of-the-revolution/</id>
-        <link href="https://timatkin.com/voor-paardeberg-the-birth-of-the-revolution/"/>
-        <updated>2021-05-05T17:04:29.000Z</updated>
-        <summary type="html"><![CDATA[South African has been experiencing renewed international interest for its wines of genuine quality, thanks in part to The Swartland Revolution; a winemaking movement that took root in the hot and dry Paardeberg area, roughly 20 years ago. But it was in fact in the Voor-Paardeberg that Swartland Icons like Adi Badenhorst and Eben Sadie started to notice potential in the region. Two decades later, on the Southern end of the mountain, this less-talked-about ward of the Voor-Paardeberg (often disparagingly ref…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Wine Marketing for Wine Journalists]]></title>
-        <id>https://www.liz-palmer.com/digital-wine-marketing-for-wine-journalists/</id>
-        <link href="https://www.liz-palmer.com/digital-wine-marketing-for-wine-journalists/"/>
-        <updated>2021-05-05T16:46:44.000Z</updated>
-        <summary type="html"><![CDATA[It was an honour and a privilege to participate as a speaker today for FIJEV [Journalistes et Ecrivains des Vins &hellip; Continue reading "Digital Wine Marketing for Wine Journalists"
-The post Digital Wine Marketing for Wine Journalists appeared first on Liz Palmer - International Wine and Spirit News.]]></summary>
         <author>
             <name>readwine</name>
         </author>
