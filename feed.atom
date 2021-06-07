@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T00:39:55.485Z</updated>
+    <updated>2021-06-07T00:41:01.621Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The evolving language of wine]]></title>
+        <id>https://www.jancisrobinson.com/articles/evolving-language-wine</id>
+        <link href="https://www.jancisrobinson.com/articles/evolving-language-wine"/>
+        <updated>2021-06-06T23:38:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>Is wine vocabulary too Eurocentric? A version of this article is published by the Financial Times. T...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you speak wine?]]></title>
+        <id>https://www.ft.com/content/651fb381-df08-4792-963e-39530d7d2ae1</id>
+        <link href="https://www.ft.com/content/651fb381-df08-4792-963e-39530d7d2ae1"/>
+        <updated>2021-06-06T23:37:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>Let our global subject matter experts broaden your perspective with timely insights and opini...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idaho wine: fresh, fruit-forward and great value - Decanter]]></title>
+        <id>https://www.decanter.com/decanter-best/idaho-wine-fresh-fruit-forward-and-great-value-458276/</id>
+        <link href="https://www.decanter.com/decanter-best/idaho-wine-fresh-fruit-forward-and-great-value-458276/"/>
+        <updated>2021-06-06T23:37:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>Exclusive Highlights Tastings Home   When those who know it think of Idaho, which has its western...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking Wholistically About Pizza, T-Rex, and Wine - The Marketing Sage]]></title>
+        <id>http://www.themarketingsage.com/thinking-wholistically-about-pizza-t-rex-and-wine/</id>
+        <link href="http://www.themarketingsage.com/thinking-wholistically-about-pizza-t-rex-and-wine/"/>
+        <updated>2021-06-06T23:27:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>This is a guest post by Robert Joseph, the noted wine writer, speaker, producer and provacateur. He...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rioja Emerges as an Affordable Substitute for High-End Bordeaux - Pix]]></title>
+        <id>https://www.pix.wine/the-drop/affordable-bordeaux/</id>
+        <link href="https://www.pix.wine/the-drop/affordable-bordeaux/"/>
+        <updated>2021-06-06T23:24:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>For the very rich who don&rsquo;t mind showing it, there&rsquo;s only one type of wine to drink: ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wines from Chile are great value-for-money]]></title>
+        <id>http://winegourd.blogspot.com/2021/06/wines-from-chile-are-great-value-for.html</id>
+        <link href="http://winegourd.blogspot.com/2021/06/wines-from-chile-are-great-value-for.html"/>
+        <updated>2021-06-06T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>It seems to me that there is no better value for money to be had in the wine world than the vinous p...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wines from Chile are great value-for-money]]></title>
+        <id>https://winegourd.blogspot.com/2021/06/wines-from-chile-are-great-value-for.html</id>
+        <link href="https://winegourd.blogspot.com/2021/06/wines-from-chile-are-great-value-for.html"/>
+        <updated>2021-06-06T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>It seems to me that there is no better value for money to be had in the wine world than the vinous p...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much do we currently know about the relationship between grape and wine phenolics and cell wall material?]]></title>
+        <id>https://www.ciencia-e-vinho.com/2021/06/06/how-much-do-we-currently-know-about-the-relationship-between-grape-and-wine-phenolics-and-cell-wall-material/</id>
+        <link href="https://www.ciencia-e-vinho.com/2021/06/06/how-much-do-we-currently-know-about-the-relationship-between-grape-and-wine-phenolics-and-cell-wall-material/"/>
+        <updated>2021-06-06T13:02:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>The present post summarizes a review that relates the last decade&rsquo;s findings on the relationsh...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Porn Star's Wine War on Israel]]></title>
+        <id>https://www.wine-searcher.com/m/2021/06/ex-porn-stars-wine-war-on-israel</id>
+        <link href="https://www.wine-searcher.com/m/2021/06/ex-porn-stars-wine-war-on-israel"/>
+        <updated>2021-06-06T03:30:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>&copy; Mia Khalifa/Twitter
+| The Lebanese-born former adult actor made no bones about her feelings i...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手凿冰球的信仰，真的有必要吗？]]></title>
         <id>https://mp.weixin.qq.com/s/q0Gqc2Z84DIiNOjHKxTKuQ</id>
@@ -1961,21 +2052,6 @@ The post The…]]></summary>
 | Australia's difficulties have become Chile's opportunities in China.
 
 While everyone gasped at space-aged P&eacute;trus going up for auction with an astronomical seven-figure estimate, and while the French wine industry mourned the loss of three influential winemakers and growers (Laurent Vaill&eacute; of Grange des P&egrave;res in Aniane, Pascal Clairet of Domaine de la Tournelle in Arbois, and Laurent Grimaud, a grower in Provence), here are some of this week's headlines you might…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Remarkable Rise of Château Valandraud]]></title>
-        <id>https://www.wine-searcher.com/m/2021/05/the-remarkable-rise-of-chateau-valandraud</id>
-        <link href="https://www.wine-searcher.com/m/2021/05/the-remarkable-rise-of-chateau-valandraud"/>
-        <updated>2021-05-08T03:11:37.000Z</updated>
-        <summary type="html"><![CDATA[&copy; Ch&acirc;teau Valandraud
-| The pretty but unassuming estate of Ch&acirc;teau Valandraud managed to irrevocably change the formerly stiff world of Bordeaux.
-Ch&acirc;teau Valandraud started with very little, but today it is one of Saint-&Eacute;milion's hottest properties.
-
-Shaking up the world of Bordeaux is no mean feat, and when Jean-Luc Thunevin broke with tradition he helped pioneer a wine upheaval.
-Although maverick winemaker Thunevin and his partner Murielle Andraud founded Ch&acirc;teau Vala…]]></summary>
         <author>
             <name>readwine</name>
         </author>

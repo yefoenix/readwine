@@ -6,6 +6,87 @@
       "siteUrl": "https://reader.yefoenix.ws",
       "articles": [
         {
+          "id": "https://www.jancisrobinson.com/articles/evolving-language-wine",
+          "author": null,
+          "description": "<p>Is wine vocabulary too Eurocentric? A version of this article is published by the Financial Times. T...</p>",
+          "link": "https://www.jancisrobinson.com/articles/evolving-language-wine",
+          "publishedOn": "2021-06-06T23:38:07.000Z",
+          "wordCount": 1796,
+          "title": "The evolving language of wine"
+        },
+        {
+          "id": "https://www.ft.com/content/651fb381-df08-4792-963e-39530d7d2ae1",
+          "author": null,
+          "description": "<p>Let our global subject matter experts broaden your perspective with timely insights and opini...</p>",
+          "link": "https://www.ft.com/content/651fb381-df08-4792-963e-39530d7d2ae1",
+          "publishedOn": "2021-06-06T23:37:50.000Z",
+          "wordCount": 961,
+          "title": "Do you speak wine?"
+        },
+        {
+          "id": "https://www.decanter.com/decanter-best/idaho-wine-fresh-fruit-forward-and-great-value-458276/",
+          "author": null,
+          "description": "<p>Exclusive Highlights Tastings Home   When those who know it think of Idaho, which has its western...</p>",
+          "link": "https://www.decanter.com/decanter-best/idaho-wine-fresh-fruit-forward-and-great-value-458276/",
+          "publishedOn": "2021-06-06T23:37:17.000Z",
+          "wordCount": 905,
+          "title": "Idaho wine: fresh, fruit-forward and great value - Decanter"
+        },
+        {
+          "id": "http://www.themarketingsage.com/thinking-wholistically-about-pizza-t-rex-and-wine/",
+          "author": null,
+          "description": "<p>This is a guest post by Robert Joseph, the noted wine writer, speaker, producer and provacateur. He...</p>",
+          "link": "http://www.themarketingsage.com/thinking-wholistically-about-pizza-t-rex-and-wine/",
+          "publishedOn": "2021-06-06T23:27:59.000Z",
+          "wordCount": 2002,
+          "title": "Thinking Wholistically About Pizza, T-Rex, and Wine - The Marketing Sage"
+        },
+        {
+          "id": "https://www.pix.wine/the-drop/affordable-bordeaux/",
+          "author": null,
+          "description": "<p>For the very rich who don&rsquo;t mind showing it, there&rsquo;s only one type of wine to drink: ...</p>",
+          "link": "https://www.pix.wine/the-drop/affordable-bordeaux/",
+          "publishedOn": "2021-06-06T23:24:36.000Z",
+          "wordCount": 1288,
+          "title": "Rioja Emerges as an Affordable Substitute for High-End Bordeaux - Pix"
+        },
+        {
+          "id": "http://winegourd.blogspot.com/2021/06/wines-from-chile-are-great-value-for.html",
+          "author": null,
+          "description": "<p>It seems to me that there is no better value for money to be had in the wine world than the vinous p...</p>",
+          "link": "http://winegourd.blogspot.com/2021/06/wines-from-chile-are-great-value-for.html",
+          "publishedOn": "2021-06-06T22:30:00.000Z",
+          "wordCount": 1200,
+          "title": "Wines from Chile are great value-for-money"
+        },
+        {
+          "id": "https://winegourd.blogspot.com/2021/06/wines-from-chile-are-great-value-for.html",
+          "author": null,
+          "description": "<p>It seems to me that there is no better value for money to be had in the wine world than the vinous p...</p>",
+          "link": "https://winegourd.blogspot.com/2021/06/wines-from-chile-are-great-value-for.html",
+          "publishedOn": "2021-06-06T22:30:00.000Z",
+          "wordCount": 1200,
+          "title": "Wines from Chile are great value-for-money"
+        },
+        {
+          "id": "https://www.ciencia-e-vinho.com/2021/06/06/how-much-do-we-currently-know-about-the-relationship-between-grape-and-wine-phenolics-and-cell-wall-material/",
+          "author": null,
+          "description": "<p>The present post summarizes a review that relates the last decade&rsquo;s findings on the relationsh...</p>",
+          "link": "https://www.ciencia-e-vinho.com/2021/06/06/how-much-do-we-currently-know-about-the-relationship-between-grape-and-wine-phenolics-and-cell-wall-material/",
+          "publishedOn": "2021-06-06T13:02:35.000Z",
+          "wordCount": 2333,
+          "title": "How much do we currently know about the relationship between grape and wine phenolics and cell wall material?"
+        },
+        {
+          "id": "https://www.wine-searcher.com/m/2021/06/ex-porn-stars-wine-war-on-israel",
+          "author": null,
+          "description": "<p>&copy; Mia Khalifa/Twitter\r\n| The Lebanese-born former adult actor made no bones about her feelings i...</p>",
+          "link": "https://www.wine-searcher.com/m/2021/06/ex-porn-stars-wine-war-on-israel",
+          "publishedOn": "2021-06-06T03:30:43.000Z",
+          "wordCount": null,
+          "title": "Ex-Porn Star's Wine War on Israel"
+        },
+        {
           "id": "https://mp.weixin.qq.com/s/q0Gqc2Z84DIiNOjHKxTKuQ",
           "author": null,
           "description": "<p>&#21407;&#21019;  FoodWine&#21507;&#22909;&#21917;&#22909;    FoodWine&#21507;&#22909;&#21917;...</p>",
@@ -1453,15 +1534,6 @@
           "publishedOn": "2021-05-09T03:19:42.000Z",
           "wordCount": null,
           "title": "Chile Seduces China and a Winemaker Romance"
-        },
-        {
-          "id": "https://www.wine-searcher.com/m/2021/05/the-remarkable-rise-of-chateau-valandraud",
-          "author": null,
-          "description": "&copy; Ch&acirc;teau Valandraud\r\n| The pretty but unassuming estate of Ch&acirc;teau Valandraud managed to irrevocably change the formerly stiff world of Bordeaux.\nCh&acirc;teau Valandraud started with very little, but today it is one of Saint-&Eacute;milion's hottest properties.\n\r\nShaking up the world of Bordeaux is no mean feat, and when Jean-Luc Thunevin broke with tradition he helped pioneer a wine upheaval.\nAlthough maverick winemaker Thunevin and his partner Murielle Andraud founded Ch&acirc;teau Vala…",
-          "link": "https://www.wine-searcher.com/m/2021/05/the-remarkable-rise-of-chateau-valandraud",
-          "publishedOn": "2021-05-08T03:11:37.000Z",
-          "wordCount": null,
-          "title": "The Remarkable Rise of Château Valandraud"
         }
       ]
     }
