@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T00:41:01.621Z</updated>
+    <updated>2021-06-08T00:42:28.932Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Just Checking in on Frosé]]></title>
+        <id>https://punchdrink.com/articles/just-checking-in-frose-frozen-rose-wine-cocktail/</id>
+        <link href="https://punchdrink.com/articles/just-checking-in-frose-frozen-rose-wine-cocktail/"/>
+        <updated>2021-06-07T23:44:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>Bartender Justin Sievers remembers his inaugural summer of fros&eacute;. He offered a versio...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lush or Lean? Wine Pros on What their Favorite Tasting Terms Really Mean]]></title>
+        <id>https://www.winemag.com/2021/06/07/wine-term-description-guide/</id>
+        <link href="https://www.winemag.com/2021/06/07/wine-term-description-guide/"/>
+        <updated>2021-06-07T12:00:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>Illustration by Susanna HarrisonFully masked and several feet from guests&rsquo; tables, Gabriela Da...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The results and trends from the Global Pinot Noir Masters 2021]]></title>
+        <id>https://www.thedrinksbusiness.com/2021/06/the-results-and-trends-from-the-global-pinot-noir-masters-2021/</id>
+        <link href="https://www.thedrinksbusiness.com/2021/06/the-results-and-trends-from-the-global-pinot-noir-masters-2021/"/>
+        <updated>2021-06-07T11:14:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>We reveal all the medallists from this year&rsquo;s Global Pinot Noir Masters, and consider why the ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Napa Auction Brings in the Big Money]]></title>
+        <id>https://www.wine-searcher.com/m/2021/06/napa-auction-brings-in-the-big-money</id>
+        <link href="https://www.wine-searcher.com/m/2021/06/napa-auction-brings-in-the-big-money"/>
+        <updated>2021-06-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>&copy; Alexander Rubin/NVV
+| The auction returned. but many of the buyers were online rather than in...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merlot: rags and riches — Berry Bros. &amp; Rudd Wine Blog]]></title>
+        <id>https://blog.bbr.com/2021/06/04/merlot-rags-and-riches/</id>
+        <link href="https://blog.bbr.com/2021/06/04/merlot-rags-and-riches/"/>
+        <updated>2021-06-07T00:26:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>Photograph: C&eacute;cile Perrine Lhermitte, courtesy of Ch. Troplong Mondot It is widely grown aroun...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The evolving language of wine]]></title>
         <id>https://www.jancisrobinson.com/articles/evolving-language-wine</id>
@@ -2039,19 +2090,6 @@ The post The…]]></summary>
         <link href="https://www.ciencia-e-vinho.com/2021/05/09/characterization-of-wines-by-vineyard-region-and-vintage-by-combining-untargeted-1h-nmr-and-targeted-differential-sensing/"/>
         <updated>2021-05-09T15:46:50.000Z</updated>
         <summary type="html"><![CDATA[NMR spectroscopy was used to evaluate the chemical fingerprint of the wines, whereas the peptide-based sensing array is known to mimic the senses of taste, smell, and palate texture by characterizing the phenolic profile. Multivariate and univariate statistical analyses of the combined NMR and differential sensing array dataset classified the genetically identical Pinot noir wines on the basis of distinctive metabolic signatures associated with the region of growth, vineyard, and vintage year.]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chile Seduces China and a Winemaker Romance]]></title>
-        <id>https://www.wine-searcher.com/m/2021/05/chile-seduces-china-and-a-winemaker-romance</id>
-        <link href="https://www.wine-searcher.com/m/2021/05/chile-seduces-china-and-a-winemaker-romance"/>
-        <updated>2021-05-09T03:19:42.000Z</updated>
-        <summary type="html"><![CDATA[&copy; Concha y Toro
-| Australia's difficulties have become Chile's opportunities in China.
-
-While everyone gasped at space-aged P&eacute;trus going up for auction with an astronomical seven-figure estimate, and while the French wine industry mourned the loss of three influential winemakers and growers (Laurent Vaill&eacute; of Grange des P&egrave;res in Aniane, Pascal Clairet of Domaine de la Tournelle in Arbois, and Laurent Grimaud, a grower in Provence), here are some of this week's headlines you might…]]></summary>
         <author>
             <name>readwine</name>
         </author>
