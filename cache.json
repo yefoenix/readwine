@@ -6,6 +6,105 @@
       "siteUrl": "https://reader.yefoenix.ws",
       "articles": [
         {
+          "id": "https://www.vinous.com/articles/sicily-the-island-nation-jun-2021",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://www.vinous.com/articles/sicily-the-island-nation-jun-2021",
+          "publishedOn": "2021-06-14T23:41:57.000Z",
+          "wordCount": 3513,
+          "title": "Sicily: The Island Nation"
+        },
+        {
+          "id": "https://cluboenologique.com/story/why-etna-wine-is-so-hot-right-now/",
+          "author": null,
+          "description": "<p>It&rsquo;s perhaps telling that the first Etna wine to be sold through La P...</p>",
+          "link": "https://cluboenologique.com/story/why-etna-wine-is-so-hot-right-now/",
+          "publishedOn": "2021-06-14T23:05:59.000Z",
+          "wordCount": 1580,
+          "title": "Why Etna wine is so hot right now"
+        },
+        {
+          "id": "https://harpers.co.uk/news/fullstory.php/aid/28891/Tim_Atkin_MW:_Rioja_s_power_struggle.html",
+          "author": null,
+          "description": "<p>Home\n\n\nPeople &amp; Opinion\n\n\n\n\n        \n \n        \n\n\n\n  \n\n\n\n...</p>",
+          "link": "https://harpers.co.uk/news/fullstory.php/aid/28891/Tim_Atkin_MW:_Rioja_s_power_struggle.html",
+          "publishedOn": "2021-06-14T23:03:43.000Z",
+          "wordCount": 1172,
+          "title": "Tim Atkin MW: Rioja's power struggle - Harpers Wine Spirit Trade News"
+        },
+        {
+          "id": "https://daily.sevenfifty.com/why-the-wine-industry-is-betting-on-jermaine-stone/",
+          "author": null,
+          "description": "<p>While many in the wine industry have spent the past year searching for ways to broaden wine...</p>",
+          "link": "https://daily.sevenfifty.com/why-the-wine-industry-is-betting-on-jermaine-stone/",
+          "publishedOn": "2021-06-14T21:37:29.000Z",
+          "wordCount": 1943,
+          "title": "Why the Wine Industry Is Betting on Jermaine Stone"
+        },
+        {
+          "id": "https://www.winebusiness.com/news/?go=getArticle&dataId=246781",
+          "author": null,
+          "description": "<p>Over the years, Wine Business Monthly has run a number of articles about labels: from the paper stoc...</p>",
+          "link": "https://www.winebusiness.com/news/?go=getArticle&dataId=246781",
+          "publishedOn": "2021-06-14T21:33:17.000Z",
+          "wordCount": 2860,
+          "title": "Wine Label Text: How Much is Too Much--and Too Little"
+        },
+        {
+          "id": "https://www.winemag.com/2021/06/14/california-cannabis-appellation-guide/",
+          "author": null,
+          "description": "<p>In September, California Governor&nbsp;Gavin Newsom signed Senate B...</p>",
+          "link": "https://www.winemag.com/2021/06/14/california-cannabis-appellation-guide/",
+          "publishedOn": "2021-06-14T21:32:08.000Z",
+          "wordCount": 2455,
+          "title": "Winemakers Collaborate With Weed Growers on New Cannabis Appellation Systems"
+        },
+        {
+          "id": "https://www.winemag.com/2021/06/14/languedoc-roussillon-wine-guide/",
+          "author": null,
+          "description": "<p>The regions of Languedoc and Roussillon are coastal Mediterranean s...</p>",
+          "link": "https://www.winemag.com/2021/06/14/languedoc-roussillon-wine-guide/",
+          "publishedOn": "2021-06-14T21:31:16.000Z",
+          "wordCount": 2361,
+          "title": "A Guide to the Wines of Languedoc and Roussillon"
+        },
+        {
+          "id": "https://www.nytimes.com/2021/06/10/dining/drinks/wine-bottles-climate-change.html",
+          "author": null,
+          "description": "<p>The PourGlass bottles are the largest source of the wine industry&rsquo;s carbon footprint. Several ...</p>",
+          "link": "https://www.nytimes.com/2021/06/10/dining/drinks/wine-bottles-climate-change.html",
+          "publishedOn": "2021-06-14T21:18:27.000Z",
+          "wordCount": 1981,
+          "title": "The Message in a Reusable Wine Bottle: Combat Climate Change"
+        },
+        {
+          "id": "https://www.salemreporter.com/posts/4380/new-exhibit-tracks-the-once-unlikely-rise-of-oregons-wine-industry",
+          "author": null,
+          "description": "<p>&ldquo;Toasting the Mid-Willamette Valley Winemaking Heritage,&rdquo; a new exhibit at the Willa...</p>",
+          "link": "https://www.salemreporter.com/posts/4380/new-exhibit-tracks-the-once-unlikely-rise-of-oregons-wine-industry",
+          "publishedOn": "2021-06-14T21:16:51.000Z",
+          "wordCount": 1551,
+          "title": "New exhibit tracks the once unlikely rise of Oregon’s wine industry"
+        },
+        {
+          "id": "https://fermentationwineblog.com/2021/06/embracing-the-gift-of-drunkenness/",
+          "author": null,
+          "description": "<p>Edward Slingerland, writing in the Wall Street Journal and exploring the question of why human being...</p>",
+          "link": "https://fermentationwineblog.com/2021/06/embracing-the-gift-of-drunkenness/",
+          "publishedOn": "2021-06-14T15:07:11.000Z",
+          "wordCount": null,
+          "title": "Embracing the Gift of Drunkenness"
+        },
+        {
+          "id": "https://www.wine-searcher.com/m/2021/06/time-to-stop-cellaring-wine",
+          "author": null,
+          "description": "<p>Is it time to puncture wine's most sacred myths? Oliver Styles thinks so.\r\nWe need to stop cella...</p>",
+          "link": "https://www.wine-searcher.com/m/2021/06/time-to-stop-cellaring-wine",
+          "publishedOn": "2021-06-14T03:11:36.000Z",
+          "wordCount": null,
+          "title": "Time to Stop Cellaring Wine"
+        },
+        {
           "id": "https://winegourd.blogspot.com/2021/06/australia-and-new-zealand-wine.html",
           "author": null,
           "description": "<p>A couple of weeks ago I compared Australia versus New Zealand wine exports. One of the confounding f...</p>",
@@ -1255,33 +1354,6 @@
           "publishedOn": "2021-05-16T22:30:00.000Z",
           "wordCount": 1297,
           "title": "Where China get its wine, these days"
-        },
-        {
-          "id": "https://www.ciencia-e-vinho.com/2021/05/16/cultivable-microbial-ecology-of-vino-cotto-a-traditional-sweet-wine-produced-in-abruzzo-and-marche-regions/",
-          "author": null,
-          "description": "“Vino cotto” is a sweet wine, produced according to traditional procedures involving a prolonged fermentation of cooked grape must. It is inserted in the Italian list of traditional food products since 2000 and can be marketed as traditional agrifood product. See more about this wine in this week Science & Wine post.",
-          "link": "https://www.ciencia-e-vinho.com/2021/05/16/cultivable-microbial-ecology-of-vino-cotto-a-traditional-sweet-wine-produced-in-abruzzo-and-marche-regions/",
-          "publishedOn": "2021-05-16T09:28:07.000Z",
-          "wordCount": 992,
-          "title": "Cultivable microbial ecology of “vino cotto” a traditional sweet wine produced in Abruzzo and Marche regions"
-        },
-        {
-          "id": "https://www.wine-searcher.com/m/2021/05/lvmh-on-the-prowl-for-rose",
-          "author": null,
-          "description": "© Luxury Paris Tours\r\n| Provence is on the itinerary for big-name producers cashing in on the rosé boom.\nThis week's news roundup includes a horror story and Mr Schumer goes to wine country.\n\r\nLuxury groups still hunting for Provence rosé\nAs news surfaced earlier this week that George and Amal Clooney's acquisition of Provence mansion and vineyard Château Canadel had hit a bump following gazumping claims, one Provence insider told the press the pink power posse was only going to get bigger.\nJean-Louis Croqu…",
-          "link": "https://www.wine-searcher.com/m/2021/05/lvmh-on-the-prowl-for-rose",
-          "publishedOn": "2021-05-16T03:17:12.000Z",
-          "wordCount": null,
-          "title": "LVMH on the Prowl for Rosé"
-        },
-        {
-          "id": "https://www.washingtonpost.com/food/2021/05/14/online-wine-buying-trends/",
-          "author": null,
-          "description": "Pandemic restrictions are beginning to ease, and we may soon feel more comfortable returning to our favorite restaurants, wine bars, wineries and stores. But what about all those “pivots” we made last year — will any of those become permanent aspects of our everyday lives?\n\nOne new habit likely to stay with us: buying wine online. Some venture capital investors sure think so.\n\n\n\n“Covid was a great awakening,” both for consumers and wineries, says Paul Mabray, a longtime e-commerce advocate for wineries. “Ho…",
-          "link": "https://www.washingtonpost.com/food/2021/05/14/online-wine-buying-trends/",
-          "publishedOn": "2021-05-15T22:24:38.000Z",
-          "wordCount": 1176,
-          "title": "Buying wine online is another pandemic-era shift that’s poised to stick around"
         }
       ]
     }

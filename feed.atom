@@ -2,10 +2,139 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yefoenix.github.io/readwine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T00:21:12.923Z</updated>
+    <updated>2021-06-15T00:22:07.932Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://yefoenix.github.io/readwine/index.html"/>
     <link rel="self" href="https://yefoenix.github.io/readwine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sicily: The Island Nation]]></title>
+        <id>https://www.vinous.com/articles/sicily-the-island-nation-jun-2021</id>
+        <link href="https://www.vinous.com/articles/sicily-the-island-nation-jun-2021"/>
+        <updated>2021-06-14T23:41:57.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Etna wine is so hot right now]]></title>
+        <id>https://cluboenologique.com/story/why-etna-wine-is-so-hot-right-now/</id>
+        <link href="https://cluboenologique.com/story/why-etna-wine-is-so-hot-right-now/"/>
+        <updated>2021-06-14T23:05:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>It&rsquo;s perhaps telling that the first Etna wine to be sold through La P...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tim Atkin MW: Rioja's power struggle - Harpers Wine Spirit Trade News]]></title>
+        <id>https://harpers.co.uk/news/fullstory.php/aid/28891/Tim_Atkin_MW:_Rioja_s_power_struggle.html</id>
+        <link href="https://harpers.co.uk/news/fullstory.php/aid/28891/Tim_Atkin_MW:_Rioja_s_power_struggle.html"/>
+        <updated>2021-06-14T23:03:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>Home
+
+
+People &amp; Opinion
+
+
+
+
+        
+ 
+        
+
+
+
+  
+
+
+
+...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the Wine Industry Is Betting on Jermaine Stone]]></title>
+        <id>https://daily.sevenfifty.com/why-the-wine-industry-is-betting-on-jermaine-stone/</id>
+        <link href="https://daily.sevenfifty.com/why-the-wine-industry-is-betting-on-jermaine-stone/"/>
+        <updated>2021-06-14T21:37:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>While many in the wine industry have spent the past year searching for ways to broaden wine...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine Label Text: How Much is Too Much--and Too Little]]></title>
+        <id>https://www.winebusiness.com/news/?go=getArticle&amp;dataId=246781</id>
+        <link href="https://www.winebusiness.com/news/?go=getArticle&amp;dataId=246781"/>
+        <updated>2021-06-14T21:33:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>Over the years, Wine Business Monthly has run a number of articles about labels: from the paper stoc...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winemakers Collaborate With Weed Growers on New Cannabis Appellation Systems]]></title>
+        <id>https://www.winemag.com/2021/06/14/california-cannabis-appellation-guide/</id>
+        <link href="https://www.winemag.com/2021/06/14/california-cannabis-appellation-guide/"/>
+        <updated>2021-06-14T21:32:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>In September, California Governor&nbsp;Gavin Newsom signed Senate B...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to the Wines of Languedoc and Roussillon]]></title>
+        <id>https://www.winemag.com/2021/06/14/languedoc-roussillon-wine-guide/</id>
+        <link href="https://www.winemag.com/2021/06/14/languedoc-roussillon-wine-guide/"/>
+        <updated>2021-06-14T21:31:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>The regions of Languedoc and Roussillon are coastal Mediterranean s...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Message in a Reusable Wine Bottle: Combat Climate Change]]></title>
+        <id>https://www.nytimes.com/2021/06/10/dining/drinks/wine-bottles-climate-change.html</id>
+        <link href="https://www.nytimes.com/2021/06/10/dining/drinks/wine-bottles-climate-change.html"/>
+        <updated>2021-06-14T21:18:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>The PourGlass bottles are the largest source of the wine industry&rsquo;s carbon footprint. Several ...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New exhibit tracks the once unlikely rise of Oregon’s wine industry]]></title>
+        <id>https://www.salemreporter.com/posts/4380/new-exhibit-tracks-the-once-unlikely-rise-of-oregons-wine-industry</id>
+        <link href="https://www.salemreporter.com/posts/4380/new-exhibit-tracks-the-once-unlikely-rise-of-oregons-wine-industry"/>
+        <updated>2021-06-14T21:16:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>&ldquo;Toasting the Mid-Willamette Valley Winemaking Heritage,&rdquo; a new exhibit at the Willa...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing the Gift of Drunkenness]]></title>
+        <id>https://fermentationwineblog.com/2021/06/embracing-the-gift-of-drunkenness/</id>
+        <link href="https://fermentationwineblog.com/2021/06/embracing-the-gift-of-drunkenness/"/>
+        <updated>2021-06-14T15:07:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>Edward Slingerland, writing in the Wall Street Journal and exploring the question of why human being...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time to Stop Cellaring Wine]]></title>
+        <id>https://www.wine-searcher.com/m/2021/06/time-to-stop-cellaring-wine</id>
+        <link href="https://www.wine-searcher.com/m/2021/06/time-to-stop-cellaring-wine"/>
+        <updated>2021-06-14T03:11:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>Is it time to puncture wine's most sacred myths? Oliver Styles thinks so.
+We need to stop cella...</p>]]></summary>
+        <author>
+            <name>readwine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australia and New Zealand wine comparisons]]></title>
         <id>https://winegourd.blogspot.com/2021/06/australia-and-new-zealand-wine.html</id>
@@ -1568,48 +1697,6 @@ In one sense, China is no different to other Asian countries, in that wine is in
 
 
 Bottled …]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cultivable microbial ecology of “vino cotto” a traditional sweet wine produced in Abruzzo and Marche regions]]></title>
-        <id>https://www.ciencia-e-vinho.com/2021/05/16/cultivable-microbial-ecology-of-vino-cotto-a-traditional-sweet-wine-produced-in-abruzzo-and-marche-regions/</id>
-        <link href="https://www.ciencia-e-vinho.com/2021/05/16/cultivable-microbial-ecology-of-vino-cotto-a-traditional-sweet-wine-produced-in-abruzzo-and-marche-regions/"/>
-        <updated>2021-05-16T09:28:07.000Z</updated>
-        <summary type="html"><![CDATA[“Vino cotto” is a sweet wine, produced according to traditional procedures involving a prolonged fermentation of cooked grape must. It is inserted in the Italian list of traditional food products since 2000 and can be marketed as traditional agrifood product. See more about this wine in this week Science & Wine post.]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LVMH on the Prowl for Rosé]]></title>
-        <id>https://www.wine-searcher.com/m/2021/05/lvmh-on-the-prowl-for-rose</id>
-        <link href="https://www.wine-searcher.com/m/2021/05/lvmh-on-the-prowl-for-rose"/>
-        <updated>2021-05-16T03:17:12.000Z</updated>
-        <summary type="html"><![CDATA[© Luxury Paris Tours
-| Provence is on the itinerary for big-name producers cashing in on the rosé boom.
-This week's news roundup includes a horror story and Mr Schumer goes to wine country.
-
-Luxury groups still hunting for Provence rosé
-As news surfaced earlier this week that George and Amal Clooney's acquisition of Provence mansion and vineyard Château Canadel had hit a bump following gazumping claims, one Provence insider told the press the pink power posse was only going to get bigger.
-Jean-Louis Croqu…]]></summary>
-        <author>
-            <name>readwine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buying wine online is another pandemic-era shift that’s poised to stick around]]></title>
-        <id>https://www.washingtonpost.com/food/2021/05/14/online-wine-buying-trends/</id>
-        <link href="https://www.washingtonpost.com/food/2021/05/14/online-wine-buying-trends/"/>
-        <updated>2021-05-15T22:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Pandemic restrictions are beginning to ease, and we may soon feel more comfortable returning to our favorite restaurants, wine bars, wineries and stores. But what about all those “pivots” we made last year — will any of those become permanent aspects of our everyday lives?
-
-One new habit likely to stay with us: buying wine online. Some venture capital investors sure think so.
-
-
-
-“Covid was a great awakening,” both for consumers and wineries, says Paul Mabray, a longtime e-commerce advocate for wineries. “Ho…]]></summary>
         <author>
             <name>readwine</name>
         </author>
